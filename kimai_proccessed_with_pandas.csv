@@ -1,0 +1,1282 @@
+Entrada,Salida,Customer,Project,Activity,Description,Comentario,socio,Duration
+2017-08-04 16:05:00,2017-08-04 19:20:00,Aptage,Aptage,Operativo,,,nespino,0 days 03:15:00.000000000
+2017-08-04 15:30:00,2017-08-04 16:00:00,Bitson,Bitson,Capacitación,,,ddebonis,0 days 00:30:00.000000000
+2017-08-04 15:30:00,2017-08-04 17:15:00,Bitson,Bitson,Gestión Interna,Configuración i3 con @ddebonis.,,lcolombo,0 days 01:45:00.000000000
+2017-08-04 14:30:00,2017-08-04 15:30:00,Bitson,Bitson,Gestión Interna,Reunion manos a la obra,,ddebonis,0 days 01:00:00.000000000
+2017-08-04 14:30:00,2017-08-04 15:30:00,Bitson,Bitson,Gestión Interna,Firma convenio MDS.,,lcolombo,0 days 01:00:00.000000000
+2017-08-04 13:45:00,2017-08-04 14:30:00,Bitson,Bitson,Gestión Interna,"Organización tareas Banfield, Comunicación y Redes sociales.",,lcolombo,0 days 00:45:00.000000000
+2017-08-04 13:45:00,2017-08-04 15:45:00,Bitson,Bitson,Gestión Comercial,,,hbrunacci,0 days 02:00:00.000000000
+2017-08-04 13:41:00,2017-08-04 15:47:00,Aptage,Aptage,Operativo,,,nespino,0 days 02:06:00.000000000
+2017-08-04 13:30:00,2017-08-04 14:30:00,Bitson,Bitson,Almuerzo,,,ddebonis,0 days 01:00:00.000000000
+2017-08-04 10:45:00,2017-08-04 11:25:00,Bitson,Bitson,Gestión Interna,Organización comunicación con @cuberti. ,,lcolombo,0 days 00:40:00.000000000
+2017-08-04 10:30:00,2017-08-04 17:30:00,Bitson,Bitson,Operativo,,,abrunacci,0 days 07:00:00.000000000
+2017-08-04 10:00:00,2017-08-04 14:15:00,Bitson,Bitson,Gestión Interna,,,cuberti,0 days 04:15:00.000000000
+2017-08-04 08:00:00,2017-08-04 13:30:00,Bitson,Bitson,Capacitación,,,ddebonis,0 days 05:30:00.000000000
+2017-08-03 15:37:00,2017-08-03 18:19:00,Aptage,Aptage,Operativo,,,nespino,0 days 02:42:00.000000000
+2017-08-03 15:05:00,2017-08-03 15:37:00,Bitson,Bitson,Gestión Interna,,,nespino,0 days 00:32:00.000000000
+2017-08-03 15:00:00,2017-08-03 16:30:00,Bitson,Bitson,Capacitación,,,ddebonis,0 days 01:30:00.000000000
+2017-08-03 14:00:00,2017-08-03 15:00:00,Bitson,Bitson,Desarrollo,Geminis,,ddebonis,0 days 01:00:00.000000000
+2017-08-03 14:00:00,2017-08-03 18:00:00,Bitson,Bitson,Intercooperativo,Reunión en Devecoop por Kairós y estrategias comerciales.,,lcolombo,0 days 04:00:00.000000000
+2017-08-03 13:00:00,2017-08-03 14:00:00,Bitson,Bitson,Almuerzo,,,ddebonis,0 days 01:00:00.000000000
+2017-08-03 10:50:00,2017-08-03 15:00:00,Bitson,Bitson,Gestión Interna,,,cuberti,0 days 04:10:00.000000000
+2017-08-03 10:15:00,2017-08-03 17:01:00,Bitson,Bitson,Capacitación,"html(javaScript)
+cuando me canso paso a:css 
+cuando me canso intento instalar paquetes OBVIAMENTE con la terminal!!! 
+:)",,acuervo,0 days 06:46:00.000000000
+2017-08-03 10:00:00,2017-08-03 13:00:00,Bitson,Bitson,Capacitación,,,ddebonis,0 days 03:00:00.000000000
+2017-08-03 10:00:00,2017-08-03 18:00:00,Bitson,Bitson,Operativo,"SCA DASHBOARD
+Reunion Bitson
+SCA DASHBOARD",,abrunacci,0 days 08:00:00.000000000
+2017-08-03 10:00:00,2017-08-03 15:45:00,Bitson,Bitson,Gestión Comercial,reunion devecoop,,hbrunacci,0 days 05:45:00.000000000
+2017-08-02 19:48:00,2017-08-02 20:25:00,Aptage,Aptage,Operativo,,,nespino,0 days 00:37:00.000000000
+2017-08-02 16:00:00,2017-08-02 17:00:00,Bitson,Bitson,Capacitación,,,ddebonis,0 days 01:00:00.000000000
+2017-08-02 15:51:00,2017-08-02 17:40:00,Aptage,Aptage,Operativo,,,nespino,0 days 01:49:00.000000000
+2017-08-02 15:45:00,2017-08-02 18:00:00,Bitson,Bitson,Orden/Limpieza,Organización espacio de trabajo @acuervo.,,lcolombo,0 days 02:15:00.000000000
+2017-08-02 14:30:00,2017-08-02 16:00:00,Bitson,Bitson,Gestión Interna,Reunion semanal,,ddebonis,0 days 01:30:00.000000000
+2017-08-02 14:10:00,2017-08-02 15:45:00,Bitson,Bitson,Reunion,Charla sobre tareas y responsabilidades de cada uno.,,lcolombo,0 days 01:35:00.000000000
+2017-08-02 14:06:00,2017-08-02 15:51:00,Bitson,Bitson,Gestión Interna,,,nespino,0 days 01:45:00.000000000
+2017-08-02 13:40:00,2017-08-02 14:10:00,Bitson,Bitson,Orden/Limpieza,Orden estantería,,lcolombo,0 days 00:30:00.000000000
+2017-08-02 13:30:00,2017-08-02 14:30:00,Bitson,Bitson,Almuerzo,,,ddebonis,0 days 01:00:00.000000000
+2017-08-02 12:00:00,2017-08-02 13:30:00,Bitson,Bitson,Operativo,Buscar servidor de ECSA a microglobal,,ddebonis,0 days 01:30:00.000000000
+2017-08-02 11:15:00,2017-08-02 15:00:00,Bitson,Bitson,Gestión Interna,,,cuberti,0 days 03:45:00.000000000
+2017-08-02 11:00:00,2017-08-02 11:45:00,Bitson,Bitson,Gestión Interna,Mail a cooperativa por RO. Asistencia instalación TeamViewer @abrunacci.,,lcolombo,0 days 00:45:00.000000000
+2017-08-02 10:30:00,2017-08-02 12:00:00,Bitson,Bitson,Desarrollo,Geminis,,ddebonis,0 days 01:30:00.000000000
+2017-08-02 10:15:00,2017-08-02 17:33:00,Bitson,Bitson,Capacitación,html/css ,,acuervo,0 days 07:18:00.000000000
+2017-08-02 10:00:00,2017-08-02 11:00:00,ECSA,Sigas SCA,Operativo,Revisión importador La Renga.,,lcolombo,0 days 01:00:00.000000000
+2017-08-02 10:00:00,2017-08-02 18:30:00,Bitson,Bitson,Operativo,"BEAGLE
+Reunion Bitson
+SCA",,abrunacci,0 days 08:30:00.000000000
+2017-08-02 10:00:00,2017-08-02 15:45:00,Bitson,Bitson,Gestión Comercial,,,hbrunacci,0 days 05:45:00.000000000
+2017-08-01 17:15:00,2017-08-01 17:45:00,ECSA,Beagle SCA,Operativo,Revisión de código con @abrunacci.,,lcolombo,0 days 00:30:00.000000000
+2017-08-01 16:00:00,2017-08-01 17:30:00,Bitson,Bitson,Gestión Interna,Reunion Geminis,,ddebonis,0 days 01:30:00.000000000
+2017-08-01 16:00:00,2017-08-01 17:15:00,Bitson,Bitson,Reunion,Reunión con GEMINIS,,lcolombo,0 days 01:15:00.000000000
+2017-08-01 15:35:00,2017-08-01 16:00:00,ECSA,Beagle SCA,Operativo,Setup environment con @abrunacci,,lcolombo,0 days 00:25:00.000000000
+2017-08-01 15:30:00,2017-08-01 15:35:00,ECSA,Servidores,Presupuesto,Compra Lenovo TS-150 en microglobal. @cuberti gestión de pago.,,lcolombo,0 days 00:05:00.000000000
+2017-08-01 15:15:00,2017-08-01 15:30:00,Bitson,Bitson,Gestión Interna,Pago de servidores OVH con @cuberti.,,lcolombo,0 days 00:15:00.000000000
+2017-08-01 15:00:00,2017-08-01 16:00:00,Bitson,Bitson,Capacitación,,,ddebonis,0 days 01:00:00.000000000
+2017-08-01 15:00:00,2017-08-01 15:15:00,SanyoJafep,Magento SanyoJafep,Operativo,Actualización certificados SSL.,,lcolombo,0 days 00:15:00.000000000
+2017-08-01 14:05:00,2017-08-01 17:06:00,Aptage,Aptage,Operativo,,,nespino,0 days 03:01:00.000000000
+2017-08-01 14:00:00,2017-08-01 15:00:00,Bitson,Bitson,Gestión Interna,Reunion con Pablo,,ddebonis,0 days 01:00:00.000000000
+2017-08-01 13:45:00,2017-08-01 15:00:00,Bitson,Bitson,Gestión Interna,Organización con @cuberti. Facturación mensual. Pagos y proyección financiera. Reunión con @pablo.godoy.,,lcolombo,0 days 01:15:00.000000000
+2017-08-01 13:30:00,2017-08-01 14:05:00,Bitson,Bitson,Capacitación,AngularAnimations,,nespino,0 days 00:35:00.000000000
+2017-08-01 13:15:00,2017-08-01 17:48:00,Bitson,Bitson,Gestión Interna,,,cuberti,0 days 04:33:00.000000000
+2017-08-01 13:00:00,2017-08-01 14:00:00,Bitson,Bitson,Capacitación,,,ddebonis,0 days 01:00:00.000000000
+2017-08-01 12:00:00,2017-08-01 13:00:00,Bitson,Bitson,Almuerzo,,,ddebonis,0 days 01:00:00.000000000
+2017-08-01 10:00:00,2017-08-01 16:00:00,Bitson,Bitson,Capacitación,html / css ,,acuervo,0 days 06:00:00.000000000
+2017-08-01 10:00:00,2017-08-01 18:30:00,Bitson,Bitson,Operativo,"Beagle
+SCA
+REunion Pablo
+Reunion Geminis",,abrunacci,0 days 08:30:00.000000000
+2017-08-01 08:46:00,2017-08-01 09:46:00,Bitson,Bitson,Gestión Interna,,,cuberti,0 days 01:00:00.000000000
+2017-08-01 08:00:00,2017-08-01 12:00:00,Bitson,Bitson,Capacitación,,,ddebonis,0 days 04:00:00.000000000
+2017-07-31 19:06:00,2017-07-31 20:01:00,Aptage,Aptage,Operativo,,,nespino,0 days 00:55:00.000000000
+2017-07-31 17:25:00,2017-07-31 18:00:00,ECSA,Sigas SCA,Operativo,Instalación en modo producción SIGAS SCA. Supervisor + Nginx.,,lcolombo,0 days 00:35:00.000000000
+2017-07-31 17:00:00,2017-07-31 17:25:00,Bitson,Bitson,Gestión Interna,Alta de mail acuervo@bitson.com.ar. Alta en la lista de trabajos. Alta en owncloud.,,lcolombo,0 days 00:25:00.000000000
+2017-07-31 16:50:00,2017-07-31 18:49:00,Aptage,Aptage,Operativo,,,nespino,0 days 01:59:00.000000000
+2017-07-31 16:30:00,2017-07-31 17:00:00,ECSA,Sigas SCA,Operativo,Update en CONTRIBUTING.md,,lcolombo,0 days 00:30:00.000000000
+2017-07-31 15:20:00,2017-07-31 16:30:00,ECSA,Sigas SCA,Operativo,Revisión instalación desde 0 en VAGRANT. Fix in backend.py,,lcolombo,0 days 01:10:00.000000000
+2017-07-31 14:38:00,2017-07-31 15:45:00,Aptage,Aptage,Operativo,,,nespino,0 days 01:07:00.000000000
+2017-07-31 14:20:00,2017-07-31 15:20:00,Bitson,Bitson,Operativo,Actualización máquinas @hbrunacci y @cuberti.,,lcolombo,0 days 01:00:00.000000000
+2017-07-31 14:00:00,2017-07-31 15:30:00,ECSA,Sigas SCA,Desarrollo,Failover,,ddebonis,0 days 01:30:00.000000000
+2017-07-31 13:45:00,2017-07-31 14:20:00,Bitson,Bitson,Gestión Interna,Organización semanal con @cuberti. Control contable y financiero.,,lcolombo,0 days 00:35:00.000000000
+2017-07-31 13:00:00,2017-07-31 14:00:00,Bitson,Bitson,Almuerzo,,,ddebonis,0 days 01:00:00.000000000
+2017-07-31 12:00:00,2017-07-31 16:00:00,Bitson,Bitson,Capacitación,,,acuervo,0 days 04:00:00.000000000
+2017-07-31 10:00:00,2017-07-31 11:52:00,Bitson,Bitson,Capacitación,instalacion so,,acuervo,0 days 01:52:00.000000000
+2017-07-31 09:40:00,2017-07-31 14:20:00,Bitson,Bitson,Gestión Interna,,,cuberti,0 days 04:40:00.000000000
+2017-07-31 09:00:00,2017-07-31 11:00:00,Bitson,Bitson,Gestión Interna,Organización interna con @cuberti y @ddebonis. Respuesta mails. Tareas @acuervo.,,lcolombo,0 days 02:00:00.000000000
+2017-07-31 08:00:00,2017-07-31 13:00:00,ECSA,Sigas SCA,Presupuesto,Failover frontend,,ddebonis,0 days 05:00:00.000000000
+2017-07-29 21:00:00,2017-07-29 22:00:00,ECSA,Sigas SCA,Soporte Remoto,,,nespino,0 days 01:00:00.000000000
+2017-07-28 23:30:00,2017-07-29 01:00:00,ECSA,Sigas SCA,Operativo,Fix Dashboard totales.,,lcolombo,0 days 01:30:00.000000000
+2017-07-28 17:30:00,2017-07-28 18:30:00,ECSA,Sigas SCA,Instalación,Revisión de instalación desde 0.,,lcolombo,0 days 01:00:00.000000000
+2017-07-28 15:00:00,2017-07-28 17:00:00,Bitson,Bitson,Intercooperativo,FIT,,lcolombo,0 days 02:00:00.000000000
+2017-07-28 14:00:00,2017-07-28 15:00:00,ECSA,Sigas SCA,Operativo,Fix en Dashboard totales para @hbrunacci en Huracán.,,lcolombo,0 days 01:00:00.000000000
+2017-07-28 13:00:00,2017-07-28 16:00:00,Bitson,Cromi,Testing,,,ddebonis,0 days 03:00:00.000000000
+2017-07-28 12:30:00,2017-07-28 14:00:00,Bitson,Bitson,Operativo,Creando el paquete flask_btsn_auth_api,,lcolombo,0 days 01:30:00.000000000
+2017-07-28 12:00:00,2017-07-28 13:00:00,Bitson,Bitson,Almuerzo,,,ddebonis,0 days 01:00:00.000000000
+2017-07-28 11:30:00,2017-07-28 11:30:00,Bitson,Bitson,Operativo,Creando el paquete flask_btsn_auth_api,,lcolombo,0 days 00:00:00.000000000
+2017-07-28 11:20:00,2017-07-28 13:30:00,Bitson,Bitson,Gestión Interna,,,cuberti,0 days 02:10:00.000000000
+2017-07-28 11:00:00,2017-07-28 18:45:00,Bitson,Bitson,Operativo,,,hbrunacci,0 days 07:45:00.000000000
+2017-07-28 10:00:00,2017-07-28 12:00:00,Bitson,Bitson,Desarrollo,,,ddebonis,0 days 02:00:00.000000000
+2017-07-28 08:00:00,2017-07-28 12:30:00,Bitson,Bitson,Operativo,,,abrunacci,0 days 04:30:00.000000000
+2017-07-27 17:23:00,2017-07-27 18:20:00,Aptage,Aptage,Operativo,,,nespino,0 days 00:57:00.000000000
+2017-07-27 16:00:00,2017-07-27 17:30:00,ECSA,Sigas SCA,Presupuesto,Failover flow con @abrunacci y @ddebonis.,,lcolombo,0 days 01:30:00.000000000
+2017-07-27 15:00:00,2017-07-27 17:30:00,ECSA,Sigas SCA,Reunion,Failover,,ddebonis,0 days 02:30:00.000000000
+2017-07-27 14:30:00,2017-07-27 16:00:00,Bitson,Bitson,Operativo,Levantando vieja máquina de cise. http://old.cise.bitson.com.ar,,lcolombo,0 days 01:30:00.000000000
+2017-07-27 14:15:00,2017-07-27 17:10:00,Aptage,Aptage,Operativo,,,nespino,0 days 02:55:00.000000000
+2017-07-27 14:00:00,2017-07-27 18:30:00,Bitson,Bitson,Gestión Comercial,,,hbrunacci,0 days 04:30:00.000000000
+2017-07-27 13:30:00,2017-07-27 15:00:00,Bitson,Bitson,Capacitación,,,ddebonis,0 days 01:30:00.000000000
+2017-07-27 12:30:00,2017-07-27 13:30:00,Bitson,Bitson,Almuerzo,,,ddebonis,0 days 01:00:00.000000000
+2017-07-27 11:00:00,2017-07-27 11:30:00,Bitson,Bitson,Operativo,Subiendo paquetes a PyPI,,lcolombo,0 days 00:30:00.000000000
+2017-07-27 10:00:00,2017-07-27 18:30:00,Bitson,Bitson,Operativo,,,abrunacci,0 days 08:30:00.000000000
+2017-07-27 08:00:00,2017-07-27 12:30:00,Bitson,Bitson,Capacitación,,,ddebonis,0 days 04:30:00.000000000
+2017-07-26 23:00:00,2017-07-27 01:30:00,Bitson,Bitson,Gestión Comercial,Instalación de moodle para CISE. 2 intentos fallidos con docker. 1 intento exitoso con el docker compose de bitnami.,,lcolombo,0 days 02:30:00.000000000
+2017-07-26 20:25:00,2017-07-26 21:39:00,Aptage,Aptage,Operativo,,,nespino,0 days 01:14:00.000000000
+2017-07-26 18:00:00,2017-07-26 20:00:00,Bitson,Bitson,Operativo,Alta PowerDNS con PostgreSQL y conexión como SLAVE.,,lcolombo,0 days 02:00:00.000000000
+2017-07-26 17:30:00,2017-07-26 18:00:00,Bitson,Bitson,Operativo,Troubleshooting CISE con @abrunacci.,,lcolombo,0 days 00:30:00.000000000
+2017-07-26 17:00:00,2017-07-26 17:30:00,Bitson,Bitson,Gestión Interna,Charla con @hbrunacci x Tótem y cobro de Devecoop. Estrategia Tótem (pasos a seguir). Revisión estrategia comercial de Silver Rabbit.,,lcolombo,0 days 00:30:00.000000000
+2017-07-26 16:50:00,2017-07-26 19:30:00,Aptage,Aptage,Operativo,,,nespino,0 days 02:40:00.000000000
+2017-07-26 15:30:00,2017-07-26 17:00:00,Bitson,Bitson,Gestión Interna,Reunion con Tole,,ddebonis,0 days 01:30:00.000000000
+2017-07-26 15:30:00,2017-07-26 17:00:00,Bitson,Bitson,Reunion,con Tole.,,lcolombo,0 days 01:30:00.000000000
+2017-07-26 15:18:00,2017-07-26 16:50:00,Bitson,Bitson,Capacitación,,,nespino,0 days 01:32:00.000000000
+2017-07-26 15:00:00,2017-07-26 15:30:00,Bitson,Bitson,Gestión Interna,Organización interna: consultas @abrunacci x Banfield. @hbrunacci implementación Dashboard.,,lcolombo,0 days 00:30:00.000000000
+2017-07-26 14:45:00,2017-07-26 15:00:00,Bitson,Bitson,Gestión Interna,Setup oficina.,,lcolombo,0 days 00:15:00.000000000
+2017-07-26 14:00:00,2017-07-26 15:30:00,Bitson,Bitson,Desarrollo,Refactor SCA,,ddebonis,0 days 01:30:00.000000000
+2017-07-26 13:30:00,2017-07-26 16:40:00,Bitson,Bitson,Gestión Comercial,,,hbrunacci,0 days 03:10:00.000000000
+2017-07-26 13:00:00,2017-07-26 14:00:00,Bitson,Bitson,Almuerzo,,,ddebonis,0 days 01:00:00.000000000
+2017-07-26 13:00:00,2017-07-26 15:18:00,Aptage,Aptage,Operativo,,,nespino,0 days 02:18:00.000000000
+2017-07-26 13:00:00,2017-07-26 18:30:00,Bitson,Bitson,Operativo,,,abrunacci,0 days 05:30:00.000000000
+2017-07-26 12:15:00,2017-07-26 12:45:00,Bitson,Bitson,Operativo,Subiendo paquete con PyPI,,lcolombo,0 days 00:30:00.000000000
+2017-07-26 11:30:00,2017-07-26 12:15:00,Bitson,Bitson,Operativo,Arreglando el SGS en la VM de prueba. (Configuración de Nginx con PHP),,lcolombo,0 days 00:45:00.000000000
+2017-07-26 09:00:00,2017-07-26 13:00:00,ECSA,Sigas SGS,Testing,Pruebas de error de nueva implementacion en nueva ip,,ddebonis,0 days 04:00:00.000000000
+2017-07-25 22:00:00,2017-07-25 23:30:00,Bitson,Bitson,Operativo,Configuración de PowerDNS en ns3.bitson.com.ar,,lcolombo,0 days 01:30:00.000000000
+2017-07-25 18:00:00,2017-07-25 20:00:00,Bitson,Bitson,Operativo,Instalación de PowerDNS con PostgreSQL fallida. Instalación de PowerDNS con MySQL y Front PowerDNSAdmin.,,lcolombo,0 days 02:00:00.000000000
+2017-07-25 17:30:00,2017-07-25 18:00:00,Bitson,Bitson,Operativo,Intentando levantar el SGS Front en Vagrant.,,lcolombo,0 days 00:30:00.000000000
+2017-07-25 16:30:00,2017-07-25 17:30:00,Bitson,Bitson,Operativo,Levantando server en Digital Ocean: ns3 == black-fox,,lcolombo,0 days 01:00:00.000000000
+2017-07-25 15:15:00,2017-07-25 16:15:00,Bitson,Bitson,Gestión Comercial,,,hbrunacci,0 days 01:00:00.000000000
+2017-07-25 14:30:00,2017-07-25 16:30:00,Bitson,Bitson,Gestión Interna,Organización con @cuberti. Soporte instalación nueva SGS & SCA a @abrunacci.,,lcolombo,0 days 02:00:00.000000000
+2017-07-25 14:00:00,2017-07-25 17:00:00,Bitson,Bitson,Desarrollo,Refactor SCA,,ddebonis,0 days 03:00:00.000000000
+2017-07-25 14:00:00,2017-07-25 17:00:00,Bitson,Bitson,Gestión Interna,,,cuberti,0 days 03:00:00.000000000
+2017-07-25 13:36:00,2017-07-25 17:35:00,Aptage,Aptage,Operativo,,,nespino,0 days 03:59:00.000000000
+2017-07-25 13:00:00,2017-07-25 14:00:00,ECSA,Sigas SCA,Presupuesto,Nuevo dashboard,,ddebonis,0 days 01:00:00.000000000
+2017-07-25 12:00:00,2017-07-25 13:00:00,Bitson,Bitson,Almuerzo,,,ddebonis,0 days 01:00:00.000000000
+2017-07-25 10:00:00,2017-07-25 12:00:00,ECSA,Sigas SCA,Desarrollo,Nuevo dashboard,,ddebonis,0 days 02:00:00.000000000
+2017-07-25 10:00:00,2017-07-25 18:13:00,Bitson,Bitson,Operativo,,,abrunacci,0 days 08:13:00.000000000
+2017-07-25 09:15:00,2017-07-25 10:15:00,Bitson,Bitson,Gestión Comercial,,,hbrunacci,0 days 01:00:00.000000000
+2017-07-24 23:00:00,2017-07-25 01:00:00,Bitson,Bitson,Operativo,,,abrunacci,0 days 02:00:00.000000000
+2017-07-24 19:00:00,2017-07-24 19:30:00,Bitson,Bitson,Gestión Interna,Capacitación @acuervo.,,lcolombo,0 days 00:30:00.000000000
+2017-07-24 18:05:00,2017-07-24 19:00:00,Bitson,Bitson,Gestión Interna,Revisión mails @cuberti. Verificación cobro de Betterez. Ayuda a @abrunacci con Vagrant y VirtualBox,,lcolombo,0 days 00:55:00.000000000
+2017-07-24 17:50:00,2017-07-24 18:05:00,SanyoJafep,Magento SanyoJafep,Operativo,Actualización de configuración de SMTP. Probando con puerto 587 y funcionó.,,lcolombo,0 days 00:15:00.000000000
+2017-07-24 17:40:00,2017-07-24 17:50:00,ECSA,Servidores,Operativo,Problema en La Rural con el Servidor de San Luis. Assertion Error.... sin solución.,,lcolombo,0 days 00:10:00.000000000
+2017-07-24 17:26:00,2017-07-24 20:02:00,Aptage,Aptage,Operativo,,,nespino,0 days 02:36:00.000000000
+2017-07-24 17:10:00,2017-07-24 17:40:00,SanyoJafep,Magento SanyoJafep,Operativo,Intento de conexión SMTP.,,lcolombo,0 days 00:30:00.000000000
+2017-07-24 17:00:00,2017-07-24 17:10:00,Bitson,Bitson,Gestión Interna,Capacitación @acuervo.,,lcolombo,0 days 00:10:00.000000000
+2017-07-24 16:00:00,2017-07-24 17:00:00,Bitson,Bitson,Reunion,Reunión semanal.,,lcolombo,0 days 01:00:00.000000000
+2017-07-24 15:00:00,2017-07-24 16:00:00,Bitson,Bitson,Reunion,Charla con Neto Licursi de Cambá.,,lcolombo,0 days 01:00:00.000000000
+2017-07-24 14:30:00,2017-07-24 17:00:00,Bitson,Bitson,Gestión Interna,"Reunion semanal, reunion con Neto que no hicimos nada.",,ddebonis,0 days 02:30:00.000000000
+2017-07-24 14:30:00,2017-07-24 15:00:00,Bitson,Bitson,Reunion,Reunión semanal.,,lcolombo,0 days 00:30:00.000000000
+2017-07-24 14:30:00,2017-07-24 17:00:00,Bitson,Bitson,Gestión Interna,,,nespino,0 days 02:30:00.000000000
+2017-07-24 14:30:00,2017-07-24 19:30:00,Bitson,Bitson,Operativo,,,abrunacci,0 days 05:00:00.000000000
+2017-07-24 14:00:00,2017-07-24 14:30:00,Bitson,Bitson,Gestión Interna,Cálculo de retiros semanales.,,lcolombo,0 days 00:30:00.000000000
+2017-07-24 13:30:00,2017-07-24 18:30:00,Bitson,Bitson,Gestión Comercial,,,hbrunacci,0 days 05:00:00.000000000
+2017-07-24 13:00:00,2017-07-24 14:00:00,Bitson,Bitson,Almuerzo,,,ddebonis,0 days 01:00:00.000000000
+2017-07-24 10:00:00,2017-07-24 13:00:00,Bitson,Bitson,Capacitación,GraphQL,,ddebonis,0 days 03:00:00.000000000
+2017-07-24 08:00:00,2017-07-24 10:00:00,ECSA,Sigas SCA,Testing,"SCA - pruebas de dashboard, errores",,ddebonis,0 days 02:00:00.000000000
+2017-07-23 21:00:00,2017-07-23 23:00:00,ECSA,Sigas SCA,Instalación,"implementacion de Dashboard
+Verificación de problemas.",,hbrunacci,0 days 02:00:00.000000000
+2017-07-21 18:34:00,2017-07-21 21:18:00,Aptage,Aptage,Operativo,,,nespino,0 days 02:44:00.000000000
+2017-07-21 18:20:00,2017-07-21 20:00:00,Bitson,Bitson,Operativo,,,abrunacci,0 days 01:40:00.000000000
+2017-07-21 17:45:00,2017-07-21 19:15:00,Bitson,Kairos,Operativo,Actualización de Wiki de instalación de Tótem.,,lcolombo,0 days 01:30:00.000000000
+2017-07-21 17:07:00,2017-07-21 18:09:00,Aptage,Aptage,Operativo,,,nespino,0 days 01:02:00.000000000
+2017-07-21 16:55:00,2017-07-21 17:45:00,Bitson,Bitson,Operativo,Cleanup GitLab repos.,,lcolombo,0 days 00:50:00.000000000
+2017-07-21 16:23:00,2017-07-21 16:52:00,Aptage,Aptage,Operativo,,,nespino,0 days 00:29:00.000000000
+2017-07-21 15:13:00,2017-07-21 16:21:00,Bitson,Bitson,Gestión Interna,,,nespino,0 days 01:08:00.000000000
+2017-07-21 15:00:00,2017-07-21 16:55:00,Bitson,Bitson,Reunion,Reunión con Fer Claverino.,,lcolombo,0 days 01:55:00.000000000
+2017-07-21 14:30:00,2017-07-21 16:30:00,Bitson,Bitson,Gestión Interna,Reunion con Fernando Claverino,,ddebonis,0 days 02:00:00.000000000
+2017-07-21 14:30:00,2017-07-21 15:00:00,Bitson,Bitson,Gestión Interna,Setup oficina. Impresión Capacitación ágil. Actualización Wiki Tótem.,,lcolombo,0 days 00:30:00.000000000
+2017-07-21 14:03:00,2017-07-21 15:12:00,Aptage,Aptage,Operativo,,,nespino,0 days 01:09:00.000000000
+2017-07-21 13:15:00,2017-07-21 13:45:00,Bitson,Bitson,Operativo,Instalación gitlab-ci-multi-runner en Alsina.,,lcolombo,0 days 00:30:00.000000000
+2017-07-21 13:00:00,2017-07-21 14:30:00,Bitson,Bitson,Capacitación,,,ddebonis,0 days 01:30:00.000000000
+2017-07-21 12:00:00,2017-07-21 13:00:00,Bitson,Bitson,Almuerzo,,,ddebonis,0 days 01:00:00.000000000
+2017-07-21 11:30:00,2017-07-21 12:15:00,Bitson,Bitson,Operativo,Actualización VM SIGAS@Alsina (192.168.1.11) para instalación de GitLab Runner.,,lcolombo,0 days 00:45:00.000000000
+2017-07-21 11:15:00,2017-07-21 11:30:00,Bitson,Bitson,Operativo,Configuraciń y activación de OmniAuth en GitLab.,,lcolombo,0 days 00:15:00.000000000
+2017-07-21 11:00:00,2017-07-21 17:00:00,Bitson,Bitson,Operativo,,,abrunacci,0 days 06:00:00.000000000
+2017-07-21 10:45:00,2017-07-21 11:15:00,Bitson,Bitson,Operativo,Actualización datos servers OVH en Keeweb.,,lcolombo,0 days 00:30:00.000000000
+2017-07-21 10:00:00,2017-07-21 10:45:00,Bitson,Bitson,Operativo,Actualización de datos de VMs @ Alsina en KeeWeb.,,lcolombo,0 days 00:45:00.000000000
+2017-07-21 09:15:00,2017-07-21 16:00:00,Bitson,Kairos,Instalación,"Implementacion de Totem en Osmedica Gerli
+prueba de sistema completa
+",,hbrunacci,0 days 06:45:00.000000000
+2017-07-21 08:00:00,2017-07-21 12:00:00,Bitson,Bitson,Desarrollo,Refactor SCA,,ddebonis,0 days 04:00:00.000000000
+2017-07-20 20:00:00,2017-07-20 20:50:00,Kairos - Totem,Osmedica,Operativo,Empaque.,,lcolombo,0 days 00:50:00.000000000
+2017-07-20 18:13:00,2017-07-20 20:40:00,Aptage,Aptage,Operativo,,,nespino,0 days 02:27:00.000000000
+2017-07-20 17:00:00,2017-07-20 20:00:00,Kairos - Totem,Osmedica,Operativo,Instalación Tótem. Explicación @acuervo.,,lcolombo,0 days 03:00:00.000000000
+2017-07-20 16:38:00,2017-07-20 18:10:00,Aptage,Aptage,Operativo,,,nespino,0 days 01:32:00.000000000
+2017-07-20 15:00:00,2017-07-20 18:00:00,Bitson,Bitson,Desarrollo,,,ddebonis,0 days 03:00:00.000000000
+2017-07-20 15:00:00,2017-07-20 17:00:00,Kairos - Totem,Osmedica,Operativo,Pruebas pre-instalación.,,lcolombo,0 days 02:00:00.000000000
+2017-07-20 14:30:00,2017-07-20 15:00:00,Bitson,Bitson,Almuerzo,,,ddebonis,0 days 00:30:00.000000000
+2017-07-20 13:30:00,2017-07-20 16:22:00,Aptage,Aptage,Operativo,,,nespino,0 days 02:52:00.000000000
+2017-07-20 12:15:00,2017-07-20 19:00:00,Bitson,Bitson,Gestión Comercial,"Prueba dashboard
+Pruebas Cise
+Pruebas Totem
+",,hbrunacci,0 days 06:45:00.000000000
+2017-07-20 10:05:00,2017-07-20 18:30:00,Bitson,Bitson,Operativo,,,abrunacci,0 days 08:25:00.000000000
+2017-07-20 10:00:00,2017-07-20 14:30:00,Bitson,Bitson,Desarrollo,Refactor SCA,,ddebonis,0 days 04:30:00.000000000
+2017-07-19 19:15:00,2017-07-19 20:17:00,ECSA,Banfield,Reparación de errores,,,nespino,0 days 01:02:00.000000000
+2017-07-19 17:50:00,2017-07-19 20:00:00,Bitson,Bitson,Operativo,Intentando instalar Docker Registry en GitLab.,,lcolombo,0 days 02:10:00.000000000
+2017-07-19 16:15:00,2017-07-19 19:00:00,ECSA,Sigas SCA,Operativo,Preparación de AC2001 para probar el dashboard,,hbrunacci,0 days 02:45:00.000000000
+2017-07-19 16:00:00,2017-07-19 17:50:00,Bitson,Bitson,Operativo,Actualización GitLab 9.3 a 9.4 fixeando el clonado vía HTTPS.,,lcolombo,0 days 01:50:00.000000000
+2017-07-19 15:00:00,2017-07-19 16:00:00,Bitson,Bitson,Gestión Interna,"Ejecución de retiros semanales. Cambio de esquema de firmas en Credicoop, ahora firma AB en vez de FG. Aún falta que activen el usuario de DD.",,lcolombo,0 days 01:00:00.000000000
+2017-07-19 14:20:00,2017-07-19 15:00:00,Bitson,Bitson,Gestión Interna,Intento fallido de ejecución de retiros semanales. El Credicoop me bloquea la tarjeta de coordenadas de FG. ,,lcolombo,0 days 00:40:00.000000000
+2017-07-19 12:20:00,2017-07-19 12:40:00,SanyoJafep,Magento SanyoJafep,Operativo,Configuración de nuevo SMTP en el server.,,lcolombo,0 days 00:20:00.000000000
+2017-07-19 12:00:00,2017-07-19 15:30:00,Bitson,Bitson,Desarrollo,Refactor SCA,,ddebonis,0 days 03:30:00.000000000
+2017-07-19 10:30:00,2017-07-19 18:00:00,Bitson,Bitson,Operativo,,,abrunacci,0 days 07:30:00.000000000
+2017-07-19 10:00:00,2017-07-19 11:40:00,Bitson,Bitson,Operativo,Limpieza servidores OVH. Actualización .ssh/config y KeeWeb.,,lcolombo,0 days 01:40:00.000000000
+2017-07-19 09:25:00,2017-07-19 11:00:00,Bitson,Bitson,Gestión Comercial,"Coordinar LaRenga
+Presupuesto Camba
+Enviar y pedir datos para elcondominio.com",,hbrunacci,0 days 01:35:00.000000000
+2017-07-19 08:00:00,2017-07-19 12:00:00,ECSA,Sigas SCA,Desarrollo,Dashboard,,ddebonis,0 days 04:00:00.000000000
+2017-07-18 19:00:00,2017-07-18 21:00:00,Bitson,Bitson,Capacitación,"meetarmy 2.3
+Usando Wiresahrk como herramienta de diagnóstico.
+TCP/IP Stack.",,lcolombo,0 days 02:00:00.000000000
+2017-07-18 16:15:00,2017-07-18 18:20:00,Bitson,Bitson,Operativo,"Mantenimiento de VM en SRV2, intento con GitLab.",,lcolombo,0 days 02:05:00.000000000
+2017-07-18 16:14:00,2017-07-18 17:05:00,Bitson,Bitson,Capacitación,,,nespino,0 days 00:51:00.000000000
+2017-07-18 15:40:00,2017-07-18 16:15:00,Bitson,Bitson,Gestión Interna,Setup oficina. Lectura de mails. Informe de FIT.,,lcolombo,0 days 00:35:00.000000000
+2017-07-18 15:02:00,2017-07-18 16:14:00,Aptage,Aptage,Operativo,,,nespino,0 days 01:12:00.000000000
+2017-07-18 14:32:00,2017-07-18 14:43:00,ECSA,Banfield,Operativo,,,nespino,0 days 00:11:00.000000000
+2017-07-18 14:00:00,2017-07-18 15:40:00,Bitson,Bitson,Gestion Contable,"Visita al Credicoop, cambio de autoridades y depósito de cheques de ECSA",,lcolombo,0 days 01:40:00.000000000
+2017-07-18 13:51:00,2017-07-18 14:19:00,Aptage,Aptage,Operativo,,,nespino,0 days 00:28:00.000000000
+2017-07-18 13:00:00,2017-07-18 18:00:00,ECSA,Sigas SCA,Desarrollo,Dashboard SCA,,ddebonis,0 days 05:00:00.000000000
+2017-07-18 13:00:00,2017-07-18 18:10:00,Bitson,Bitson,Gestión Comercial,"Solucion problemas de Cise
+Cotización Camba notebooks",,hbrunacci,0 days 05:10:00.000000000
+2017-07-18 12:58:00,2017-07-18 17:55:00,Bitson,Bitson,Operativo,,,abrunacci,0 days 04:57:00.000000000
+2017-07-18 12:30:00,2017-07-18 12:58:00,Bitson,Bitson,Almuerzo,,,abrunacci,0 days 00:28:00.000000000
+2017-07-18 12:17:00,2017-07-18 13:25:00,Bitson,Bitson,Capacitación,,,nespino,0 days 01:08:00.000000000
+2017-07-18 12:00:00,2017-07-18 13:00:00,Bitson,Bitson,Almuerzo,,,ddebonis,0 days 01:00:00.000000000
+2017-07-18 11:00:00,2017-07-18 12:00:00,Bitson,Bitson,Desarrollo,Refactor SCA,,ddebonis,0 days 01:00:00.000000000
+2017-07-18 09:45:00,2017-07-18 12:30:00,Bitson,Bitson,Operativo,,,abrunacci,0 days 02:45:00.000000000
+2017-07-17 21:15:00,2017-07-17 21:50:00,Bitson,Bitson,Capacitación,,,nespino,0 days 00:35:00.000000000
+2017-07-17 20:43:00,2017-07-17 21:14:00,ECSA,Banfield,Reparación de errores,,,nespino,0 days 00:31:00.000000000
+2017-07-17 19:18:00,2017-07-17 19:45:00,SanyoJafep,Magento SanyoJafep,Mantenimiento,,,nespino,0 days 00:27:00.000000000
+2017-07-17 19:00:00,2017-07-17 19:30:00,Kairos - Totem,Osmedica,Operativo,Docker Registry,,lcolombo,0 days 00:30:00.000000000
+2017-07-17 17:30:00,2017-07-17 19:00:00,Bitson,Bitson,Gestión Interna,Entrevista con Ma. Alejandra Cuervo,,lcolombo,0 days 01:30:00.000000000
+2017-07-17 17:15:00,2017-07-17 17:30:00,Bitson,Bitson,Gestión Interna,Revisión de mails.,,lcolombo,0 days 00:15:00.000000000
+2017-07-17 16:45:00,2017-07-17 17:15:00,Bitson,Bitson,Gestión Interna,Cálculo de retiros semanales. Intento de ejecución fallido porque el Credicoop nos borró el esquema de firmas.,,lcolombo,0 days 00:30:00.000000000
+2017-07-17 16:00:00,2017-07-17 18:30:00,Bitson,Bitson,Operativo,,,abrunacci,0 days 02:30:00.000000000
+2017-07-17 14:30:00,2017-07-17 16:30:00,Bitson,Bitson,Gestión Interna,Reunion Semanal,,ddebonis,0 days 02:00:00.000000000
+2017-07-17 14:24:00,2017-07-17 16:42:00,Bitson,Bitson,Gestión Interna,,,nespino,0 days 02:18:00.000000000
+2017-07-17 14:20:00,2017-07-17 16:45:00,Bitson,Bitson,Reunion,,,lcolombo,0 days 02:25:00.000000000
+2017-07-17 14:15:00,2017-07-17 14:24:00,SanyoJafep,Magento SanyoJafep,Mantenimiento,,,nespino,0 days 00:09:00.000000000
+2017-07-17 14:15:00,2017-07-17 16:50:00,Bitson,Bitson,Reunion,,,hbrunacci,0 days 02:35:00.000000000
+2017-07-17 14:00:00,2017-07-17 16:00:00,Bitson,Bitson,Gestión Interna,,,abrunacci,0 days 02:00:00.000000000
+2017-07-17 12:30:00,2017-07-17 14:15:00,Bitson,Bitson,Gestión Interna,"Etiquetas de circuito OCA
+Reglas de mail",,hbrunacci,0 days 01:45:00.000000000
+2017-07-17 11:10:00,2017-07-17 12:30:00,Bitson,Bitson,Gestion Contable,Retirar cheques Ecsa,,hbrunacci,0 days 01:20:00.000000000
+2017-07-17 10:30:00,2017-07-17 11:30:00,Bitson,Bitson,Gestión Interna,çCoordinación tareas Tótem. Búsqueda de info: docker registry & GitLab CI.,,lcolombo,0 days 01:00:00.000000000
+2017-07-17 10:30:00,2017-07-17 14:00:00,Bitson,Bitson,Operativo,,,abrunacci,0 days 03:30:00.000000000
+2017-07-17 08:00:00,2017-07-17 14:30:00,Bitson,Bitson,Desarrollo,SCA Refactor,,ddebonis,0 days 06:30:00.000000000
+2017-07-17 06:20:00,2017-07-17 07:10:00,Aptage,Aptage,Operativo,,,nespino,0 days 00:50:00.000000000
+2017-07-17 04:00:00,2017-07-17 06:20:00,Bitson,Bitson,Capacitación,,,nespino,0 days 02:20:00.000000000
+2017-07-17 00:30:00,2017-07-17 02:28:00,Bitson,Bitson,Capacitación,Angular2 RxJS,,nespino,0 days 01:58:00.000000000
+2017-07-16 22:15:00,2017-07-16 22:55:00,Bitson,Bitson,Gestion Contable,Actualización de datos faltantes x pedido de @santichola,,lcolombo,0 days 00:40:00.000000000
+2017-07-16 20:00:00,2017-07-16 23:00:00,Bitson,Bitson,Capacitación,Angular2,,nespino,0 days 03:00:00.000000000
+2017-07-15 11:20:00,2017-07-15 12:05:00,Bitson,Bitson,Operativo,Buscando info sobre cómo hacer funcionar Docker Registry.,,lcolombo,0 days 00:45:00.000000000
+2017-07-15 10:20:00,2017-07-15 15:30:00,Bitson,Bitson,Gestión Comercial,,,hbrunacci,0 days 05:10:00.000000000
+2017-07-14 22:10:00,2017-07-15 01:55:00,Bitson,Bitson,Operativo,Update GitLab 9.1 to 9.3. Attempt to install Docker Registry with GitLab. Everything from source.,,lcolombo,0 days 03:45:00.000000000
+2017-07-14 19:16:00,2017-07-14 19:24:00,Aptage,Aptage,Operativo,,,nespino,0 days 00:08:00.000000000
+2017-07-14 18:13:00,2017-07-14 18:52:00,Aptage,Aptage,Operativo,,,nespino,0 days 00:39:00.000000000
+2017-07-14 15:33:00,2017-07-14 17:20:00,ECSA,Banfield,Operativo,,,nespino,0 days 01:47:00.000000000
+2017-07-14 14:30:00,2017-07-14 17:00:00,Bitson,Bitson,Desarrollo,Refactor SGS,,ddebonis,0 days 02:30:00.000000000
+2017-07-14 14:20:00,2017-07-14 15:32:00,ECSA,Banfield,Operativo,,,nespino,0 days 01:12:00.000000000
+2017-07-14 14:00:00,2017-07-14 14:30:00,Bitson,Bitson,Almuerzo,,,ddebonis,0 days 00:30:00.000000000
+2017-07-14 14:00:00,2017-07-14 16:00:00,Kairos - Totem,Osmedica,Operativo,Reinstalación Tótem.,,lcolombo,0 days 02:00:00.000000000
+2017-07-14 13:45:00,2017-07-14 14:00:00,ECSA,Sigas SCA,Operativo,"Fix línea 94 rabbit_controller/handlers.py en el server de ""San Luis"". ",,lcolombo,0 days 00:15:00.000000000
+2017-07-14 11:00:00,2017-07-14 14:00:00,Bitson,Bitson,Desarrollo,Refactor SGS,,ddebonis,0 days 03:00:00.000000000
+2017-07-14 10:00:00,2017-07-14 18:30:00,Betterez,Betterez,Desarrollo,,,abrunacci,0 days 08:30:00.000000000
+2017-07-14 10:00:00,2017-07-14 14:00:00,Bitson,Bitson,Licencia Enfermedad,,,cuberti,0 days 04:00:00.000000000
+2017-07-13 20:20:00,2017-07-13 21:10:00,Bitson,Bitson,Capacitación,,,nespino,0 days 00:50:00.000000000
+2017-07-13 17:50:00,2017-07-13 20:20:00,Aptage,Aptage,Operativo,,,nespino,0 days 02:30:00.000000000
+2017-07-13 17:33:00,2017-07-13 17:50:00,ECSA,Banfield,Instalación,,,nespino,0 days 00:17:00.000000000
+2017-07-13 16:28:00,2017-07-13 17:11:00,ECSA,Banfield,Instalación,,,nespino,0 days 00:43:00.000000000
+2017-07-13 14:58:00,2017-07-13 16:15:00,Aptage,Aptage,Operativo,,,nespino,0 days 01:17:00.000000000
+2017-07-13 14:45:00,2017-07-13 18:30:00,Kairos - Totem,Osmedica,Operativo,Configurando permisos de udev para todos los usuarios. Ajuste de mimetype para impresión.,,lcolombo,0 days 03:45:00.000000000
+2017-07-13 14:00:00,2017-07-13 17:00:00,Bitson,Bitson,Desarrollo,Refactor SGS,,ddebonis,0 days 03:00:00.000000000
+2017-07-13 13:00:00,2017-07-13 14:00:00,Bitson,Bitson,Almuerzo,,,ddebonis,0 days 01:00:00.000000000
+2017-07-13 11:00:00,2017-07-13 13:00:00,Bitson,Bitson,Desarrollo,Refactor SGS,,ddebonis,0 days 02:00:00.000000000
+2017-07-13 10:30:00,2017-07-13 15:30:00,Bitson,Bitson,Gestión Comercial,,,hbrunacci,0 days 05:00:00.000000000
+2017-07-13 10:00:00,2017-07-13 18:00:00,Betterez,Betterez,Desarrollo,#6664,,abrunacci,0 days 08:00:00.000000000
+2017-07-13 10:00:00,2017-07-13 14:00:00,Bitson,Bitson,Licencia Enfermedad,,,cuberti,0 days 04:00:00.000000000
+2017-07-12 21:15:00,2017-07-12 23:45:00,Bitson,Bitson,Capacitación,,,nespino,0 days 02:30:00.000000000
+2017-07-12 18:30:00,2017-07-12 20:00:00,Kairos - Totem,Osmedica,Operativo,çBúsqueda de información sobre permisos y reglas udev para usar dispositivos HID por USB.,,lcolombo,0 days 01:30:00.000000000
+2017-07-12 16:37:00,2017-07-12 18:05:00,Aptage,Aptage,Operativo,,,nespino,0 days 01:28:00.000000000
+2017-07-12 15:48:00,2017-07-12 16:30:00,Bitson,Bitson,Gestión Interna,,,nespino,0 days 00:42:00.000000000
+2017-07-12 15:30:00,2017-07-12 17:00:00,ECSA,Sigas SCA,Desarrollo,,,ddebonis,0 days 01:30:00.000000000
+2017-07-12 15:30:00,2017-07-12 17:15:00,Bitson,Kairos,Operativo,Configuración SuperUser Kairos. Prueba de turno. Falta mimetype nuevo y permisos en uDev para usuario sin privilegios.,,lcolombo,0 days 01:45:00.000000000
+2017-07-12 14:30:00,2017-07-12 15:30:00,Bitson,Bitson,Gestión Interna,Reunion semanal Parte2,,ddebonis,0 days 01:00:00.000000000
+2017-07-12 14:20:00,2017-07-12 15:35:00,Bitson,Bitson,Gestión Interna,,,nespino,0 days 01:15:00.000000000
+2017-07-12 14:20:00,2017-07-12 16:45:00,Bitson,Bitson,Gestión Comercial,,,hbrunacci,0 days 02:25:00.000000000
+2017-07-12 14:00:00,2017-07-12 14:30:00,Bitson,Bitson,Almuerzo,,,ddebonis,0 days 00:30:00.000000000
+2017-07-12 14:00:00,2017-07-12 15:30:00,Bitson,Bitson,Reunion,Reunión extraordinaria: pasamos revista de los clientes vía la lista de trabajo. Sumamos el miércoles como posibilidad de reunión extra. Definimos las etiquetas de la lista de trabajos.,,lcolombo,0 days 01:30:00.000000000
+2017-07-12 13:45:00,2017-07-12 14:00:00,Bitson,Bitson,Gestión Interna,Setup oficina. Revisión mails @cuberti.,,lcolombo,0 days 00:15:00.000000000
+2017-07-12 13:44:00,2017-07-12 14:05:00,Aptage,Aptage,Operativo,,,nespino,0 days 00:21:00.000000000
+2017-07-12 11:20:00,2017-07-12 11:50:00,Aptage,Aptage,Operativo,,,nespino,0 days 00:30:00.000000000
+2017-07-12 10:00:00,2017-07-12 11:50:00,Bitson,Bitson,Gestion Contable,çRevisión de datos en planilla de gestión.,,lcolombo,0 days 01:50:00.000000000
+2017-07-12 10:00:00,2017-07-12 18:30:00,Betterez,Betterez,Desarrollo,,,abrunacci,0 days 08:30:00.000000000
+2017-07-12 10:00:00,2017-07-12 14:20:00,Bitson,Bitson,Gestión Comercial,,,hbrunacci,0 days 04:20:00.000000000
+2017-07-12 10:00:00,2017-07-12 14:00:00,Bitson,Bitson,Licencia Enfermedad,,,cuberti,0 days 04:00:00.000000000
+2017-07-12 08:00:00,2017-07-12 14:00:00,ECSA,Sigas SCA,Desarrollo,Dash SCA,,ddebonis,0 days 06:00:00.000000000
+2017-07-11 14:45:00,2017-07-11 20:15:00,Kairos - Totem,Osmedica,Operativo,Instalación de nuevo server Kairos. Pruebas con Vagrant y Ansible. ,,lcolombo,0 days 05:30:00.000000000
+2017-07-11 14:15:00,2017-07-11 14:45:00,Bitson,Bitson,Gestion Contable,Ejecución de retiros semanales y Completado encuesta observatorio PyMe (Agustina),,lcolombo,0 days 00:30:00.000000000
+2017-07-11 14:00:00,2017-07-11 16:00:00,ECSA,Sigas SCA,Desarrollo,Desarrollo e investigacion del dashboard y chartjs,,ddebonis,0 days 02:00:00.000000000
+2017-07-11 13:45:00,2017-07-11 14:15:00,Bitson,Bitson,Gestion Contable,Recuento Caja 2. Preparación retiro @hbrunacci (pidió cobrar en efectivo para no pagar IIBB).,,lcolombo,0 days 00:30:00.000000000
+2017-07-11 13:33:00,2017-07-11 16:26:00,Aptage,Aptage,Operativo,,,nespino,0 days 02:53:00.000000000
+2017-07-11 13:00:00,2017-07-11 14:00:00,Bitson,Bitson,Almuerzo,,,ddebonis,0 days 01:00:00.000000000
+2017-07-11 10:45:00,2017-07-11 12:00:00,Bitson,Bitson,Gestión Interna,Pago de servidores OVH. Instalación KeeWeb @abrunacci. Instalación SCA @ddebonis.,,lcolombo,0 days 01:15:00.000000000
+2017-07-11 10:00:00,2017-07-11 15:00:00,Betterez,Betterez,Desarrollo,,,abrunacci,0 days 05:00:00.000000000
+2017-07-11 10:00:00,2017-07-11 15:30:00,Bitson,Bitson,Gestión Comercial,,,hbrunacci,0 days 05:30:00.000000000
+2017-07-11 10:00:00,2017-07-11 14:00:00,Bitson,Bitson,Licencia Enfermedad,,,cuberti,0 days 04:00:00.000000000
+2017-07-11 08:00:00,2017-07-11 13:00:00,ECSA,Sigas SCA,Desarrollo,"Seteo de ambiente SCA, docker, virtualenv.",,ddebonis,0 days 05:00:00.000000000
+2017-07-10 17:40:00,2017-07-10 18:30:00,ECSA,Banfield,Operativo,,,nespino,0 days 00:50:00.000000000
+2017-07-10 16:30:00,2017-07-10 18:00:00,Bitson,Bitson,Gestion Contable,Carga de datos Compras y Ventas Junio 2017 en planilla de gestión compartida con @santichola.,,lcolombo,0 days 01:30:00.000000000
+2017-07-10 14:30:00,2017-07-10 16:30:00,Bitson,Bitson,Reunion,,,lcolombo,0 days 02:00:00.000000000
+2017-07-10 14:30:00,2017-07-10 17:39:00,Bitson,Bitson,Gestión Interna,,,nespino,0 days 03:09:00.000000000
+2017-07-10 14:30:00,2017-07-10 15:45:00,Bitson,Bitson,Reunion,,,hbrunacci,0 days 01:15:00.000000000
+2017-07-10 14:20:00,2017-07-10 16:00:00,Bitson,Bitson,Gestión Interna,Reunion Semanal.,,ddebonis,0 days 01:40:00.000000000
+2017-07-10 13:45:00,2017-07-10 14:30:00,Bitson,Bitson,Gestión Interna,Cálculo de retiros semanales. Preparación reunión semanal. Emisión de facturas para ECSA.,,lcolombo,0 days 00:45:00.000000000
+2017-07-10 13:30:00,2017-07-10 14:20:00,Bitson,Bitson,Almuerzo,,,ddebonis,0 days 00:50:00.000000000
+2017-07-10 10:30:00,2017-07-10 14:30:00,Bitson,Bitson,Gestión Comercial,"Imastec
+Cromi mail resumen charla con tole y planilla
+",,hbrunacci,0 days 04:00:00.000000000
+2017-07-10 10:00:00,2017-07-10 14:00:00,Bitson,Bitson,Licencia Enfermedad,,,cuberti,0 days 04:00:00.000000000
+2017-07-10 09:00:00,2017-07-10 17:00:00,Betterez,Betterez,Desarrollo,#6449 #6699 #6688,,abrunacci,0 days 08:00:00.000000000
+2017-07-10 08:00:00,2017-07-10 13:30:00,Bitson,Bitson,Capacitación,"React-Native
+Android Studio",,ddebonis,0 days 05:30:00.000000000
+2017-07-07 17:53:00,2017-07-07 20:00:00,ECSA,Banfield,Operativo,,,nespino,0 days 02:07:00.000000000
+2017-07-07 17:15:00,2017-07-07 17:53:00,ECSA,Banfield,Operativo,,,nespino,0 days 00:38:00.000000000
+2017-07-07 15:00:00,2017-07-07 17:00:00,Bitson,Bitson,Gestión Interna,Reunion con Ale para SCABitson,,ddebonis,0 days 02:00:00.000000000
+2017-07-07 14:00:00,2017-07-07 16:13:00,ECSA,Banfield,Operativo,,,nespino,0 days 02:13:00.000000000
+2017-07-07 13:25:00,2017-07-07 13:30:00,ECSA,Banfield,Operativo,,,nespino,0 days 00:05:00.000000000
+2017-07-07 12:47:00,2017-07-07 13:25:00,Aptage,Aptage,Operativo,,,nespino,0 days 00:38:00.000000000
+2017-07-07 12:00:00,2017-07-07 15:00:00,Bitson,Bitson,Capacitación,React,,ddebonis,0 days 03:00:00.000000000
+2017-07-07 12:00:00,2017-07-07 15:50:00,Bitson,Bitson,Gestión Comercial,@server #sanluis,,hbrunacci,0 days 03:50:00.000000000
+2017-07-07 10:30:00,2017-07-07 12:00:00,Bitson,Bitson,Gestión Comercial,Reunión Tole,,hbrunacci,0 days 01:30:00.000000000
+2017-07-07 10:00:00,2017-07-07 20:00:00,Betterez,Betterez,Desarrollo,"#6449
+",,abrunacci,0 days 10:00:00.000000000
+2017-07-07 00:00:00,2017-07-07 06:00:00,Bitson,Bitson,Licencia Enfermedad,Fer enferma y ExpoSanMiguel => Thiago sin clases. Servidor ECSA San Luis.,,lcolombo,0 days 06:00:00.000000000
+2017-07-06 18:23:00,2017-07-06 21:14:00,Aptage,Aptage,Operativo,,,nespino,0 days 02:51:00.000000000
+2017-07-06 14:54:00,2017-07-06 18:08:00,Aptage,Aptage,Operativo,,,nespino,0 days 03:14:00.000000000
+2017-07-06 14:15:00,2017-07-06 21:20:00,Bitson,Kairos,Operativo,Instalación de SO de Servidor. Calibración Touch al inicio. Reinstalación de SO en Servidor. Instalación de Kairos Server. Pruebas de impresión vía comandos con @skajms.,,lcolombo,0 days 07:05:00.000000000
+2017-07-06 13:45:00,2017-07-06 14:15:00,Bitson,Bitson,Gestión Interna,Setup oficina. Update situación actual y posibilidades.,,lcolombo,0 days 00:30:00.000000000
+2017-07-06 13:00:00,2017-07-06 17:00:00,Bitson,Bitson,Capacitación,"JSON-server, SCA",,ddebonis,0 days 04:00:00.000000000
+2017-07-06 12:00:00,2017-07-06 13:00:00,Bitson,Bitson,Almuerzo,,,ddebonis,0 days 01:00:00.000000000
+2017-07-06 10:00:00,2017-07-06 18:00:00,Betterez,Betterez,Desarrollo,"#6449
+",,abrunacci,0 days 08:00:00.000000000
+2017-07-06 10:00:00,2017-07-06 15:45:00,Bitson,Bitson,Gestión Comercial,,,hbrunacci,0 days 05:45:00.000000000
+2017-07-06 09:00:00,2017-07-06 12:00:00,Bitson,Bitson,Desarrollo,Refactor SCA,,ddebonis,0 days 03:00:00.000000000
+2017-07-05 21:43:00,2017-07-05 23:45:00,Aptage,Aptage,Operativo,,,nespino,0 days 02:02:00.000000000
+2017-07-05 17:45:00,2017-07-05 18:45:00,Kairos - Totem,Osmedica,Operativo,Calibración Touch at Startup.,,lcolombo,0 days 01:00:00.000000000
+2017-07-05 17:05:00,2017-07-05 17:45:00,Bitson,Bitson,Operativo,Capacitación @abrunacci en el deploy de CISE. Supervisor + NginX,,lcolombo,0 days 00:40:00.000000000
+2017-07-05 16:46:00,2017-07-05 19:43:00,Aptage,Aptage,Operativo,,,nespino,0 days 02:57:00.000000000
+2017-07-05 16:40:00,2017-07-05 17:05:00,Bitson,Bitson,Gestión Interna,Copia Libro Asociados firmada x @abrunacci,,lcolombo,0 days 00:25:00.000000000
+2017-07-05 15:00:00,2017-07-05 16:00:00,Bitson,Bitson,Desarrollo,Refactor SCA,,ddebonis,0 days 01:00:00.000000000
+2017-07-05 15:00:00,2017-07-05 16:40:00,Bitson,Bitson,Gestión Interna,Reparación PC @hbrunacci,,lcolombo,0 days 01:40:00.000000000
+2017-07-05 14:30:00,2017-07-05 15:30:00,Aptage,Aptage,Operativo,,,nespino,0 days 01:00:00.000000000
+2017-07-05 14:00:00,2017-07-05 15:00:00,Bitson,Bitson,Almuerzo,,,ddebonis,0 days 01:00:00.000000000
+2017-07-05 14:00:00,2017-07-05 15:00:00,Bitson,Bitson,Gestión Interna,Credicoop: trámite de cambio de autoridades.,,lcolombo,0 days 01:00:00.000000000
+2017-07-05 10:00:00,2017-07-05 11:30:00,Bitson,Bitson,Gestión Comercial,"Coordinación para el comienzo de tareas OT58 - interorganics
+",,hbrunacci,0 days 01:30:00.000000000
+2017-07-05 09:10:00,2017-07-05 18:00:00,Betterez,Betterez,Desarrollo,"#6449
+",,abrunacci,0 days 08:50:00.000000000
+2017-07-05 08:00:00,2017-07-05 14:00:00,Bitson,Bitson,Desarrollo,Refactor SCA,,ddebonis,0 days 06:00:00.000000000
+2017-07-04 14:35:00,2017-07-04 16:43:00,Aptage,Aptage,Operativo,,,nespino,0 days 02:08:00.000000000
+2017-07-04 14:20:00,2017-07-04 14:35:00,Bitson,Kairos,Operativo,,,nespino,0 days 00:15:00.000000000
+2017-07-04 14:00:00,2017-07-04 16:00:00,Bitson,Bitson,Desarrollo,Refactor SCA,,ddebonis,0 days 02:00:00.000000000
+2017-07-04 13:50:00,2017-07-04 14:20:00,Aptage,Aptage,Operativo,,,nespino,0 days 00:30:00.000000000
+2017-07-04 13:00:00,2017-07-04 14:00:00,Bitson,Bitson,Almuerzo,,,ddebonis,0 days 01:00:00.000000000
+2017-07-04 10:00:00,2017-07-04 16:00:00,Betterez,Betterez,Desarrollo,"#6600
+",,abrunacci,0 days 06:00:00.000000000
+2017-07-04 10:00:00,2017-07-04 13:33:00,Bitson,Bitson,Gestión Interna,,,cuberti,0 days 03:33:00.000000000
+2017-07-04 09:30:00,2017-07-04 15:00:00,Bitson,Bitson,Gestión Comercial,@home,,hbrunacci,0 days 05:30:00.000000000
+2017-07-04 08:00:00,2017-07-04 13:00:00,Bitson,Bitson,Desarrollo,Refactor SCA,,ddebonis,0 days 05:00:00.000000000
+2017-07-04 00:00:00,2017-07-04 06:00:00,Bitson,Bitson,Licencia Enfermedad,Ceci,,lcolombo,0 days 06:00:00.000000000
+2017-07-03 17:45:00,2017-07-03 20:05:00,Kairos - Totem,Osmedica,Operativo,"Instalación LigthDM, autologin y Ctrl+Alt+W. Cambio a /etc/hosts",,lcolombo,0 days 02:20:00.000000000
+2017-07-03 17:15:00,2017-07-03 17:45:00,Bitson,Bitson,Gestión Interna,Transferencias de retiros semanales y mensuales.,,lcolombo,0 days 00:30:00.000000000
+2017-07-03 16:45:00,2017-07-03 17:15:00,Bitson,Bitson,Gestión Interna,Facturación APTAGE,,lcolombo,0 days 00:30:00.000000000
+2017-07-03 16:39:00,2017-07-03 20:03:00,Aptage,Aptage,Operativo,,,nespino,0 days 03:24:00.000000000
+2017-07-03 16:00:00,2017-07-03 16:45:00,Bitson,Bitson,Gestión Interna,Cálculo de retiros semanales y mensuales.,,lcolombo,0 days 00:45:00.000000000
+2017-07-03 14:30:00,2017-07-03 16:00:00,Bitson,Bitson,Reunion,Reunión semanal.,,lcolombo,0 days 01:30:00.000000000
+2017-07-03 14:26:00,2017-07-03 16:02:00,Bitson,Bitson,Gestión Interna,,,nespino,0 days 01:36:00.000000000
+2017-07-03 14:01:00,2017-07-03 14:26:00,ECSA,Banfield,Operativo,,,nespino,0 days 00:25:00.000000000
+2017-07-03 14:00:00,2017-07-03 16:00:00,Bitson,Bitson,Gestión Interna,Reunion semanal.,,ddebonis,0 days 02:00:00.000000000
+2017-07-03 13:45:00,2017-07-03 14:30:00,Bitson,Bitson,Reunion,Preparación reunión semanal.,,lcolombo,0 days 00:45:00.000000000
+2017-07-03 13:30:00,2017-07-03 14:00:00,ECSA,Sigas SGS,Testing,Testing archivos debito,,ddebonis,0 days 00:30:00.000000000
+2017-07-03 13:20:00,2017-07-03 16:37:00,Bitson,Bitson,Gestión Interna,,,cuberti,0 days 03:17:00.000000000
+2017-07-03 13:15:00,2017-07-03 14:01:00,Aptage,Aptage,Operativo,,,nespino,0 days 00:46:00.000000000
+2017-07-03 11:00:00,2017-07-03 13:30:00,Bitson,Bitson,Desarrollo,Refactor SCA,,ddebonis,0 days 02:30:00.000000000
+2017-07-03 11:00:00,2017-07-03 15:30:00,Bitson,Bitson,Gestión Comercial,,,hbrunacci,0 days 04:30:00.000000000
+2017-07-03 10:00:00,2017-07-03 18:00:00,Betterez,Betterez,Desarrollo,"#6600
+",,abrunacci,0 days 08:00:00.000000000
+2017-07-03 08:00:00,2017-07-03 11:00:00,Bitson,Bitson,Capacitación,,,ddebonis,0 days 03:00:00.000000000
+2017-07-01 14:00:00,2017-07-01 16:30:00,Kairos - Totem,Osmedica,Operativo,çPruebas de CDG. No imprime desde Firefox. Websocket?ç,,lcolombo,0 days 02:30:00.000000000
+2017-06-30 17:00:00,2017-06-30 18:00:00,Kairos - Totem,Osmedica,Operativo,Instalación Tótem: configuración impresora.,,lcolombo,0 days 01:00:00.000000000
+2017-06-30 16:00:00,2017-06-30 17:00:00,Kairos - Totem,Osmedica,Operativo,Instalación Tótem: calibración touch sin éxito.,,lcolombo,0 days 01:00:00.000000000
+2017-06-30 16:00:00,2017-06-30 17:50:00,Aptage,Aptage,Operativo,,,nespino,0 days 01:50:00.000000000
+2017-06-30 15:45:00,2017-06-30 16:00:00,SanyoJafep,Magento SanyoJafep,Operativo,,,nespino,0 days 00:15:00.000000000
+2017-06-30 15:00:00,2017-06-30 17:00:00,Bitson,Bitson,Desarrollo,Refactor SCA,,ddebonis,0 days 02:00:00.000000000
+2017-06-30 15:00:00,2017-06-30 16:00:00,Kairos - Totem,Osmedica,Operativo,Instalación Tótem: configuración de X y control de energía del monitor.,,lcolombo,0 days 01:00:00.000000000
+2017-06-30 14:00:00,2017-06-30 15:00:00,Bitson,Bitson,Almuerzo,,,ddebonis,0 days 01:00:00.000000000
+2017-06-30 14:00:00,2017-06-30 15:00:00,Bitson,Bitson,Gestión Interna,Consulta personal trámite cambio de autoridades en Credicoop.,,lcolombo,0 days 01:00:00.000000000
+2017-06-30 12:30:00,2017-06-30 14:00:00,Bitson,Bitson,Libre,NO HUBO INTERNET,,ddebonis,0 days 01:30:00.000000000
+2017-06-30 11:00:00,2017-06-30 12:30:00,Bitson,Bitson,Desarrollo,Refactor SCA,,ddebonis,0 days 01:30:00.000000000
+2017-06-30 10:30:00,2017-06-30 10:55:00,Bitson,Bitson,Gestión Interna,Organización interna tareas operativas semana ,,lcolombo,0 days 00:25:00.000000000
+2017-06-30 10:00:00,2017-06-30 18:00:00,Betterez,Betterez,Desarrollo,,,abrunacci,0 days 08:00:00.000000000
+2017-06-30 10:00:00,2017-06-30 14:00:00,Bitson,Bitson,Gestión Comercial,,,hbrunacci,0 days 04:00:00.000000000
+2017-06-30 09:40:00,2017-06-30 13:30:00,Bitson,Bitson,Gestión Interna,,,cuberti,0 days 03:50:00.000000000
+2017-06-29 17:10:00,2017-06-29 18:20:00,Kairos - Totem,Osmedica,Operativo,Instalación impresora Totem,,lcolombo,0 days 01:10:00.000000000
+2017-06-29 16:30:00,2017-06-29 17:10:00,Bitson,Bitson,Gestión Comercial,Charla con IBM,,lcolombo,0 days 00:40:00.000000000
+2017-06-29 16:00:00,2017-06-29 17:00:00,Bitson,Bitson,Gestión Interna,Reunion con clodo,,ddebonis,0 days 01:00:00.000000000
+2017-06-29 15:10:00,2017-06-29 18:30:00,Aptage,Aptage,Operativo,,,nespino,0 days 03:20:00.000000000
+2017-06-29 15:05:00,2017-06-29 16:30:00,Kairos - Totem,Osmedica,Operativo,Instalación impresora.,,lcolombo,0 days 01:25:00.000000000
+2017-06-29 14:40:00,2017-06-29 15:05:00,ECSA,Sigas SCA,Presupuesto,"Charla con @hbrunacci, @abrunacci y @nespino x Failover.",,lcolombo,0 days 00:25:00.000000000
+2017-06-29 14:27:00,2017-06-29 15:10:00,SanyoJafep,Magento SanyoJafep,Operativo,,,nespino,0 days 00:43:00.000000000
+2017-06-29 14:00:00,2017-06-29 16:00:00,Bitson,Bitson,Desarrollo,Refactor SCA,,ddebonis,0 days 02:00:00.000000000
+2017-06-29 13:45:00,2017-06-29 14:40:00,Kairos - Totem,Osmedica,Operativo,Instalación Impresora.,,lcolombo,0 days 00:55:00.000000000
+2017-06-29 13:00:00,2017-06-29 14:00:00,Bitson,Bitson,Almuerzo,,,ddebonis,0 days 01:00:00.000000000
+2017-06-29 11:20:00,2017-06-29 12:20:00,Aptage,Aptage,Operativo,,,nespino,0 days 01:00:00.000000000
+2017-06-29 11:00:00,2017-06-29 14:30:00,Bitson,Bitson,Gestión Interna,,,cuberti,0 days 03:30:00.000000000
+2017-06-29 10:45:00,2017-06-29 11:30:00,Kairos - Totem,Osmedica,Operativo,"Búsqueda de info sobre plymouth, grub2 y xscreensaver",,lcolombo,0 days 00:45:00.000000000
+2017-06-29 10:30:00,2017-06-29 10:45:00,ECSA,Sigas SCA,Presupuesto,Sincronización de reportes: respuesta x mail.,,lcolombo,0 days 00:15:00.000000000
+2017-06-29 10:00:00,2017-06-29 15:30:00,Bitson,Bitson,Gestión Comercial,,,hbrunacci,0 days 05:30:00.000000000
+2017-06-29 09:30:00,2017-06-29 17:30:00,Betterez,Betterez,Desarrollo,,,abrunacci,0 days 08:00:00.000000000
+2017-06-29 08:00:00,2017-06-29 13:00:00,Bitson,Bitson,Desarrollo,Refactor SCA,,ddebonis,0 days 05:00:00.000000000
+2017-06-28 18:09:00,2017-06-28 18:58:00,Aptage,Aptage,Operativo,,,nespino,0 days 00:49:00.000000000
+2017-06-28 17:55:00,2017-06-28 18:09:00,ECSA,Banfield,Operativo,,,nespino,0 days 00:14:00.000000000
+2017-06-28 17:00:00,2017-06-28 21:00:00,Bitson,Kairos,Operativo,"Configuración Tótem. Openbox, autologin, firefox, mfull, unclutter.",,lcolombo,0 days 04:00:00.000000000
+2017-06-28 15:00:00,2017-06-28 17:00:00,Bitson,Kairos,Operativo,Instalación Debian 9 en Totem,,lcolombo,0 days 02:00:00.000000000
+2017-06-28 14:30:00,2017-06-28 16:00:00,Bitson,Cromi,Desarrollo,Anomalias en cromi,,ddebonis,0 days 01:30:00.000000000
+2017-06-28 14:30:00,2017-06-28 15:15:00,Bitson,Bitson,Gestión Comercial,"Contacto con Pablo Kamegawa
+Cliente pasado por Camba para migracion de Softlayer a AWS ",,hbrunacci,0 days 00:45:00.000000000
+2017-06-28 14:00:00,2017-06-28 14:30:00,Bitson,Bitson,Almuerzo,,,hbrunacci,0 days 00:30:00.000000000
+2017-06-28 13:30:00,2017-06-28 14:30:00,Bitson,Bitson,Almuerzo,,,ddebonis,0 days 01:00:00.000000000
+2017-06-28 13:00:00,2017-06-28 13:30:00,Bitson,Cromi,Reunion,Reunion con matias ponto.,,ddebonis,0 days 00:30:00.000000000
+2017-06-28 13:00:00,2017-06-28 14:00:00,Bitson,Cromi,Gestión Comercial,reunion con matias,,hbrunacci,0 days 01:00:00.000000000
+2017-06-28 12:30:00,2017-06-28 13:15:00,ECSA,Sigas SCA,Presupuesto,Consultas failover con @clodito,,lcolombo,0 days 00:45:00.000000000
+2017-06-28 12:04:00,2017-06-28 15:44:00,Aptage,Aptage,Operativo,,,nespino,0 days 03:40:00.000000000
+2017-06-28 11:00:00,2017-06-28 16:15:00,Bitson,Bitson,Gestión Interna,,,cuberti,0 days 05:15:00.000000000
+2017-06-28 10:00:00,2017-06-28 13:00:00,Bitson,Bitson,Gestión Comercial,envio de presupuestos a ECSA armado de PDFs,,hbrunacci,0 days 03:00:00.000000000
+2017-06-28 09:00:00,2017-06-28 18:00:00,Betterez,Betterez,Desarrollo,#6509,,abrunacci,0 days 09:00:00.000000000
+2017-06-28 08:00:00,2017-06-28 13:00:00,ECSA,Sigas SGS,Desarrollo,Refactor,,ddebonis,0 days 05:00:00.000000000
+2017-06-27 22:30:00,2017-06-27 23:15:00,Bitson,Bitson,Gestión Comercial,Encuesta seminario. Estudio de mercado: mailchimp vs. sendgrid. Vamos por mailchimp.,,lcolombo,0 days 00:45:00.000000000
+2017-06-27 21:30:00,2017-06-27 22:30:00,Bitson,Bitson,Gestión Comercial,Investigación de mercado. Cursos. Alquiler aulas.,,lcolombo,0 days 01:00:00.000000000
+2017-06-27 18:30:00,2017-06-27 20:30:00,ECSA,Sigas SCA,Presupuesto,Brainstormin & Research failover,,lcolombo,0 days 02:00:00.000000000
+2017-06-27 16:00:00,2017-06-27 16:15:00,Bitson,Bitson,Gestión Interna,Firma de acuerdo con flugel.it DocuSign,,lcolombo,0 days 00:15:00.000000000
+2017-06-27 15:15:00,2017-06-27 16:00:00,Bitson,Bitson,Gestión Interna,Envío de mail OT54 (mejora APP). Charla en bolsa de trabajo x Pressa. Respuesta mails x KM808.,,lcolombo,0 days 00:45:00.000000000
+2017-06-27 14:30:00,2017-06-27 15:00:00,Bitson,Bitson,Gestión Interna,"Actualización OT54 - mejoras APP c/ @ddebonis
+",,lcolombo,0 days 00:30:00.000000000
+2017-06-27 13:30:00,2017-06-27 16:39:00,Aptage,Aptage,Operativo,,,nespino,0 days 03:09:00.000000000
+2017-06-27 13:00:00,2017-06-27 16:00:00,Bitson,Bitson,Desarrollo,,,ddebonis,0 days 03:00:00.000000000
+2017-06-27 13:00:00,2017-06-27 15:30:00,Bitson,Bitson,Gestión Comercial,,,hbrunacci,0 days 02:30:00.000000000
+2017-06-27 12:00:00,2017-06-27 13:00:00,Bitson,Bitson,Almuerzo,,,ddebonis,0 days 01:00:00.000000000
+2017-06-27 11:35:00,2017-06-27 12:00:00,Bitson,Bitson,Gestión Interna,Actualización plantilla OT.,,lcolombo,0 days 00:25:00.000000000
+2017-06-27 11:00:00,2017-06-27 11:35:00,Bitson,Kairos,Operativo,Call de coordinación instalación OSMEDICA con @skajms,,lcolombo,0 days 00:35:00.000000000
+2017-06-27 11:00:00,2017-06-27 12:00:00,Bitson,Bitson,Gestión Comercial,TAVA,,hbrunacci,0 days 01:00:00.000000000
+2017-06-27 10:00:00,2017-06-27 11:00:00,Bitson,Bitson,Gestión Interna,Coordinación retiros mensuales con @cuberti. Actualización y respuesta OT55 (cambio de FW CARP) y OT56 (SGS Banfield). Actualización Plantilla OT.,,lcolombo,0 days 01:00:00.000000000
+2017-06-27 10:00:00,2017-06-27 16:00:00,Betterez,Betterez,Desarrollo,#6509 #6531,,abrunacci,0 days 06:00:00.000000000
+2017-06-27 09:27:00,2017-06-27 14:00:00,Bitson,Bitson,Gestión Interna,,,cuberti,0 days 04:33:00.000000000
+2017-06-27 08:00:00,2017-06-27 12:00:00,Bitson,Bitson,Desarrollo,Refactor SCA/SGS,,ddebonis,0 days 04:00:00.000000000
+2017-06-26 17:48:00,2017-06-26 18:18:00,ECSA,Banfield,Operativo,,,nespino,0 days 00:30:00.000000000
+2017-06-26 17:23:00,2017-06-26 17:43:00,ECSA,Banfield,Operativo,,,nespino,0 days 00:20:00.000000000
+2017-06-26 17:00:00,2017-06-26 17:45:00,Bitson,Kairos,Operativo,Revisión mini PC e instalación en Tótem.,,lcolombo,0 days 00:45:00.000000000
+2017-06-26 15:30:00,2017-06-26 17:00:00,Bitson,Bitson,Reunion,Debate sobre pago licencia x enfermedad.,,lcolombo,0 days 01:30:00.000000000
+2017-06-26 14:45:00,2017-06-26 15:30:00,Bitson,Bitson,Reunion,Operativa. Temas y clientes pendientes.,,lcolombo,0 days 00:45:00.000000000
+2017-06-26 14:45:00,2017-06-26 17:05:00,Bitson,Bitson,Gestión Interna,,,nespino,0 days 02:20:00.000000000
+2017-06-26 14:30:00,2017-06-26 17:00:00,Bitson,Bitson,Gestión Interna,Reunion semanal.,,ddebonis,0 days 02:30:00.000000000
+2017-06-26 14:00:00,2017-06-26 14:30:00,ECSA,Sigas SGS,Testing,,,ddebonis,0 days 00:30:00.000000000
+2017-06-26 14:00:00,2017-06-26 14:45:00,Bitson,Kairos,Operativo,Tótem EXO. Unboxing y Review.,,lcolombo,0 days 00:45:00.000000000
+2017-06-26 14:00:00,2017-06-26 17:00:00,Bitson,Bitson,Gestión Comercial,,,hbrunacci,0 days 03:00:00.000000000
+2017-06-26 13:49:00,2017-06-26 18:04:00,Bitson,Bitson,Gestión Interna,,,cuberti,0 days 04:15:00.000000000
+2017-06-26 13:45:00,2017-06-26 14:00:00,Bitson,Bitson,Gestión Interna,Setup oficina. Lectura de mails. ,,lcolombo,0 days 00:15:00.000000000
+2017-06-26 13:09:00,2017-06-26 14:45:00,ECSA,Banfield,Operativo,,,nespino,0 days 01:36:00.000000000
+2017-06-26 13:00:00,2017-06-26 14:00:00,Bitson,Bitson,Almuerzo,,,ddebonis,0 days 01:00:00.000000000
+2017-06-26 10:00:00,2017-06-26 18:00:00,Betterez,Betterez,Desarrollo,6509,,abrunacci,0 days 08:00:00.000000000
+2017-06-26 08:00:00,2017-06-26 13:00:00,Bitson,Bitson,Capacitación,,,ddebonis,0 days 05:00:00.000000000
+2017-06-24 10:00:00,2017-06-24 13:00:00,Bitson,Bitson,Intercooperativo,"Capacitación Docker @ nerdear.la
+Charla con Clodo y coordinación de visita el miércoles.",,lcolombo,0 days 03:00:00.000000000
+2017-06-23 14:59:00,2017-06-23 15:30:00,Bitson,Bitson,FIT,,,hbrunacci,0 days 00:31:00.000000000
+2017-06-23 14:59:00,2017-06-23 19:26:00,ECSA,Banfield,Operativo,,,nespino,0 days 04:27:00.000000000
+2017-06-23 13:08:00,2017-06-23 14:17:00,Aptage,Aptage,Operativo,,,nespino,0 days 01:09:00.000000000
+2017-06-23 13:00:00,2017-06-23 17:00:00,Bitson,Bitson,Intercooperativo,Nerdearla.,,ddebonis,0 days 04:00:00.000000000
+2017-06-23 12:56:00,2017-06-23 13:08:00,ECSA,Banfield,Operativo,,,nespino,0 days 00:12:00.000000000
+2017-06-23 11:15:00,2017-06-23 18:00:00,Bitson,Bitson,Intercooperativo,nerdear.la,,lcolombo,0 days 06:45:00.000000000
+2017-06-23 11:00:00,2017-06-23 11:15:00,Bitson,Bitson,Gestión Interna,Firma L.II y L.IV PTA,,lcolombo,0 days 00:15:00.000000000
+2017-06-23 10:00:00,2017-06-23 14:30:00,Bitson,Bitson,Gestión Comercial,,,hbrunacci,0 days 04:30:00.000000000
+2017-06-23 09:19:00,2017-06-23 13:10:00,Bitson,Bitson,Gestión Interna,,,cuberti,0 days 03:51:00.000000000
+2017-06-23 09:00:00,2017-06-23 19:00:00,Betterez,Betterez,Desarrollo,,,abrunacci,0 days 10:00:00.000000000
+2017-06-22 17:00:00,2017-06-22 19:00:00,ECSA,Sigas SGS,Desarrollo,Fixes mercadopago,,ddebonis,0 days 02:00:00.000000000
+2017-06-22 15:26:00,2017-06-22 17:38:00,Aptage,Aptage,Operativo,,,nespino,0 days 02:12:00.000000000
+2017-06-22 14:25:00,2017-06-22 15:17:00,Aptage,Aptage,Operativo,,,nespino,0 days 00:52:00.000000000
+2017-06-22 14:00:00,2017-06-22 18:00:00,Bitson,Bitson,Intercooperativo,nerdear.la,,lcolombo,0 days 04:00:00.000000000
+2017-06-22 13:00:00,2017-06-22 13:59:00,Aptage,Aptage,Operativo,,,nespino,0 days 00:59:00.000000000
+2017-06-22 12:00:00,2017-06-22 13:00:00,Bitson,Bitson,Almuerzo,,,ddebonis,0 days 01:00:00.000000000
+2017-06-22 10:00:00,2017-06-22 12:00:00,Bitson,Bitson,Capacitación,,,ddebonis,0 days 02:00:00.000000000
+2017-06-22 10:00:00,2017-06-22 19:30:00,Betterez,Betterez,Desarrollo,6583,,abrunacci,0 days 09:30:00.000000000
+2017-06-22 10:00:00,2017-06-22 15:30:00,Bitson,Bitson,Gestión Comercial,,,hbrunacci,0 days 05:30:00.000000000
+2017-06-22 09:30:00,2017-06-22 13:40:00,Bitson,Bitson,Gestión Interna,,,cuberti,0 days 04:10:00.000000000
+2017-06-22 08:00:00,2017-06-22 10:00:00,ECSA,Sigas SGS,Testing,mercado pago.,,ddebonis,0 days 02:00:00.000000000
+2017-06-21 18:24:00,2017-06-21 18:48:00,ECSA,Banfield,Operativo,,,nespino,0 days 00:24:00.000000000
+2017-06-21 16:30:00,2017-06-21 17:30:00,ECSA,Sigas SGS,Testing,Mercadopago,,ddebonis,0 days 01:00:00.000000000
+2017-06-21 16:30:00,2017-06-21 17:50:00,Bitson,Bitson,Gestión Interna,Coordinación PTA L.II y L.IV. Búsqueda de precios actualizados.,,lcolombo,0 days 01:20:00.000000000
+2017-06-21 14:30:00,2017-06-21 16:30:00,Bitson,Bitson,Gestión Interna,Reunion semanal.,,ddebonis,0 days 02:00:00.000000000
+2017-06-21 14:30:00,2017-06-21 16:30:00,Bitson,Bitson,Reunion,Reunión semanal.,,lcolombo,0 days 02:00:00.000000000
+2017-06-21 14:29:00,2017-06-21 16:29:00,Bitson,Bitson,Gestión Interna,,,nespino,0 days 02:00:00.000000000
+2017-06-21 14:06:00,2017-06-21 14:28:00,ECSA,Banfield,Operativo,,,nespino,0 days 00:22:00.000000000
+2017-06-21 14:00:00,2017-06-21 14:30:00,Bitson,Bitson,Capacitación,,,ddebonis,0 days 00:30:00.000000000
+2017-06-21 14:00:00,2017-06-21 16:15:00,Bitson,Bitson,Reunion,,,hbrunacci,0 days 02:15:00.000000000
+2017-06-21 13:50:00,2017-06-21 14:30:00,Bitson,Bitson,Gestión Interna,Setup oficina. Lectura de mails. Actualización i5. Preparación Reunión.,,lcolombo,0 days 00:40:00.000000000
+2017-06-21 13:40:00,2017-06-21 18:00:00,Bitson,Bitson,Gestión Interna,,,cuberti,0 days 04:20:00.000000000
+2017-06-21 13:00:00,2017-06-21 14:00:00,Bitson,Bitson,Almuerzo,,,ddebonis,0 days 01:00:00.000000000
+2017-06-21 11:15:00,2017-06-21 11:50:00,Aptage,Aptage,Operativo,,,nespino,0 days 00:35:00.000000000
+2017-06-21 10:00:00,2017-06-21 16:25:00,Betterez,Betterez,Desarrollo,"6531
+",,abrunacci,0 days 06:25:00.000000000
+2017-06-21 09:30:00,2017-06-21 11:30:00,Bitson,Bitson,Gestión Comercial,,,hbrunacci,0 days 02:00:00.000000000
+2017-06-21 08:00:00,2017-06-21 13:00:00,Bitson,Bitson,Capacitación,,,ddebonis,0 days 05:00:00.000000000
+2017-06-20 10:00:00,2017-06-20 18:00:00,Bitson,Bitson,FERIADO,,,ddebonis,0 days 08:00:00.000000000
+2017-06-20 10:00:00,2017-06-20 18:00:00,Bitson,Bitson,FERIADO,,,abrunacci,0 days 08:00:00.000000000
+2017-06-19 13:55:00,2017-06-19 17:58:00,Bitson,Bitson,Gestión Interna,,,cuberti,0 days 04:03:00.000000000
+2017-06-19 13:30:00,2017-06-19 13:44:00,Aptage,Aptage,Operativo,,,nespino,0 days 00:14:00.000000000
+2017-06-19 13:00:00,2017-06-19 17:00:00,Bitson,Bitson,Capacitación,,,ddebonis,0 days 04:00:00.000000000
+2017-06-19 11:30:00,2017-06-19 11:50:00,Aptage,Aptage,Reunion,,,nespino,0 days 00:20:00.000000000
+2017-06-19 09:30:00,2017-06-19 15:20:00,Betterez,Betterez,Desarrollo,,,abrunacci,0 days 05:50:00.000000000
+2017-06-19 09:15:00,2017-06-19 10:15:00,Bitson,Bitson,Gestión Comercial,,,hbrunacci,0 days 01:00:00.000000000
+2017-06-19 00:00:00,2017-06-19 06:00:00,Bitson,Bitson,Licencia Enfermedad,,,lcolombo,0 days 06:00:00.000000000
+2017-06-16 18:45:00,2017-06-16 19:39:00,ECSA,Banfield,Operativo,,,nespino,0 days 00:54:00.000000000
+2017-06-16 17:00:00,2017-06-16 18:00:00,Bitson,Bitson,Gestión Interna,Control de OTs,,lcolombo,0 days 01:00:00.000000000
+2017-06-16 16:17:00,2017-06-16 17:00:00,ECSA,Banfield,Operativo,,,nespino,0 days 00:43:00.000000000
+2017-06-16 16:15:00,2017-06-16 17:00:00,ECSA,Quilmes ACS,Operativo,Actualización de CONTRIBUTING.md con las últimas correcciones.,,lcolombo,0 days 00:45:00.000000000
+2017-06-16 15:45:00,2017-06-16 16:17:00,Bitson,Bitson,Presupuesto,,,nespino,0 days 00:32:00.000000000
+2017-06-16 15:30:00,2017-06-16 16:00:00,Bitson,Bitson,Orden de trabajo,Qualia,,ddebonis,0 days 00:30:00.000000000
+2017-06-16 15:30:00,2017-06-16 16:15:00,Pablo Gutierrez - Qualia Encuestas ,Encuestas,Presupuesto,Revisión de OT y presupuesto con @ddebonis y @nespino.,,lcolombo,0 days 00:45:00.000000000
+2017-06-16 15:15:00,2017-06-16 15:30:00,Bitson,Cromi,Operativo,Pull site with video and analytics.,,lcolombo,0 days 00:15:00.000000000
+2017-06-16 14:40:00,2017-06-16 15:15:00,Bitson,Bitson,Operativo,Facturación pendiente a TEACSA. Coordinación con @fgil por llaves de Alsina para que pueda hacer el laburo de las MiniPC de Banghó. ,,lcolombo,0 days 00:35:00.000000000
+2017-06-16 14:30:00,2017-06-16 15:30:00,Bitson,Bitson,Capacitación,,,ddebonis,0 days 01:00:00.000000000
+2017-06-16 14:15:00,2017-06-16 14:40:00,Bitson,Bitson,Operativo,"Pagos VEP monotributos HB, AB, LC, DD y CU.",,lcolombo,0 days 00:25:00.000000000
+2017-06-16 14:00:00,2017-06-16 14:30:00,Bitson,Cromi,Desarrollo,Landing,,ddebonis,0 days 00:30:00.000000000
+2017-06-16 14:00:00,2017-06-16 14:15:00,Bitson,Bitson,Gestión Interna,Respuesta APTAGE,,lcolombo,0 days 00:15:00.000000000
+2017-06-16 13:44:00,2017-06-16 15:45:00,ECSA,Banfield,Operativo,,,nespino,0 days 02:01:00.000000000
+2017-06-16 13:30:00,2017-06-16 15:30:00,Bitson,Bitson,Gestión Comercial,,,hbrunacci,0 days 02:00:00.000000000
+2017-06-16 13:16:00,2017-06-16 13:44:00,Bitson,Bitson,Presupuesto,,,nespino,0 days 00:28:00.000000000
+2017-06-16 13:00:00,2017-06-16 14:00:00,Bitson,Bitson,Almuerzo,,,ddebonis,0 days 01:00:00.000000000
+2017-06-16 12:00:00,2017-06-16 13:16:00,Bitson,Bitson,Gestion Contable,,,nespino,0 days 01:16:00.000000000
+2017-06-16 10:00:00,2017-06-16 13:00:00,Bitson,Bitson,Capacitación,,,ddebonis,0 days 03:00:00.000000000
+2017-06-16 10:00:00,2017-06-16 18:00:00,Bitson,Bitson,Licencia Enfermedad,,,abrunacci,0 days 08:00:00.000000000
+2017-06-16 10:00:00,2017-06-16 13:00:00,Bitson,Bitson,Tramite ,"Cheque Robado, Denuncias varias ",,hbrunacci,0 days 03:00:00.000000000
+2017-06-16 09:45:00,2017-06-16 11:25:00,Bitson,Bitson,Gestión Interna,"Coordinación de tareas con @cuberti. Escrito juicio AFA con @nespino, @ddebonis y @pablitogodoy. Certificado del Contador para Credicoop con @santichola y @nespino.",,lcolombo,0 days 01:40:00.000000000
+2017-06-15 18:33:00,2017-06-15 19:20:00,ECSA,Banfield,Operativo,,,nespino,0 days 00:47:00.000000000
+2017-06-15 16:20:00,2017-06-15 17:30:00,ECSA,Beagle SCA,Operativo,Testing new_turnstile,,lcolombo,0 days 01:10:00.000000000
+2017-06-15 15:40:00,2017-06-15 16:20:00,ECSA,Beagle SCA,Operativo,Escribiendo funciones dentro del molinete para procesar los comandos del monitor,,lcolombo,0 days 00:40:00.000000000
+2017-06-15 15:23:00,2017-06-15 18:00:00,ECSA,Banfield,Operativo,,,nespino,0 days 02:37:00.000000000
+2017-06-15 14:45:00,2017-06-15 15:40:00,ECSA,Beagle SCA,Operativo,Entendiendo filtros en el modelo PUB-SUB,,lcolombo,0 days 00:55:00.000000000
+2017-06-15 14:29:00,2017-06-15 14:47:00,ECSA,Banfield,Operativo,,,nespino,0 days 00:18:00.000000000
+2017-06-15 14:10:00,2017-06-15 14:45:00,Bitson,Bitson,Gestión Interna,Búsqueda de info sobre ECSA de pagos y laburos.,,lcolombo,0 days 00:35:00.000000000
+2017-06-15 13:30:00,2017-06-15 13:33:00,Aptage,Aptage,Instalación,,,nespino,0 days 00:03:00.000000000
+2017-06-15 13:00:00,2017-06-15 13:28:00,ECSA,Sigas SCA,Mantenimiento,,,nespino,0 days 00:28:00.000000000
+2017-06-15 12:45:00,2017-06-15 13:45:00,ECSA,Beagle SCA,Operativo,Filtrando mensajes del Publisher.,,lcolombo,0 days 01:00:00.000000000
+2017-06-15 12:00:00,2017-06-15 13:00:00,Bitson,Cromi,Desarrollo,,,ddebonis,0 days 01:00:00.000000000
+2017-06-15 11:00:00,2017-06-15 12:30:00,ECSA,Beagle SCA,Operativo,Creando PUB-SUB de prueba,,lcolombo,0 days 01:30:00.000000000
+2017-06-15 10:40:00,2017-06-15 11:57:00,Bitson,Bitson,Capacitación,,,nespino,0 days 01:17:00.000000000
+2017-06-15 10:00:00,2017-06-15 18:00:00,Bitson,Bitson,Licencia Enfermedad,,,abrunacci,0 days 08:00:00.000000000
+2017-06-15 10:00:00,2017-06-15 18:00:00,Bitson,Bitson,Gestión Comercial,Qualia y otros,,hbrunacci,0 days 08:00:00.000000000
+2017-06-15 08:35:00,2017-06-15 09:37:00,Bitson,Bitson,Gestión Interna,,,cuberti,0 days 01:02:00.000000000
+2017-06-14 19:00:00,2017-06-14 19:30:00,Bitson,Bitson,Gestión Comercial,Envío de NDA a aptage.,,lcolombo,0 days 00:30:00.000000000
+2017-06-14 18:00:00,2017-06-14 19:00:00,ECSA,Beagle SCA,Operativo,Configurando PUB-SUB dentro del molinete.,,lcolombo,0 days 01:00:00.000000000
+2017-06-14 16:19:00,2017-06-14 17:20:00,Bitson,Bitson,Capacitación,,,nespino,0 days 01:01:00.000000000
+2017-06-14 15:08:00,2017-06-14 15:55:00,Bitson,Bitson,Capacitación,,,nespino,0 days 00:47:00.000000000
+2017-06-14 15:00:00,2017-06-14 18:00:00,ECSA,Beagle SCA,Operativo,New Blades 100% coverage. Trying new blades in new firmware.,,lcolombo,0 days 03:00:00.000000000
+2017-06-14 14:00:00,2017-06-14 15:00:00,Bitson,Bitson,Gestión Interna,Google Analytics para bitson.com.ar y cromi.com.ar. Gestión de contrato con aptage. Planilla DEMO por licencia enfermedad con @cuberti.,,lcolombo,0 days 01:00:00.000000000
+2017-06-14 13:33:00,2017-06-14 14:30:00,Bitson,Bitson,Gestión Interna,,,cuberti,0 days 00:57:00.000000000
+2017-06-14 11:00:00,2017-06-14 17:00:00,Bitson,Bitson,Capacitación,,,ddebonis,0 days 06:00:00.000000000
+2017-06-14 11:00:00,2017-06-14 15:30:00,Bitson,Bitson,Gestión Comercial,pfa banfield otros temas cheque rechazado,,hbrunacci,0 days 04:30:00.000000000
+2017-06-14 10:50:00,2017-06-14 14:01:00,Bitson,Bitson,Capacitación,,,nespino,0 days 03:11:00.000000000
+2017-06-14 10:00:00,2017-06-14 18:00:00,Bitson,Bitson,Licencia Enfermedad,,,abrunacci,0 days 08:00:00.000000000
+2017-06-14 10:00:00,2017-06-14 13:12:00,Bitson,Bitson,Gestión Interna,,,cuberti,0 days 03:12:00.000000000
+2017-06-13 23:52:00,2017-06-14 01:04:00,Bitson,Bitson,Capacitación,,,nespino,0 days 01:12:00.000000000
+2017-06-13 19:30:00,2017-06-13 20:00:00,Bitson,Bitson,Gestión Comercial,Análisis powergym vs SIGAS.,,lcolombo,0 days 00:30:00.000000000
+2017-06-13 18:30:00,2017-06-13 19:30:00,Pablo Gutierrez - Qualia Encuestas ,Encuestas,Presupuesto,Prueba API LimeSurvey encuestas.bitson.com.ar. Respuesta mail lista de trabajo.,,lcolombo,0 days 01:00:00.000000000
+2017-06-13 18:00:00,2017-06-13 18:30:00,Bitson,Bitson,Atención a clientes,Prueba de AP Cisco Viamonte,,lcolombo,0 days 00:30:00.000000000
+2017-06-13 17:00:00,2017-06-13 18:00:00,ECSA,Beagle SCA,Operativo,Agregando problemas en el fail2ban del gitlab. ,,lcolombo,0 days 01:00:00.000000000
+2017-06-13 16:20:00,2017-06-13 17:00:00,Bitson,Bitson,Operativo,Intento fallido de conectar el gitlab de bitson con gitlab.com para poder vincular el proyecto de kairos.,,lcolombo,0 days 00:40:00.000000000
+2017-06-13 16:00:00,2017-06-13 16:20:00,Bitson,Bitson,Atención a clientes,"Atenció a cadete de Estudio Troncoso por ""reclamo"" de funcionamiento del AP Cisco.",,lcolombo,0 days 00:20:00.000000000
+2017-06-13 15:40:00,2017-06-13 16:55:00,Bitson,Bitson,Capacitación,,,nespino,0 days 01:15:00.000000000
+2017-06-13 15:20:00,2017-06-13 16:00:00,Bitson,Bitson,Gestión Comercial,Video Call aptage.,,lcolombo,0 days 00:40:00.000000000
+2017-06-13 14:30:00,2017-06-13 15:40:00,Bitson,Bitson,Atención a clientes,,,nespino,0 days 01:10:00.000000000
+2017-06-13 14:20:00,2017-06-13 15:20:00,Bitson,Bitson,Gestión Comercial,Charla con @hbrunacci por proyecto,,lcolombo,0 days 01:00:00.000000000
+2017-06-13 14:00:00,2017-06-13 16:30:00,Bitson,Bitson,Capacitación,,,ddebonis,0 days 02:30:00.000000000
+2017-06-13 14:00:00,2017-06-13 14:20:00,Bitson,Bitson,Gestión Interna,Setup oficina. Actualiación i5. Conexión uberconference. Búsqueda de información sobre aptage.,,lcolombo,0 days 00:20:00.000000000
+2017-06-13 13:00:00,2017-06-13 14:00:00,Bitson,Bitson,Almuerzo,,,ddebonis,0 days 01:00:00.000000000
+2017-06-13 12:50:00,2017-06-13 14:54:00,Bitson,Bitson,Gestión Interna,,,cuberti,0 days 02:04:00.000000000
+2017-06-13 12:00:00,2017-06-13 13:00:00,Bitson,Bitson,Gestión Interna,Tramite,,ddebonis,0 days 01:00:00.000000000
+2017-06-13 10:30:00,2017-06-13 11:45:00,Bitson,Bitson,Gestión Interna,Gestión de Cheque Rechazado. Recupero de clave VISA HOME. Coordinación de actividades con @cuberti. Logos Telegram BITSON. Coordinación VideoCall con aptage.,,lcolombo,0 days 01:15:00.000000000
+2017-06-13 10:00:00,2017-06-13 18:00:00,Bitson,Bitson,Licencia Enfermedad,,,abrunacci,0 days 08:00:00.000000000
+2017-06-13 10:00:00,2017-06-13 15:30:00,Bitson,Bitson,Gestión Comercial,,,hbrunacci,0 days 05:30:00.000000000
+2017-06-13 10:00:00,2017-06-13 12:11:00,Bitson,Bitson,Gestión Interna,,,cuberti,0 days 02:11:00.000000000
+2017-06-13 08:00:00,2017-06-13 12:00:00,Bitson,Bitson,Capacitación,,,ddebonis,0 days 04:00:00.000000000
+2017-06-12 20:03:00,2017-06-12 20:53:00,Bitson,Bitson,Capacitación,,,nespino,0 days 00:50:00.000000000
+2017-06-12 19:50:00,2017-06-12 20:03:00,SanyoJafep,Magento SanyoJafep,Operativo,,,nespino,0 days 00:13:00.000000000
+2017-06-12 17:39:00,2017-06-12 18:59:00,Bitson,Bitson,Orden de trabajo,,,nespino,0 days 01:20:00.000000000
+2017-06-12 17:10:00,2017-06-12 17:35:00,Bitson,Bitson,Gestión Interna,Pago de retiros semanales,,lcolombo,0 days 00:25:00.000000000
+2017-06-12 17:00:00,2017-06-12 17:10:00,Bitson,Bitson,Gestión Interna,Ayuda a @cuberti con planilla de Gestión 2017.,,lcolombo,0 days 00:10:00.000000000
+2017-06-12 16:30:00,2017-06-12 17:00:00,ECSA,Beagle SCA,Operativo,Explicación testing @nespino y @abrunacci,,lcolombo,0 days 00:30:00.000000000
+2017-06-12 16:00:00,2017-06-12 17:00:00,Bitson,Bitson,Capacitación,,,ddebonis,0 days 01:00:00.000000000
+2017-06-12 16:00:00,2017-06-12 16:30:00,Bitson,Bitson,Gestión Interna,Revisión planilla de Gestión 2017 con @cuberti,,lcolombo,0 days 00:30:00.000000000
+2017-06-12 14:28:00,2017-06-12 15:59:00,Bitson,Bitson,Gestión Interna,,,nespino,0 days 01:31:00.000000000
+2017-06-12 14:25:00,2017-06-12 16:00:00,Bitson,Bitson,Reunion,Reunión semanal.,,lcolombo,0 days 01:35:00.000000000
+2017-06-12 14:10:00,2017-06-12 14:25:00,Bitson,Bitson,Gestión Interna,Revisión de Manual de Marca de Cooperativa de Diseño.,,lcolombo,0 days 00:15:00.000000000
+2017-06-12 14:00:00,2017-06-12 16:00:00,Bitson,Bitson,Gestión Interna,,,ddebonis,0 days 02:00:00.000000000
+2017-06-12 14:00:00,2017-06-12 17:40:00,Bitson,Bitson,Gestión Interna,,,cuberti,0 days 03:40:00.000000000
+2017-06-12 13:50:00,2017-06-12 14:10:00,ECSA,Beagle SCA,Operativo,Pulleando y corrigiendo código para que funcione en i5,,lcolombo,0 days 00:20:00.000000000
+2017-06-12 12:00:00,2017-06-12 14:00:00,Bitson,Bitson,Capacitación,,,ddebonis,0 days 02:00:00.000000000
+2017-06-12 11:55:00,2017-06-12 12:25:00,Bitson,Bitson,Gestión Interna,Preparación documento reunión semanal,,lcolombo,0 days 00:30:00.000000000
+2017-06-12 11:45:00,2017-06-12 12:30:00,Bitson,Bitson,Atención a clientes,"PFA-> Presu
+Banfield -> Sql
+		 -> Migrar Sistema SGS 
+		 -> Reunion Banfield Migracion /en ecsa
+
+Sigas -> Cotizar Lectura DNI/fw 
+
+Beagle ->
+
+- Cuente ingresos y egresos
+- ",,hbrunacci,0 days 00:45:00.000000000
+2017-06-12 11:30:00,2017-06-12 11:55:00,ECSA,Beagle SCA,Operativo,Added coverage to blades.going_in_2() & Added coverage to blades.going_in_3(),,lcolombo,0 days 00:25:00.000000000
+2017-06-12 11:15:00,2017-06-12 11:45:00,Bitson,Bitson,Gestión Interna,,,hbrunacci,0 days 00:30:00.000000000
+2017-06-12 11:00:00,2017-06-12 12:00:00,Bitson,Bitson,Almuerzo,,,ddebonis,0 days 01:00:00.000000000
+2017-06-12 10:30:00,2017-06-12 10:45:00,ECSA,Beagle SCA,Operativo,Added blades.going_in_1() tests,,lcolombo,0 days 00:15:00.000000000
+2017-06-12 10:00:00,2017-06-12 11:15:00,Bitson,Kairos,Instalación,Retiro de compras en EXO,,hbrunacci,0 days 01:15:00.000000000
+2017-06-12 09:30:00,2017-06-12 17:56:00,Betterez,Betterez,Desarrollo,,,abrunacci,0 days 08:26:00.000000000
+2017-06-12 09:00:00,2017-06-12 11:00:00,Bitson,Bitson,Capacitación,,,ddebonis,0 days 02:00:00.000000000
+2017-06-12 07:10:00,2017-06-12 08:00:00,ECSA,Beagle SCA,Operativo,Mejorando la cobertura de blades a 81%.,,lcolombo,0 days 00:50:00.000000000
+2017-06-11 17:13:00,2017-06-11 18:47:00,Bitson,Bitson,Presupuesto,,,nespino,0 days 01:34:00.000000000
+2017-06-11 17:13:00,2017-06-11 17:13:00,Bitson,Bitson,Presupuesto,,,nespino,0 days 00:00:00.000000000
+2017-06-11 16:00:00,2017-06-11 16:40:00,ECSA,Beagle SCA,Operativo,Intentos fallidos de testeo de la máquina de estados blades.run(),,lcolombo,0 days 00:40:00.000000000
+2017-06-11 15:10:00,2017-06-11 15:40:00,ECSA,Beagle SCA,Operativo,Mejorando el coverage en new_blades,,lcolombo,0 days 00:30:00.000000000
+2017-06-11 14:00:00,2017-06-11 15:10:00,ECSA,Beagle SCA,Operativo,Agregando test para new_blades,,lcolombo,0 days 01:10:00.000000000
+2017-06-11 00:20:00,2017-06-11 01:10:00,ECSA,Beagle SCA,Operativo,Agregando pytests a bitson_board.py,,lcolombo,0 days 00:50:00.000000000
+2017-06-10 23:40:00,2017-06-11 00:10:00,ECSA,Beagle SCA,Operativo,Agregando Coverage,,lcolombo,0 days 00:30:00.000000000
+2017-06-10 22:20:00,2017-06-10 23:40:00,ECSA,Beagle SCA,Operativo,Escribiendo test con pytest en beagle.py,,lcolombo,0 days 01:20:00.000000000
+2017-06-10 21:20:00,2017-06-10 22:20:00,Bitson,Bitson,Capacitación,Wiki: Configurar postfix para el envío de mails. Carga de SPF.,,lcolombo,0 days 01:00:00.000000000
+2017-06-10 12:45:00,2017-06-10 13:00:00,Bitson,Bitson,Gestión Interna,Pago de servidores OVH,,lcolombo,0 days 00:15:00.000000000
+2017-06-10 00:36:00,2017-06-10 00:43:00,Bitson,Bitson,Presupuesto,,,nespino,0 days 00:07:00.000000000
+2017-06-09 14:30:00,2017-06-09 15:15:00,Bitson,Cromi,Operativo,Instalación postfix cromi.com.ar,,lcolombo,0 days 00:45:00.000000000
+2017-06-09 12:00:00,2017-06-09 17:00:00,Bitson,Bitson,Capacitación,,,ddebonis,0 days 05:00:00.000000000
+2017-06-09 11:00:00,2017-06-09 12:00:00,Bitson,Bitson,Almuerzo,,,ddebonis,0 days 01:00:00.000000000
+2017-06-09 11:00:00,2017-06-09 13:16:00,Bitson,Bitson,Gestión Interna,,,cuberti,0 days 02:16:00.000000000
+2017-06-09 10:30:00,2017-06-09 11:30:00,Bitson,Bitson,Capacitación,Configurar servidor de mails para envío solamente.,,lcolombo,0 days 01:00:00.000000000
+2017-06-09 10:00:00,2017-06-09 11:00:00,Bitson,Bitson,Capacitación,,,ddebonis,0 days 01:00:00.000000000
+2017-06-09 10:00:00,2017-06-09 18:00:00,Betterez,Betterez,Desarrollo,,,abrunacci,0 days 08:00:00.000000000
+2017-06-09 10:00:00,2017-06-09 15:30:00,Bitson,Bitson,Gestión Comercial,,,hbrunacci,0 days 05:30:00.000000000
+2017-06-08 15:07:00,2017-06-08 19:31:00,Bitson,Bitson,Capacitación,,,nespino,0 days 04:24:00.000000000
+2017-06-08 14:08:00,2017-06-08 14:23:00,Bitson,Bitson,Capacitación,,,nespino,0 days 00:15:00.000000000
+2017-06-08 13:39:00,2017-06-08 13:58:00,Bitson,Bitson,Capacitación,,,nespino,0 days 00:19:00.000000000
+2017-06-08 13:00:00,2017-06-08 14:22:00,Bitson,Bitson,Gestión Interna,,,cuberti,0 days 01:22:00.000000000
+2017-06-08 12:00:00,2017-06-08 17:00:00,Bitson,Bitson,Capacitación,,,ddebonis,0 days 05:00:00.000000000
+2017-06-08 11:00:00,2017-06-08 12:00:00,Bitson,Bitson,Almuerzo,,,ddebonis,0 days 01:00:00.000000000
+2017-06-08 10:15:00,2017-06-08 13:00:00,Bitson,Bitson,Gestión Interna,,,cuberti,0 days 02:45:00.000000000
+2017-06-08 10:00:00,2017-06-08 11:00:00,Bitson,Bitson,Capacitación,,,ddebonis,0 days 01:00:00.000000000
+2017-06-08 10:00:00,2017-06-08 18:00:00,Betterez,Betterez,Desarrollo,,,abrunacci,0 days 08:00:00.000000000
+2017-06-08 10:00:00,2017-06-08 15:30:00,Bitson,Bitson,Gestión Comercial,"Papeles adicionales Manos a la obra
+Qualia
+PFA
+",,hbrunacci,0 days 05:30:00.000000000
+2017-06-08 09:00:00,2017-06-08 17:00:00,Bitson,Bitson,Gestión Comercial,Evento IBM,,lcolombo,0 days 08:00:00.000000000
+2017-06-07 14:00:00,2017-06-07 16:00:00,ECSA,Beagle SCA,Reunion,Rol comercial y sus bemoles,,lcolombo,0 days 02:00:00.000000000
+2017-06-07 14:00:00,2017-06-07 16:00:00,Bitson,Bitson,Reunion,,,hbrunacci,0 days 02:00:00.000000000
+2017-06-07 13:59:00,2017-06-07 16:33:00,Bitson,Bitson,Gestión Interna,,,nespino,0 days 02:34:00.000000000
+2017-06-07 13:06:00,2017-06-07 13:59:00,Bitson,Bitson,Capacitación,,,nespino,0 days 00:53:00.000000000
+2017-06-07 13:05:00,2017-06-07 17:10:00,Bitson,Bitson,Gestión Comercial,,,cuberti,0 days 04:05:00.000000000
+2017-06-07 13:00:00,2017-06-07 16:00:00,Bitson,Bitson,Gestión Interna,,,ddebonis,0 days 03:00:00.000000000
+2017-06-07 13:00:00,2017-06-07 14:00:00,Bitson,Bitson,Gestión Comercial,,,hbrunacci,0 days 01:00:00.000000000
+2017-06-07 12:00:00,2017-06-07 13:00:00,Bitson,Bitson,Almuerzo,,,ddebonis,0 days 01:00:00.000000000
+2017-06-07 10:00:00,2017-06-07 12:00:00,Bitson,Bitson,Capacitación,,,ddebonis,0 days 02:00:00.000000000
+2017-06-07 10:00:00,2017-06-07 18:00:00,Betterez,Betterez,Desarrollo,,,abrunacci,0 days 08:00:00.000000000
+2017-06-07 10:00:00,2017-06-07 13:00:00,Pablo Gutierrez - Qualia Encuestas ,Sistema Encuestas Droguerías,Gestión Comercial,,,hbrunacci,0 days 03:00:00.000000000
+2017-06-06 19:00:00,2017-06-06 20:06:00,Bitson,Bitson,Gestión Interna,,,cuberti,0 days 01:06:00.000000000
+2017-06-06 17:50:00,2017-06-06 18:20:00,ECSA,Beagle SCA,Operativo,"Pruebas preliminares de funcionamiento de new_blades. Funcionó lo más simple, en modo normal como entrada y como salida y también funcionó el modo liberado.",,lcolombo,0 days 00:30:00.000000000
+2017-06-06 17:25:00,2017-06-06 17:50:00,ECSA,Beagle SCA,Operativo,Conexionado y etiquetado de molinete.,,lcolombo,0 days 00:25:00.000000000
+2017-06-06 17:10:00,2017-06-06 17:25:00,Bitson,Bitson,Mantenimiento,Cambio de reglas IPTABLES xq fiber nos sacó la IP estática.,,lcolombo,0 days 00:15:00.000000000
+2017-06-06 16:20:00,2017-06-06 17:10:00,ECSA,Beagle SCA,Operativo,Conexionado molinete y sensores con Beagle.,,lcolombo,0 days 00:50:00.000000000
+2017-06-06 16:00:00,2017-06-06 16:20:00,ECSA,Beagle SCA,Operativo,Armado de conector para Sensores.,,lcolombo,0 days 00:20:00.000000000
+2017-06-06 15:50:00,2017-06-06 16:00:00,Bitson,Bitson,Gestión Interna,Charla con @ddebonis,,lcolombo,0 days 00:10:00.000000000
+2017-06-06 15:47:00,2017-06-06 16:35:00,Bitson,Bitson,Capacitación,Django,,nespino,0 days 00:48:00.000000000
+2017-06-06 15:30:00,2017-06-06 15:50:00,Bitson,Bitson,Gestión Interna,Respuesta mail @hbrunacci PFA y Circuito OCA.,,lcolombo,0 days 00:20:00.000000000
+2017-06-06 15:15:00,2017-06-06 15:30:00,Bitson,Bitson,Presupuesto,OT50 - Capacitación.,,lcolombo,0 days 00:15:00.000000000
+2017-06-06 15:00:00,2017-06-06 15:15:00,Bitson,Bitson,Gestión Interna,Respuesta mail @hbrunacci Circuito OCA.,,lcolombo,0 days 00:15:00.000000000
+2017-06-06 14:35:00,2017-06-06 15:00:00,Bitson,Cromi,Operativo,Explicación a Matías y prueba de cambios. ,,lcolombo,0 days 00:25:00.000000000
+2017-06-06 14:20:00,2017-06-06 14:35:00,Bitson,Cromi,Operativo,Grabación Screencast para probar reserva y emisión de reporte.,,lcolombo,0 days 00:15:00.000000000
+2017-06-06 14:00:00,2017-06-06 16:00:00,Bitson,Bitson,Capacitación,,,ddebonis,0 days 02:00:00.000000000
+2017-06-06 13:45:00,2017-06-06 14:15:00,Bitson,Bitson,Mantenimiento,"Conectando de nuevo Internet por Fiber por cambio de IP.
+181.229.95.104 --> 200.127.65.221.
+Incluido el update en los DNS: ns1 & ns2.",,lcolombo,0 days 00:30:00.000000000
+2017-06-06 13:00:00,2017-06-06 14:00:00,Bitson,Bitson,Almuerzo,,,ddebonis,0 days 01:00:00.000000000
+2017-06-06 11:15:00,2017-06-06 11:45:00,Bitson,Bitson,Intercooperativo,Videocall c/ Devecoop @hbrunacci y @nespino.,,lcolombo,0 days 00:30:00.000000000
+2017-06-06 11:00:00,2017-06-06 11:41:00,Bitson,Bitson,Gestión Comercial,,,nespino,0 days 00:41:00.000000000
+2017-06-06 10:15:00,2017-06-06 11:15:00,Bitson,Bitson,Mantenimiento,Reclamo conexión FiberCorp. Sin internet en Alsina.,,lcolombo,0 days 01:00:00.000000000
+2017-06-06 10:00:00,2017-06-06 18:00:00,Betterez,Betterez,Desarrollo,,,abrunacci,0 days 08:00:00.000000000
+2017-06-06 10:00:00,2017-06-06 15:30:00,Bitson,Bitson,Gestión Comercial,@home,,hbrunacci,0 days 05:30:00.000000000
+2017-06-06 10:00:00,2017-06-06 12:50:00,Bitson,Bitson,Gestión Interna,"Carpetas
+Legal 
+Copia de libros",,cuberti,0 days 02:50:00.000000000
+2017-06-06 09:20:00,2017-06-06 09:35:00,Bitson,Cromi,Operativo,Fix in Reservation.total_income,,lcolombo,0 days 00:15:00.000000000
+2017-06-06 08:00:00,2017-06-06 13:00:00,Bitson,Cromi,Desarrollo,Arreglos visuales. (problemas con internet),,ddebonis,0 days 05:00:00.000000000
+2017-06-05 16:35:00,2017-06-05 18:05:00,ECSA,Quilmes ACS,Mantenimiento,,,nespino,0 days 01:30:00.000000000
+2017-06-05 16:30:00,2017-06-05 18:00:00,ECSA,Quilmes ACS,Operativo,"Soporte ECSA, partido QAC.",,lcolombo,0 days 01:30:00.000000000
+2017-06-05 16:17:00,2017-06-05 16:35:00,Bitson,Bitson,Capacitación,,,nespino,0 days 00:18:00.000000000
+2017-06-05 16:15:00,2017-06-05 16:30:00,Bitson,Cromi,Operativo,Charla con @ddebonis para ver como fraccionamos bien el rango horario de Itinerary.,,lcolombo,0 days 00:15:00.000000000
+2017-06-05 14:10:00,2017-06-05 16:15:00,Bitson,Bitson,Reunion,Reunión,,lcolombo,0 days 02:05:00.000000000
+2017-06-05 14:00:00,2017-06-05 16:30:00,Bitson,Bitson,Gestión Interna,,,ddebonis,0 days 02:30:00.000000000
+2017-06-05 14:00:00,2017-06-05 16:17:00,Bitson,Bitson,Gestión Interna,,,nespino,0 days 02:17:00.000000000
+2017-06-05 14:00:00,2017-06-05 15:30:00,Bitson,Bitson,Reunion,,,hbrunacci,0 days 01:30:00.000000000
+2017-06-05 13:45:00,2017-06-05 14:10:00,ECSA,Beagle SCA,Operativo,Armado de Ficha conector sensores.,,lcolombo,0 days 00:25:00.000000000
+2017-06-05 13:30:00,2017-06-05 17:38:00,Bitson,Bitson,Gestion Contable,,,cuberti,0 days 04:08:00.000000000
+2017-06-05 13:00:00,2017-06-05 14:00:00,Bitson,Bitson,Almuerzo,,,ddebonis,0 days 01:00:00.000000000
+2017-06-05 13:00:00,2017-06-05 14:00:00,Bitson,Bitson,Gestión Comercial,,,hbrunacci,0 days 01:00:00.000000000
+2017-06-05 12:57:00,2017-06-05 14:00:00,Bitson,Bitson,Capacitación,,,nespino,0 days 01:03:00.000000000
+2017-06-05 11:30:00,2017-06-05 13:00:00,Bitson,Manos a la obra,Completar Requerimientos,Modificación y completar planilla Excel Anexo Económico ,,hbrunacci,0 days 01:30:00.000000000
+2017-06-05 11:00:00,2017-06-05 11:30:00,Bitson,Bitson,Atención a clientes,llamada Ojeda tema PFA,,hbrunacci,0 days 00:30:00.000000000
+2017-06-05 10:00:00,2017-06-05 18:00:00,Betterez,Betterez,Desarrollo,"#6423
+Reunion Bitson
+#6423",,abrunacci,0 days 08:00:00.000000000
+2017-06-05 10:00:00,2017-06-05 11:00:00,Bitson,Bitson,Gestión Comercial,,,hbrunacci,0 days 01:00:00.000000000
+2017-06-05 09:00:00,2017-06-05 11:00:00,Bitson,Bitson,Gestión Interna,Preparación Reunión semanal (evaluación plan de emergencia). Revisión OT. Revisión Circuito OCA.,,lcolombo,0 days 02:00:00.000000000
+2017-06-05 08:00:00,2017-06-05 13:00:00,Bitson,Bitson,Capacitación,,,ddebonis,0 days 05:00:00.000000000
+2017-06-04 17:31:00,2017-06-04 20:11:00,Bitson,Bitson,Capacitación,,,nespino,0 days 02:40:00.000000000
+2017-06-04 16:23:00,2017-06-04 17:02:00,Bitson,Cromi,Testing,,,nespino,0 days 00:39:00.000000000
+2017-06-03 10:00:00,2017-06-03 10:30:00,Bitson,Bitson,Operativo,Reconfiguración servidor de Quilmes problemas con el postgresql,,hbrunacci,0 days 00:30:00.000000000
+2017-06-02 20:57:00,2017-06-02 21:33:00,Bitson,Cromi,Testing,,,nespino,0 days 00:36:00.000000000
+2017-06-02 18:00:00,2017-06-02 19:00:00,Bitson,Bitson,Operativo,resumen de tiempo ocupado en el dia para terminar configuraciones de servidor de Quilmes,,hbrunacci,0 days 01:00:00.000000000
+2017-06-02 16:30:00,2017-06-02 17:00:00,Bitson,Bitson,Operativo,Preparación reunión semanal. Revisión de retiros y mínimos.,,lcolombo,0 days 00:30:00.000000000
+2017-06-02 16:00:00,2017-06-02 16:30:00,ECSA,Beagle SCA,Operativo,Compra en electrocomponentes.,,lcolombo,0 days 00:30:00.000000000
+2017-06-02 15:07:00,2017-06-02 17:53:00,ECSA,Sigas SGS,Testing,,,nespino,0 days 02:46:00.000000000
+2017-06-02 15:00:00,2017-06-02 16:00:00,Bitson,Bitson,Gestión Comercial,,,hbrunacci,0 days 01:00:00.000000000
+2017-06-02 14:00:00,2017-06-02 16:00:00,Bitson,Bitson,Gestión Interna,Coordinación de reunión semanal del lunes con @cuberti y Resumen del 1er mes del plan de emergencia.,,lcolombo,0 days 02:00:00.000000000
+2017-06-02 14:00:00,2017-06-02 16:05:00,Bitson,Bitson,Gestión Interna,,,cuberti,0 days 02:05:00.000000000
+2017-06-02 11:25:00,2017-06-02 12:41:00,Bitson,Bitson,Capacitación,,,nespino,0 days 01:16:00.000000000
+2017-06-02 10:00:00,2017-06-02 18:00:00,Betterez,Betterez,Desarrollo,"6488 / 6423
+",,abrunacci,0 days 08:00:00.000000000
+2017-06-02 10:00:00,2017-06-02 11:30:00,Bitson,Bitson,Gestión Comercial,,,hbrunacci,0 days 01:30:00.000000000
+2017-06-02 08:00:00,2017-06-02 14:00:00,Bitson,Bitson,Capacitación,,,ddebonis,0 days 06:00:00.000000000
+2017-06-01 19:56:00,2017-06-01 20:43:00,Bitson,Cromi,Testing,,,nespino,0 days 00:47:00.000000000
+2017-06-01 18:37:00,2017-06-01 18:59:00,ECSA,Sigas SGS,Testing,,,nespino,0 days 00:22:00.000000000
+2017-06-01 16:30:00,2017-06-01 18:37:00,Bitson,Cromi,Desarrollo,Unit testing,,nespino,0 days 02:07:00.000000000
+2017-06-01 15:20:00,2017-06-01 17:40:00,Bitson,Cromi,Operativo,Arreglando Issues. Fixing Issue 38. Cargando EvenType x default. Pruebas de reservation days.,,lcolombo,0 days 02:20:00.000000000
+2017-06-01 14:15:00,2017-06-01 15:20:00,ECSA,Quilmes ACS,Operativo,Instalación ACS.,,lcolombo,0 days 01:05:00.000000000
+2017-06-01 14:00:00,2017-06-01 17:00:00,Bitson,Cromi,Desarrollo,,,ddebonis,0 days 03:00:00.000000000
+2017-06-01 14:00:00,2017-06-01 14:15:00,ECSA,Beagle SCA,Operativo,Reparación de sensores.,,lcolombo,0 days 00:15:00.000000000
+2017-06-01 13:30:00,2017-06-01 14:00:00,Bitson,Bitson,Capacitación,,,ddebonis,0 days 00:30:00.000000000
+2017-06-01 13:00:00,2017-06-01 13:30:00,Bitson,Cromi,Desarrollo,,,ddebonis,0 days 00:30:00.000000000
+2017-06-01 12:00:00,2017-06-01 13:00:00,Bitson,Bitson,Almuerzo,,,ddebonis,0 days 01:00:00.000000000
+2017-06-01 12:00:00,2017-06-01 13:30:00,Bitson,Bitson,Gestión Interna,,,nespino,0 days 01:30:00.000000000
+2017-06-01 10:25:00,2017-06-01 10:55:00,Bitson,Cromi,Operativo,Issues DOMI,,lcolombo,0 days 00:30:00.000000000
+2017-06-01 10:15:00,2017-06-01 14:15:00,Bitson,Bitson,Gestión Interna,,,cuberti,0 days 04:00:00.000000000
+2017-06-01 10:00:00,2017-06-01 19:00:00,Betterez,Betterez,Desarrollo,video cromi/ 6488 / Ayudando a nahue con los test,,abrunacci,0 days 09:00:00.000000000
+2017-06-01 10:00:00,2017-06-01 15:30:00,Bitson,Bitson,Gestión Comercial,,,hbrunacci,0 days 05:30:00.000000000
+2017-06-01 08:00:00,2017-06-01 12:00:00,Bitson,Cromi,Desarrollo,,,ddebonis,0 days 04:00:00.000000000
+2017-05-31 20:00:00,2017-05-31 20:15:00,Bitson,Bitson,Gestión Interna,Mail respuesta x Circuito OCA a HB,,lcolombo,0 days 00:15:00.000000000
+2017-05-31 18:40:00,2017-05-31 20:00:00,ECSA,Quilmes ACS,Operativo,Instalación de SO.,,lcolombo,0 days 01:20:00.000000000
+2017-05-31 18:30:00,2017-05-31 18:40:00,Bitson,Cromi,Operativo,Explicación Test @nespino,,lcolombo,0 days 00:10:00.000000000
+2017-05-31 18:03:00,2017-05-31 18:33:00,Bitson,Bitson,Capacitación,,,nespino,0 days 00:30:00.000000000
+2017-05-31 18:00:00,2017-05-31 18:30:00,Bitson,Bitson,Gestión Interna,Charla con @cuberti y @nespino x Reuniones Semanales.,,lcolombo,0 days 00:30:00.000000000
+2017-05-31 16:00:00,2017-05-31 18:00:00,Bitson,Bitson,Motivo Particular,Reunión con TES x PyAR.,,lcolombo,0 days 02:00:00.000000000
+2017-05-31 15:40:00,2017-05-31 17:01:00,Bitson,Bitson,Capacitación,,,nespino,0 days 01:21:00.000000000
+2017-05-31 14:55:00,2017-05-31 16:00:00,ECSA,Quilmes ACS,Operativo,Instalación SO. Disco que se revela.,,lcolombo,0 days 01:05:00.000000000
+2017-05-31 14:30:00,2017-05-31 18:31:00,Bitson,Bitson,Gestión Interna,,,cuberti,0 days 04:01:00.000000000
+2017-05-31 14:17:00,2017-05-31 15:31:00,Bitson,Bitson,Capacitación,,,nespino,0 days 01:14:00.000000000
+2017-05-31 14:00:00,2017-05-31 15:40:00,Bitson,Bitson,Gestión Comercial,,,hbrunacci,0 days 01:40:00.000000000
+2017-05-31 13:55:00,2017-05-31 14:55:00,Bitson,Bitson,Operativo,Capacitación Test c/@nespino y @abrunacci.,,lcolombo,0 days 01:00:00.000000000
+2017-05-31 13:00:00,2017-05-31 17:00:00,Bitson,Bitson,Capacitación,,,ddebonis,0 days 04:00:00.000000000
+2017-05-31 12:00:00,2017-05-31 13:00:00,Bitson,Bitson,Almuerzo,,,ddebonis,0 days 01:00:00.000000000
+2017-05-31 12:00:00,2017-05-31 14:16:00,Bitson,Bitson,Capacitación,,,nespino,0 days 02:16:00.000000000
+2017-05-31 11:30:00,2017-05-31 14:00:00,Bitson,Bitson,Gestión Comercial,Reunión con Matías por Cromi (incluye tiempos de transporte),,hbrunacci,0 days 02:30:00.000000000
+2017-05-31 10:55:00,2017-05-31 12:00:00,Bitson,Bitson,Mantenimiento,Impresora Epson,,nespino,0 days 01:05:00.000000000
+2017-05-31 10:00:00,2017-05-31 18:00:00,Betterez,Betterez,Desarrollo,6488,,abrunacci,0 days 08:00:00.000000000
+2017-05-31 10:00:00,2017-05-31 11:30:00,Bitson,Bitson,Operativo,Compra de Disco Rigido,,hbrunacci,0 days 01:30:00.000000000
+2017-05-31 09:00:00,2017-05-31 12:00:00,Bitson,Bitson,Capacitación,,,ddebonis,0 days 03:00:00.000000000
+2017-05-30 21:35:00,2017-05-30 22:30:00,Bitson,Bitson,Capacitación,,,nespino,0 days 00:55:00.000000000
+2017-05-30 20:00:00,2017-05-30 20:30:00,ECSA,Beagle SCA,Operativo,Conexión física molinete con Beagle.,,lcolombo,0 days 00:30:00.000000000
+2017-05-30 19:00:00,2017-05-30 20:00:00,ECSA,Beagle SCA,Operativo,"Configurando molinete. Cambiando input_sensor, input_semaphore, input_solenoid & output... to properties.",,lcolombo,0 days 01:00:00.000000000
+2017-05-30 18:00:00,2017-05-30 19:00:00,ECSA,Eaccess PFA,Presupuesto,Revisión de OT y Presupuesto.,,lcolombo,0 days 01:00:00.000000000
+2017-05-30 17:00:00,2017-05-30 18:00:00,Bitson,Bitson,Gestión Interna,Reunion cooperativa de disenio,,ddebonis,0 days 01:00:00.000000000
+2017-05-30 17:00:00,2017-05-30 18:00:00,Bitson,Bitson,Reunion,Reunión con Coop. Diseño x el Logo.,,lcolombo,0 days 01:00:00.000000000
+2017-05-30 16:30:00,2017-05-30 17:00:00,Bitson,Bitson,Presupuesto,Editorial bonunm,,ddebonis,0 days 00:30:00.000000000
+2017-05-30 16:05:00,2017-05-30 17:00:00,Bitson,Cromi,Operativo,"Intengo de configuración con docker-mailserver. FAILED.
+Intento de configuarción con docker-smtp. FAILED.
+Configuración de exim4 como Smarthost.",,lcolombo,0 days 00:55:00.000000000
+2017-05-30 15:50:00,2017-05-30 16:05:00,Bitson,Bitson,Gestión Interna,Charla c/ Devecoop x PyAr,,lcolombo,0 days 00:15:00.000000000
+2017-05-30 15:35:00,2017-05-30 15:50:00,ECSA,Beagle SCA,Operativo,Instalación de docker-mail. Primeros pasos.,,lcolombo,0 days 00:15:00.000000000
+2017-05-30 15:20:00,2017-05-30 15:35:00,Bitson,Cromi,Operativo,Instalación docker-compose en el server.,,lcolombo,0 days 00:15:00.000000000
+2017-05-30 15:00:00,2017-05-30 16:30:00,Bitson,Bitson,Capacitación,,,ddebonis,0 days 01:30:00.000000000
+2017-05-30 15:00:00,2017-05-30 15:20:00,Bitson,Cromi,Operativo,Instalación Docker en server.,,lcolombo,0 days 00:20:00.000000000
+2017-05-30 15:00:00,2017-05-30 16:52:00,Bitson,Bitson,Capacitación,Unit testing creation,,nespino,0 days 01:52:00.000000000
+2017-05-30 14:00:00,2017-05-30 15:00:00,Bitson,Bitson,Almuerzo,,,ddebonis,0 days 01:00:00.000000000
+2017-05-30 14:00:00,2017-05-30 15:00:00,Bitson,Bitson,Gestión Interna,Dominio para Kairos. Estado de trámite del Credicoop (cambio de firma y calificación TC). Respuesta de mails pendientes x trabajos y cotizaciones.,,lcolombo,0 days 01:00:00.000000000
+2017-05-30 12:00:00,2017-05-30 14:00:00,Bitson,Bitson,Capacitación,,,ddebonis,0 days 02:00:00.000000000
+2017-05-30 11:45:00,2017-05-30 18:20:00,Bitson,Bitson,Gestión Comercial,,,hbrunacci,0 days 06:35:00.000000000
+2017-05-30 10:50:00,2017-05-30 18:01:00,Bitson,Bitson,Gestión Interna,,,cuberti,0 days 07:11:00.000000000
+2017-05-30 10:25:00,2017-05-30 11:25:00,ECSA,Sigas SCA,Desarrollo,Revisión de error en Talleres con @hbrunacci y @nespino.,,lcolombo,0 days 01:00:00.000000000
+2017-05-30 10:00:00,2017-05-30 12:00:00,Bitson,Cromi,Desarrollo,,,ddebonis,0 days 02:00:00.000000000
+2017-05-30 10:00:00,2017-05-30 19:30:00,Betterez,Betterez,Desarrollo,6489,,abrunacci,0 days 09:30:00.000000000
+2017-05-29 16:30:00,2017-05-29 18:15:00,Bitson,Bitson,Gestión Interna,Cromi mail y propuesta color Bitson.,,lcolombo,0 days 01:45:00.000000000
+2017-05-29 16:15:00,2017-05-29 16:30:00,Bitson,Bitson,Gestión Interna,"Propuesta color, bitson.",,lcolombo,0 days 00:15:00.000000000
+2017-05-29 16:00:00,2017-05-29 16:15:00,Bitson,Bitson,Gestion Contable,Archivo nuevo de gestión contable c/@cuberti.,,lcolombo,0 days 00:15:00.000000000
+2017-05-29 15:45:00,2017-05-29 18:39:00,ECSA,Sigas SGS,Operativo,,,nespino,0 days 02:54:00.000000000
+2017-05-29 15:45:00,2017-05-29 16:00:00,Bitson,Bitson,Gestión Interna,Contrato Betterez.,,lcolombo,0 days 00:15:00.000000000
+2017-05-29 15:30:00,2017-05-29 18:00:00,Bitson,Cromi,Desarrollo,,,ddebonis,0 days 02:30:00.000000000
+2017-05-29 14:44:00,2017-05-29 15:44:00,Bitson,Bitson,Gestión Interna,,,nespino,0 days 01:00:00.000000000
+2017-05-29 14:30:00,2017-05-29 15:45:00,Bitson,Bitson,Reunion,Reunión semanal.,,lcolombo,0 days 01:15:00.000000000
+2017-05-29 14:15:00,2017-05-29 14:30:00,Bitson,Bitson,Gestión Interna,Preparación temas reunión semanal.,,lcolombo,0 days 00:15:00.000000000
+2017-05-29 14:00:00,2017-05-29 15:30:00,Bitson,Bitson,Gestión Interna,Reunion semanal,,ddebonis,0 days 01:30:00.000000000
+2017-05-29 13:50:00,2017-05-29 14:44:00,ECSA,Sigas SGS,Desarrollo,,,nespino,0 days 00:54:00.000000000
+2017-05-29 13:50:00,2017-05-29 18:20:00,Bitson,Bitson,Gestión Interna,,,cuberti,0 days 04:30:00.000000000
+2017-05-29 13:00:00,2017-05-29 14:00:00,Bitson,Bitson,Almuerzo,,,ddebonis,0 days 01:00:00.000000000
+2017-05-29 10:00:00,2017-05-29 18:00:00,Betterez,Betterez,Desarrollo,6377,,abrunacci,0 days 08:00:00.000000000
+2017-05-29 10:00:00,2017-05-29 15:40:00,Bitson,Bitson,Gestión Comercial,,,hbrunacci,0 days 05:40:00.000000000
+2017-05-29 09:00:00,2017-05-29 13:00:00,Bitson,Cromi,Desarrollo,,,ddebonis,0 days 04:00:00.000000000
+2017-05-29 08:00:00,2017-05-29 10:00:00,Bitson,Bitson,Capacitación,Flask at Scale & microservices. Load Balancing with Nginx.,,lcolombo,0 days 02:00:00.000000000
+2017-05-28 21:37:00,2017-05-29 01:12:00,ECSA,Sigas SGS,Desarrollo,,,nespino,0 days 03:35:00.000000000
+2017-05-28 20:38:00,2017-05-28 21:26:00,ECSA,Sigas SGS,Desarrollo,,,nespino,0 days 00:48:00.000000000
+2017-05-28 20:33:00,2017-05-28 20:38:00,ECSA,Sigas SCA,Desarrollo,,,nespino,0 days 00:05:00.000000000
+2017-05-26 21:04:00,2017-05-26 22:05:00,ECSA,Sigas SGS,Desarrollo,,,nespino,0 days 01:01:00.000000000
+2017-05-26 16:25:00,2017-05-26 17:00:00,Bitson,Bitson,Presupuesto,Lectura de mails Presupuesto CARP & Capacitación.,,lcolombo,0 days 00:35:00.000000000
+2017-05-26 16:00:00,2017-05-26 16:25:00,Bitson,Bitson,Gestión Interna,Charla c/@nespino (Ministerio & BITSON),,lcolombo,0 days 00:25:00.000000000
+2017-05-26 15:40:00,2017-05-26 16:21:00,Bitson,Bitson,Gestión Interna,,,nespino,0 days 00:41:00.000000000
+2017-05-26 14:15:00,2017-05-26 16:00:00,ECSA,Beagle SCA,Operativo,Prueba de new_Firm,,lcolombo,0 days 01:45:00.000000000
+2017-05-26 14:00:00,2017-05-26 14:30:00,Bitson,Cromi,Desarrollo,Perfiles react.,,ddebonis,0 days 00:30:00.000000000
+2017-05-26 13:51:00,2017-05-26 14:29:00,ECSA,Sigas SGS,Desarrollo,,,nespino,0 days 00:38:00.000000000
+2017-05-26 13:50:00,2017-05-26 14:15:00,ECSA,Beagle SCA,Operativo,Setup y update. ,,lcolombo,0 days 00:25:00.000000000
+2017-05-26 13:00:00,2017-05-26 14:00:00,Bitson,Bitson,Almuerzo,,,ddebonis,0 days 01:00:00.000000000
+2017-05-26 10:00:00,2017-05-26 18:30:00,Betterez,Betterez,Desarrollo,"6461 / 6377
+
+",,abrunacci,0 days 08:30:00.000000000
+2017-05-26 10:00:00,2017-05-26 15:50:00,Bitson,Bitson,Gestión Comercial,,,hbrunacci,0 days 05:50:00.000000000
+2017-05-26 09:30:00,2017-05-26 11:45:00,ECSA,Beagle SCA,Operativo,Generando objectos a partir de la configuración.,,lcolombo,0 days 02:15:00.000000000
+2017-05-26 08:00:00,2017-05-26 13:00:00,Bitson,Bitson,Capacitación,React,,ddebonis,0 days 05:00:00.000000000
+2017-05-25 17:25:00,2017-05-25 19:43:00,ECSA,Sigas SGS,Desarrollo,,,nespino,0 days 02:18:00.000000000
+2017-05-25 11:45:00,2017-05-25 17:30:00,Bitson,Bitson,Orden/Limpieza,Reacomodamiento de Alsina.,,lcolombo,0 days 05:45:00.000000000
+2017-05-25 10:25:00,2017-05-25 17:24:00,Bitson,Bitson,Mantenimiento,,,nespino,0 days 06:59:00.000000000
+2017-05-25 10:00:00,2017-05-25 17:30:00,Bitson,Bitson,Orden/Limpieza,,,abrunacci,0 days 07:30:00.000000000
+2017-05-25 10:00:00,2017-05-25 14:30:00,Bitson,Bitson,Orden/Limpieza,,,hbrunacci,0 days 04:30:00.000000000
+2017-05-25 09:00:00,2017-05-25 17:00:00,Bitson,Bitson,FERIADO,,,ddebonis,0 days 08:00:00.000000000
+2017-05-24 17:00:00,2017-05-24 18:45:00,ECSA,Beagle SCA,Operativo,Pruebas de lectura de config y creación de objetos.,,lcolombo,0 days 01:45:00.000000000
+2017-05-24 15:47:00,2017-05-24 20:41:00,ECSA,Sigas SGS,Desarrollo,,,nespino,0 days 04:54:00.000000000
+2017-05-24 14:00:00,2017-05-24 17:00:00,Bitson,Bitson,Gestión Interna,Sistema de Gestión c/@santichola,,lcolombo,0 days 03:00:00.000000000
+2017-05-24 13:30:00,2017-05-24 17:00:00,Bitson,Cromi,Desarrollo,"Issues Domi, pagina de perfil.
+React.",,ddebonis,0 days 03:30:00.000000000
+2017-05-24 13:00:00,2017-05-24 13:30:00,Bitson,Bitson,Almuerzo,,,ddebonis,0 days 00:30:00.000000000
+2017-05-24 13:00:00,2017-05-24 14:18:00,Bitson,Bitson,Gestión Interna,"Speedy, muerte y victoria de la compañia.
+Cromi
+Gestion actualizacion planilla
+",,cuberti,0 days 01:18:00.000000000
+2017-05-24 11:00:00,2017-05-24 12:00:00,Bitson,Cromi,Gestión Comercial,,,hbrunacci,0 days 01:00:00.000000000
+2017-05-24 10:45:00,2017-05-24 11:45:00,Bitson,Bitson,Operativo,Trackeo de horas DOMI. Pendientes y pasos a seguir.,,lcolombo,0 days 01:00:00.000000000
+2017-05-24 10:00:00,2017-05-24 19:00:00,Betterez,Betterez,Desarrollo,6461,,abrunacci,0 days 09:00:00.000000000
+2017-05-24 10:00:00,2017-05-24 13:00:00,Bitson,Cromi,Gestión Comercial,"Logo
+Web
+Guión video
+",,cuberti,0 days 03:00:00.000000000
+2017-05-24 09:00:00,2017-05-24 13:00:00,Bitson,Cromi,Desarrollo,Landing CROMI,,ddebonis,0 days 04:00:00.000000000
+2017-05-23 17:45:00,2017-05-23 20:30:00,ECSA,Beagle SCA,Operativo,Configuración de Moli usando configparse,,lcolombo,0 days 02:45:00.000000000
+2017-05-23 16:45:00,2017-05-23 17:45:00,ECSA,Beagle SCA,Operativo,Configuración conexiones i5 y beagles. Verificación funcionamiento init_messages.service,,lcolombo,0 days 01:00:00.000000000
+2017-05-23 16:30:00,2017-05-23 16:45:00,Bitson,Cromi,Operativo,Deploy landing en cromi.com.ar,,lcolombo,0 days 00:15:00.000000000
+2017-05-23 15:00:00,2017-05-23 16:30:00,Bitson,Cromi,Operativo,"Configuración Nginx con soporte HTTPS.
+Carga de pasos en la Wiki.",,lcolombo,0 days 01:30:00.000000000
+2017-05-23 14:58:00,2017-05-23 17:11:00,ECSA,Sigas SGS,Desarrollo,,,nespino,0 days 02:13:00.000000000
+2017-05-23 14:00:00,2017-05-23 15:00:00,Bitson,Cromi,Operativo,"Configuración DNS cromi.com.ar. Alta en NS1, NS2, configuración de VM en OVH. Alta en nic.ar",,lcolombo,0 days 01:00:00.000000000
+2017-05-23 13:48:00,2017-05-23 14:38:00,ECSA,Sigas SGS,Desarrollo,,,nespino,0 days 00:50:00.000000000
+2017-05-23 13:07:00,2017-05-23 13:30:00,ECSA,Sigas SGS,Desarrollo,,,nespino,0 days 00:23:00.000000000
+2017-05-23 13:00:00,2017-05-23 17:00:00,Bitson,Cromi,Desarrollo,Landing CROMI,,ddebonis,0 days 04:00:00.000000000
+2017-05-23 12:00:00,2017-05-23 13:00:00,Bitson,Bitson,Almuerzo,,,ddebonis,0 days 01:00:00.000000000
+2017-05-23 10:00:00,2017-05-23 17:00:00,Betterez,Betterez,Desarrollo,"6461
+",,abrunacci,0 days 07:00:00.000000000
+2017-05-23 10:00:00,2017-05-23 15:30:00,Bitson,Bitson,Licencia Enfermedad,,,hbrunacci,0 days 05:30:00.000000000
+2017-05-23 09:15:00,2017-05-23 11:15:00,Bitson,Bitson,Gestión Interna,Respuesta de mails de trabajos pendientes. Configuración Rambox.,,lcolombo,0 days 02:00:00.000000000
+2017-05-23 09:15:00,2017-05-23 12:51:00,Bitson,Bitson,Gestión Interna,,,cuberti,0 days 03:36:00.000000000
+2017-05-23 09:00:00,2017-05-23 12:00:00,Bitson,Cromi,Desarrollo,Landing CROMI,,ddebonis,0 days 03:00:00.000000000
+2017-05-22 19:41:00,2017-05-22 22:09:00,ECSA,Sigas SGS,Desarrollo,,,nespino,0 days 02:28:00.000000000
+2017-05-22 17:42:00,2017-05-22 17:48:00,ECSA,Sigas SGS,Desarrollo,,,nespino,0 days 00:06:00.000000000
+2017-05-22 17:10:00,2017-05-22 18:00:00,Bitson,Bitson,Gestión Interna,"Charla c/@abrunacci sobre microservicios.
+Charal c/@nespino sobre EPCA.
+",,lcolombo,0 days 00:50:00.000000000
+2017-05-22 16:10:00,2017-05-22 17:39:00,Bitson,Bitson,Gestión Comercial,Reunión con Sergio de IMASTEC.,,nespino,0 days 01:29:00.000000000
+2017-05-22 16:00:00,2017-05-22 17:00:00,Bitson,Cromi,Desarrollo,Landing template,,ddebonis,0 days 01:00:00.000000000
+2017-05-22 16:00:00,2017-05-22 17:10:00,Bitson,Bitson,Gestión Interna,Retiros semanales,,lcolombo,0 days 01:10:00.000000000
+2017-05-22 14:30:00,2017-05-22 16:00:00,Bitson,Bitson,Gestión Interna,Reunion semanal,,ddebonis,0 days 01:30:00.000000000
+2017-05-22 14:30:00,2017-05-22 16:00:00,Bitson,Bitson,Reunion,Reunión semanal,,lcolombo,0 days 01:30:00.000000000
+2017-05-22 14:27:00,2017-05-22 16:10:00,Bitson,Bitson,Gestión Interna,,,nespino,0 days 01:43:00.000000000
+2017-05-22 14:17:00,2017-05-22 14:27:00,ECSA,Sigas SGS,Desarrollo,,,nespino,0 days 00:10:00.000000000
+2017-05-22 14:15:00,2017-05-22 18:28:00,Bitson,Bitson,Gestión Interna,,,cuberti,0 days 04:13:00.000000000
+2017-05-22 14:00:00,2017-05-22 14:30:00,Bitson,Cromi,Desarrollo,React perfiles,,ddebonis,0 days 00:30:00.000000000
+2017-05-22 13:15:00,2017-05-22 14:04:00,Bitson,Bitson,Gestión Interna,,,cuberti,0 days 00:49:00.000000000
+2017-05-22 13:00:00,2017-05-22 14:00:00,Bitson,Bitson,Almuerzo,,,ddebonis,0 days 01:00:00.000000000
+2017-05-22 12:00:00,2017-05-22 17:15:00,Bitson,Bitson,Gestión Comercial,,,hbrunacci,0 days 05:15:00.000000000
+2017-05-22 10:00:00,2017-05-22 12:30:00,Bitson,Bitson,Gestión Interna,Planilla de registro de retiros de Plan de Emergencia.,,lcolombo,0 days 02:30:00.000000000
+2017-05-22 10:00:00,2017-05-22 18:00:00,Betterez,Betterez,Desarrollo,6377,,abrunacci,0 days 08:00:00.000000000
+2017-05-22 08:00:00,2017-05-22 13:00:00,Bitson,Cromi,Desarrollo,Perfil,,ddebonis,0 days 05:00:00.000000000
+2017-05-22 00:14:00,2017-05-22 01:28:00,ECSA,Sigas SGS,Desarrollo,,,nespino,0 days 01:14:00.000000000
+2017-05-21 23:24:00,2017-05-22 00:02:00,ECSA,Sigas SGS,Desarrollo,,,nespino,0 days 00:38:00.000000000
+2017-05-21 22:09:00,2017-05-21 22:47:00,ECSA,Sigas SGS,Desarrollo,,,nespino,0 days 00:38:00.000000000
+2017-05-21 19:55:00,2017-05-21 21:17:00,ECSA,Sigas SGS,Desarrollo,,,nespino,0 days 01:22:00.000000000
+2017-05-21 19:44:00,2017-05-21 19:53:00,ECSA,Sigas SGS,Desarrollo,,,nespino,0 days 00:09:00.000000000
+2017-05-21 03:11:00,2017-05-21 03:15:00,ECSA,Sigas SGS,Desarrollo,,,nespino,0 days 00:04:00.000000000
+2017-05-20 22:40:00,2017-05-20 23:46:00,ECSA,Sigas SGS,Desarrollo,,,nespino,0 days 01:06:00.000000000
+2017-05-19 22:50:00,2017-05-19 23:31:00,ECSA,Sigas SGS,Desarrollo,,,nespino,0 days 00:41:00.000000000
+2017-05-19 17:24:00,2017-05-19 18:23:00,ECSA,Sigas SGS,Desarrollo,,,nespino,0 days 00:59:00.000000000
+2017-05-19 15:00:00,2017-05-19 16:00:00,Bitson,Bitson,FIT,,,hbrunacci,0 days 01:00:00.000000000
+2017-05-19 14:10:00,2017-05-19 15:00:00,Kairos - Totem,Osmedica,Reunion,Afinar cuestiones para la propuesta final a Osmedica,,hbrunacci,0 days 00:50:00.000000000
+2017-05-19 13:50:00,2017-05-19 17:00:00,ECSA,Beagle SCA,Operativo,Pruebas con Beagle IoT. Display. COM1. ACG Reader. Modificación de configuraciones y registro en Wiki.,,lcolombo,0 days 03:10:00.000000000
+2017-05-19 13:41:00,2017-05-19 15:41:00,ECSA,Sigas SGS,Desarrollo,,,nespino,0 days 02:00:00.000000000
+2017-05-19 13:00:00,2017-05-19 14:00:00,ECSA,Banfield,Operativo,"Instalar windows 7 en notebook toshiba
+- Armar pen drive, comenzar instalación ",,hbrunacci,0 days 01:00:00.000000000
+2017-05-19 12:48:00,2017-05-19 17:53:00,Bitson,Bitson,Gestión Interna,,,cuberti,0 days 05:05:00.000000000
+2017-05-19 12:00:00,2017-05-19 12:15:00,Bitson,Bitson,Gestión Interna,Consulta Tryton SaaS. Archivo Estatuto FACTTIC. Administración GSuite mails bitson.com.ar,,lcolombo,0 days 00:15:00.000000000
+2017-05-19 11:20:00,2017-05-19 11:50:00,Bitson,Bitson,Gestión Comercial,Charla c/@hbrunacci x Kairós y desarrollos p/ECSA.,,lcolombo,0 days 00:30:00.000000000
+2017-05-19 11:00:00,2017-05-19 17:00:00,Bitson,Cromi,Desarrollo,React alta usuario,,ddebonis,0 days 06:00:00.000000000
+2017-05-19 10:00:00,2017-05-19 11:20:00,ECSA,Beagle SCA,Operativo,Desarrollo de new_blades.,,lcolombo,0 days 01:20:00.000000000
+2017-05-19 09:30:00,2017-05-19 11:15:00,ECSA,Sigas SCA,Reunion,"Reunión Con Rodrigo Ojeda
+Se hablo sobre la ejecución de la plata depositada
+Algunos proyectos a futuro",,hbrunacci,0 days 01:45:00.000000000
+2017-05-19 09:00:00,2017-05-19 11:00:00,Bitson,Cromi,Testing,Pruebas alta usuario,,ddebonis,0 days 02:00:00.000000000
+2017-05-19 09:00:00,2017-05-19 18:00:00,Betterez,Betterez,Desarrollo,,,abrunacci,0 days 09:00:00.000000000
+2017-05-18 17:00:00,2017-05-18 17:45:00,ECSA,Beagle SCA,Operativo,Configurando Beagle con IoT.,,lcolombo,0 days 00:45:00.000000000
+2017-05-18 16:00:00,2017-05-18 17:00:00,Bitson,Bitson,Operativo,Configurando DHCP fijo para Máquinas de Escritorio en Alsina y Beagles.,,lcolombo,0 days 01:00:00.000000000
+2017-05-18 16:00:00,2017-05-18 19:00:00,Betterez,Betterez,Desarrollo,6377,,abrunacci,0 days 03:00:00.000000000
+2017-05-18 15:30:00,2017-05-18 17:00:00,Bitson,Cromi,Desarrollo,"React alta usuario
+Fix issue con rutas de DOMI1",,ddebonis,0 days 01:30:00.000000000
+2017-05-18 15:20:00,2017-05-18 16:00:00,Bitson,Bitson,Gestión Interna,Mail a Fer Cantora x Compra de Cheques y Tarjetas de crédito.,,lcolombo,0 days 00:40:00.000000000
+2017-05-18 14:00:00,2017-05-18 15:20:00,Bitson,Bitson,Gestión Interna,Cambio de Consejo de Administración en Credicoop.,,lcolombo,0 days 01:20:00.000000000
+2017-05-18 14:00:00,2017-05-18 15:00:00,Bitson,Bitson,Tramite ,Banco,,abrunacci,0 days 01:00:00.000000000
+2017-05-18 14:00:00,2017-05-18 16:10:00,Bitson,Bitson,Gestión Comercial,"Mail a Ojeda con varios puntos
+Costos Kairos",,hbrunacci,0 days 02:10:00.000000000
+2017-05-18 13:30:00,2017-05-18 15:30:00,Bitson,Bitson,Gestión Interna,Credicoop,,ddebonis,0 days 02:00:00.000000000
+2017-05-18 13:20:00,2017-05-18 14:00:00,Bitson,Bitson,Almuerzo,,,hbrunacci,0 days 00:40:00.000000000
+2017-05-18 12:15:00,2017-05-18 14:16:00,Bitson,Bitson,Gestión Interna,,,cuberti,0 days 02:01:00.000000000
+2017-05-18 11:00:00,2017-05-18 12:15:00,Bitson,Bitson,Gestión Interna,"Banco Credicoop - papeles 
+Papeles legal
+Pago de servicios
+",,cuberti,0 days 01:15:00.000000000
+2017-05-18 10:00:00,2017-05-18 12:45:00,Bitson,Bitson,Gestión Comercial,"Contacto con EXO, Busqueda de Soluciones para Kairos
+Domi/Cromi
+Editorial X
+Manos a la Obra
+Maquinas LaTAVA
+",,hbrunacci,0 days 02:45:00.000000000
+2017-05-18 09:30:00,2017-05-18 12:00:00,ECSA,Beagle SCA,Operativo,Cliente de prueba. Separando en clases.,,lcolombo,0 days 02:30:00.000000000
+2017-05-18 09:00:00,2017-05-18 13:30:00,Bitson,Cromi,Desarrollo,React alta usuario,,ddebonis,0 days 04:30:00.000000000
+2017-05-18 09:00:00,2017-05-18 13:00:00,Betterez,Betterez,Desarrollo,6377,,abrunacci,0 days 04:00:00.000000000
+2017-05-18 00:05:00,2017-05-18 01:30:00,ECSA,Beagle SCA,Operativo,Probando sockets. Armando clases.,,lcolombo,0 days 01:25:00.000000000
+2017-05-17 22:30:00,2017-05-18 00:05:00,ECSA,Beagle SCA,Operativo,Probando imágenes (IoT vs LX). Escribiendo Wiki de cómo flashear la Beagle.,,lcolombo,0 days 01:35:00.000000000
+2017-05-17 22:00:00,2017-05-17 22:15:00,ECSA,Beagle SCA,Operativo,Prueba con aplicación gráfica de Fedora.,,lcolombo,0 days 00:15:00.000000000
+2017-05-17 19:40:00,2017-05-17 20:40:00,ECSA,Beagle SCA,Operativo,Flasheando Beagle con imagen IoT,,lcolombo,0 days 01:00:00.000000000
+2017-05-17 18:10:00,2017-05-17 18:45:00,ECSA,Beagle SCA,Operativo,Flasheando una Beagle.,,lcolombo,0 days 00:35:00.000000000
+2017-05-17 17:35:00,2017-05-17 18:10:00,ECSA,Beagle SCA,Operativo,Máquina de Estados y Sockets. Revisión con @abrunacci,,lcolombo,0 days 00:35:00.000000000
+2017-05-17 17:10:00,2017-05-17 17:35:00,Bitson,Bitson,Gestión Interna,"Papeles necesarios para el cambio de autoridades en el Credicoop.
+Libro de Actas de Asambleas.
+Libro de Actas de Consejo.
+Copia del Balance Certificado por el Colegio de Económicas.
+DDJJ de IVA de Ene/17 hasta Abr/17.",,lcolombo,0 days 00:25:00.000000000
+2017-05-17 16:48:00,2017-05-17 19:44:00,ECSA,Sigas SGS,Desarrollo,,,nespino,0 days 02:56:00.000000000
+2017-05-17 16:17:00,2017-05-17 16:33:00,ECSA,Sigas SGS,Desarrollo,,,nespino,0 days 00:16:00.000000000
+2017-05-17 15:37:00,2017-05-17 15:56:00,ECSA,Sigas SGS,Desarrollo,,,nespino,0 days 00:19:00.000000000
+2017-05-17 15:02:00,2017-05-17 15:28:00,ECSA,Sigas SGS,Desarrollo,,,nespino,0 days 00:26:00.000000000
+2017-05-17 14:38:00,2017-05-17 14:54:00,ECSA,Sigas SGS,Desarrollo,,,nespino,0 days 00:16:00.000000000
+2017-05-17 14:25:00,2017-05-17 17:10:00,Bitson,Cromi,Operativo,"Pruebas en DEV, alta de cliente y envío de mail.
+Cambio de password inicial en el alta de cliente y antes de la confirmación del mail.",,lcolombo,0 days 02:45:00.000000000
+2017-05-17 14:10:00,2017-05-17 14:25:00,Bitson,Cromi,Operativo,PUT /register/owner & PUT /register/owner/<user_id>,,lcolombo,0 days 00:15:00.000000000
+2017-05-17 14:08:00,2017-05-17 14:27:00,ECSA,Sigas SGS,Desarrollo,,,nespino,0 days 00:19:00.000000000
+2017-05-17 14:00:00,2017-05-17 17:00:00,Bitson,Cromi,Desarrollo,Alta usuario,,ddebonis,0 days 03:00:00.000000000
+2017-05-17 14:00:00,2017-05-17 16:20:00,Kairos - Totem,Osmedica,Reunion,Reunion Demo de producto con el Cliente,,hbrunacci,0 days 02:20:00.000000000
+2017-05-17 13:50:00,2017-05-17 14:10:00,Bitson,Cromi,Operativo,POST /register/owner,,lcolombo,0 days 00:20:00.000000000
+2017-05-17 13:30:00,2017-05-17 14:00:00,Bitson,Bitson,Almuerzo,,,ddebonis,0 days 00:30:00.000000000
+2017-05-17 11:30:00,2017-05-17 14:00:00,Kairos - Totem,Osmedica,Testing,Reunión de Testing y ajuste de detalles Devecoop,,hbrunacci,0 days 02:30:00.000000000
+2017-05-17 10:45:00,2017-05-17 11:15:00,Bitson,Cromi,Operativo,GET /auth/admins for ROOT. Deployed on DEV.,,lcolombo,0 days 00:30:00.000000000
+2017-05-17 10:20:00,2017-05-17 11:20:00,Bitson,Manos a la obra,Completar Requerimientos,Impresión y modificación de formularios faltantes que no estaban el la carpeta compartida. (cuberti),,hbrunacci,0 days 01:00:00.000000000
+2017-05-17 10:15:00,2017-05-17 16:00:00,Bitson,Bitson,Gestión Interna,"Kairos
+Cromi
+Manos a la obra
+Facturas",,cuberti,0 days 05:45:00.000000000
+2017-05-17 10:05:00,2017-05-17 10:15:00,Bitson,Bitson,Gestión Comercial,"Llamado telefónico R. Ojeda.
+Se coordina reunión para le dia Viernes 19 Zona Nuñez.",,hbrunacci,0 days 00:10:00.000000000
+2017-05-17 10:00:00,2017-05-17 10:45:00,Bitson,Cromi,Operativo,Login for Root. Deployed on Develop.,,lcolombo,0 days 00:45:00.000000000
+2017-05-17 10:00:00,2017-05-17 18:30:00,Betterez,Betterez,Desarrollo,6377,,abrunacci,0 days 08:30:00.000000000
+2017-05-17 09:45:00,2017-05-17 10:05:00,Bitson,Bitson,Testing,Maquina personal colgada,,hbrunacci,0 days 00:20:00.000000000
+2017-05-17 08:00:00,2017-05-17 13:30:00,Bitson,Cromi,Desarrollo,Alta usuario,,ddebonis,0 days 05:30:00.000000000
+2017-05-17 05:30:00,2017-05-17 07:30:00,Bitson,Manos a la obra,Completar Requerimientos,"Revision de documentacion.
+Ajuste de detalles 
+Acabado del Doc historial de desarrollo
+Corrección de planilla de tiempos estimados
+Búsqueda de Formularios actualizados faltantes. 
+ ",,hbrunacci,0 days 02:00:00.000000000
+2017-05-16 18:45:00,2017-05-16 20:20:00,ECSA,Beagle SCA,Operativo,Análisis de comunicación Controlador/Molinete.,,lcolombo,0 days 01:35:00.000000000
+2017-05-16 17:30:00,2017-05-16 18:45:00,CoopeViajes,CostaCrucerosWS,Presupuesto,Redacción de presupuesto.,,lcolombo,0 days 01:15:00.000000000
+2017-05-16 17:00:00,2017-05-16 17:30:00,Bitson,Bitson,Gestión Interna,Ejecución de retiros 2da semana de mayo.,,lcolombo,0 days 00:30:00.000000000
+2017-05-16 16:30:00,2017-05-16 17:00:00,Bitson,Cromi,Desarrollo,,,ddebonis,0 days 00:30:00.000000000
+2017-05-16 16:30:00,2017-05-16 17:00:00,Bitson,Cromi,Operativo,Coordinación de funcionalidad de Alta de Cliente con @ddebonis.,,lcolombo,0 days 00:30:00.000000000
+2017-05-16 15:00:00,2017-05-16 16:30:00,Bitson,Bitson,Gestión Interna,,,ddebonis,0 days 01:30:00.000000000
+2017-05-16 14:50:00,2017-05-16 16:30:00,Bitson,Bitson,Reunion,Reunión semanal.,,lcolombo,0 days 01:40:00.000000000
+2017-05-16 14:45:00,2017-05-16 16:27:00,Bitson,Bitson,Gestión Interna,,,nespino,0 days 01:42:00.000000000
+2017-05-16 14:30:00,2017-05-16 14:50:00,CoopeViajes,CostaCrucerosWS,Presupuesto,Envío de mail a la lista de trabajos.,,lcolombo,0 days 00:20:00.000000000
+2017-05-16 14:30:00,2017-05-16 16:30:00,Bitson,Bitson,Reunion,,,hbrunacci,0 days 02:00:00.000000000
+2017-05-16 13:50:00,2017-05-16 14:30:00,Bitson,Bitson,Gestión Interna,Setup Oficina. Retiros semanales c/@cuberti.,,lcolombo,0 days 00:40:00.000000000
+2017-05-16 13:30:00,2017-05-16 15:00:00,Bitson,Bitson,Capacitación,,,ddebonis,0 days 01:30:00.000000000
+2017-05-16 13:30:00,2017-05-16 17:50:00,Bitson,Bitson,Gestión Interna,,,cuberti,0 days 04:20:00.000000000
+2017-05-16 13:00:00,2017-05-16 13:30:00,Bitson,Bitson,Almuerzo,,,ddebonis,0 days 00:30:00.000000000
+2017-05-16 11:50:00,2017-05-16 14:15:00,Kairos - Totem,Osmedica,Testing,Mantenimiento del totem para demo - Ploteo en negro,,hbrunacci,0 days 02:25:00.000000000
+2017-05-16 10:30:00,2017-05-16 11:00:00,Bitson,Bitson,Gestión Interna,Ajuste Plantilla Retiros & Presupuestos.,,lcolombo,0 days 00:30:00.000000000
+2017-05-16 10:20:00,2017-05-16 11:50:00,Bitson,Bitson,Transporte,de vicente lópez a Devecoop,,hbrunacci,0 days 01:30:00.000000000
+2017-05-16 10:00:00,2017-05-16 18:00:00,Betterez,Betterez,Desarrollo,"6377
+",,abrunacci,0 days 08:00:00.000000000
+2017-05-16 09:00:00,2017-05-16 13:00:00,Bitson,Bitson,Capacitación,React,,ddebonis,0 days 04:00:00.000000000
+2017-05-16 08:30:00,2017-05-16 10:20:00,Bitson,Bitson,Gestión Comercial,Reunión en Camara Empresaria Vicente Lopez,,hbrunacci,0 days 01:50:00.000000000
+2017-05-16 06:30:00,2017-05-16 07:30:00,Bitson,Bitson,Completar Requerimientos,Manos a la Obra - Ensamblado de documento pedido por ministerio,,hbrunacci,0 days 01:00:00.000000000
+2017-05-15 20:40:00,2017-05-15 21:12:00,ECSA,Sigas SGS,Operativo,MercadoPago not working damn,,nespino,0 days 00:32:00.000000000
+2017-05-15 16:35:00,2017-05-15 17:35:00,Bitson,Bitson,Gestión Comercial,"Hangout con Gaby de Unixono
+Se mostró lo hecho en SGS, 
+Se acordó seguir las charla con la federación bahiense de basquet 
+Por parte de Bitson empezar a pensar cuanto sale hacer de nuevo SGS.",,hbrunacci,0 days 01:00:00.000000000
+2017-05-15 16:00:00,2017-05-15 17:00:00,Bitson,Bitson,Operativo,Nfc-reader,,ddebonis,0 days 01:00:00.000000000
+2017-05-15 15:50:00,2017-05-15 16:25:00,Kairos - Totem,Registro,Presupuesto,Presupuesto OT 43 con @nespino y @ddebonis.,,lcolombo,0 days 00:35:00.000000000
+2017-05-15 15:00:00,2017-05-15 16:00:00,Bitson,Bitson,Presupuesto,Coopeviajes,,ddebonis,0 days 01:00:00.000000000
+2017-05-15 15:00:00,2017-05-15 15:50:00,CoopeViajes,CostaCrucerosWS,Presupuesto,Presupuesto OT44 con @nespino y @ddebonis.,,lcolombo,0 days 00:50:00.000000000
+2017-05-15 15:00:00,2017-05-15 15:45:00,Bitson,Bitson,Presupuesto,,,nespino,0 days 00:45:00.000000000
+2017-05-15 14:20:00,2017-05-15 15:00:00,CoopeViajes,CostaCrucerosWS,Presupuesto,Leyendo documentación del proyecto.,,lcolombo,0 days 00:40:00.000000000
+2017-05-15 14:00:00,2017-05-15 15:00:00,Bitson,Bitson,Almuerzo,,,ddebonis,0 days 01:00:00.000000000
+2017-05-15 13:50:00,2017-05-15 14:20:00,Bitson,Bitson,Gestión Interna,Setup oficina. Lectura de mails. Conexión beagle. Búsqueda SD p/Beagle.,,lcolombo,0 days 00:30:00.000000000
+2017-05-15 12:00:00,2017-05-15 14:00:00,ECSA,Talleres - SCA,Operativo,,,nespino,0 days 02:00:00.000000000
+2017-05-15 11:30:00,2017-05-15 13:00:00,Bitson,Bitson,Gestión Interna,"Manos a la Obra Impresión de nota para firmar.
+Charla con Rodrigo de Ministerio
+Llevar el tótem a Devecoop",,hbrunacci,0 days 01:30:00.000000000
+2017-05-15 09:40:00,2017-05-15 17:00:00,Betterez,Betterez,Desarrollo,6424 / 6438,,abrunacci,0 days 07:20:00.000000000
+2017-05-15 09:00:00,2017-05-15 14:00:00,Bitson,Bitson,Operativo,Seteo de ambiente,,ddebonis,0 days 05:00:00.000000000
+2017-05-14 19:50:00,2017-05-14 21:36:00,ECSA,Sigas SCA,Operativo,,,nespino,0 days 01:46:00.000000000
+2017-05-14 17:40:00,2017-05-14 18:10:00,ECSA,Sigas SCA,Operativo,Prueba de reporte talleres,,nespino,0 days 00:30:00.000000000
+2017-05-12 21:30:00,2017-05-13 01:00:00,ECSA,Beagle SCA,Operativo,Pruebas Sockets. Intento instalación (compilación) Python 3.6 en Beagle. x problema con PIP en Python 3.4.2,,lcolombo,0 days 03:30:00.000000000
+2017-05-12 18:00:00,2017-05-12 18:30:00,Bitson,Bitson,Operativo,"reporte talleres. busqueda backup, envio",,hbrunacci,0 days 00:30:00.000000000
+2017-05-12 17:45:00,2017-05-12 18:00:00,Bitson,Cromi,Gestión Comercial,@cuberti cuenta como le fue con la cuñada de Pablo.,,lcolombo,0 days 00:15:00.000000000
+2017-05-12 17:40:00,2017-05-12 18:38:00,ECSA,Sigas SGS,Operativo,,,nespino,0 days 00:58:00.000000000
+2017-05-12 17:00:00,2017-05-12 17:30:00,Bitson,Bitson,Gestión Interna,Cooperativa diseno,,ddebonis,0 days 00:30:00.000000000
+2017-05-12 17:00:00,2017-05-12 17:45:00,Bitson,Bitson,Reunion,Cooperativa de Diseño,,lcolombo,0 days 00:45:00.000000000
+2017-05-12 17:00:00,2017-05-12 17:40:00,Bitson,Bitson,Gestión Interna,Reunión con Cooperativa de Diseño,,nespino,0 days 00:40:00.000000000
+2017-05-12 16:25:00,2017-05-12 17:00:00,Bitson,Kairos,Operativo,Actualización Tótem y pruebas de funcionamiento.,,lcolombo,0 days 00:35:00.000000000
+2017-05-12 16:05:00,2017-05-12 16:25:00,Bitson,Bitson,Intercooperativo,Charla c/@gabhge por Coopeviajes (Cruceros).,,lcolombo,0 days 00:20:00.000000000
+2017-05-12 15:45:00,2017-05-12 16:05:00,Bitson,Kairos,Operativo,Prueba de Tótem p/DEMO.,,lcolombo,0 days 00:20:00.000000000
+2017-05-12 15:17:00,2017-05-12 17:00:00,ECSA,Sigas SGS,Operativo,,,nespino,0 days 01:43:00.000000000
+2017-05-12 15:08:00,2017-05-12 15:13:00,ECSA,Sigas SGS,Operativo,MercadoPago,,nespino,0 days 00:05:00.000000000
+2017-05-12 14:30:00,2017-05-12 17:00:00,Bitson,Bitson,Desarrollo,NFC,,ddebonis,0 days 02:30:00.000000000
+2017-05-12 14:15:00,2017-05-12 14:30:00,ECSA,Sigas SGS,Desarrollo,,,ddebonis,0 days 00:15:00.000000000
+2017-05-12 14:00:00,2017-05-12 14:15:00,Bitson,Bitson,Almuerzo,,,ddebonis,0 days 00:15:00.000000000
+2017-05-12 14:00:00,2017-05-12 17:00:00,Betterez,Betterez,Desarrollo,,,abrunacci,0 days 03:00:00.000000000
+2017-05-12 14:00:00,2017-05-12 18:00:00,Bitson,Bitson,Gestión Comercial,"Domi. 
+Revisión de del producto. 
+Charla de venta del producto
+Actualizacion Taiga
+Federación Bahia Blanca Basquet
+KAiros
+Cooperativa de diseño
+",,hbrunacci,0 days 04:00:00.000000000
+2017-05-12 13:50:00,2017-05-12 15:45:00,Bitson,Cromi,Gestión Comercial,"Muestra de DOMI a @cuberti y @hbrunacci. Comercialización, faltantes y fechas comprometidas.",,lcolombo,0 days 01:55:00.000000000
+2017-05-12 13:00:00,2017-05-12 14:00:00,Bitson,Bitson,Almuerzo,,,abrunacci,0 days 01:00:00.000000000
+2017-05-12 12:59:00,2017-05-12 18:01:00,Bitson,Bitson,Gestión Interna,,,cuberti,0 days 05:02:00.000000000
+2017-05-12 12:37:00,2017-05-12 14:30:00,ECSA,Sigas SGS,Operativo,MercadoPago,,nespino,0 days 01:53:00.000000000
+2017-05-12 11:15:00,2017-05-12 12:35:00,Bitson,Bitson,Gestión Comercial,,,hbrunacci,0 days 01:20:00.000000000
+2017-05-12 10:30:00,2017-05-12 11:30:00,ECSA,Beagle SCA,Operativo,Server REQ-REP & PUB-SUB de pruebas.,,lcolombo,0 days 01:00:00.000000000
+2017-05-12 09:00:00,2017-05-12 14:00:00,ECSA,Sigas SGS,Desarrollo,Mercadopago SIGAS,,ddebonis,0 days 05:00:00.000000000
+2017-05-12 09:00:00,2017-05-12 13:00:00,Betterez,Betterez,Desarrollo,6413,,abrunacci,0 days 04:00:00.000000000
+2017-05-11 17:38:00,2017-05-11 18:22:00,ECSA,Sigas SGS,Operativo,,,nespino,0 days 00:44:00.000000000
+2017-05-11 16:25:00,2017-05-11 18:00:00,ECSA,Beagle SCA,Operativo,Display Class & Command Enum. Pruebas Req/Rep & Pub/Sub sin mucho éxito.,,lcolombo,0 days 01:35:00.000000000
+2017-05-11 16:15:00,2017-05-11 17:32:00,ECSA,Sigas SGS,Operativo,,,nespino,0 days 01:17:00.000000000
+2017-05-11 16:00:00,2017-05-11 17:00:00,Bitson,Bitson,Desarrollo,NFC Reader,,ddebonis,0 days 01:00:00.000000000
+2017-05-11 15:35:00,2017-05-11 16:25:00,ECSA,Banfield,Presupuesto,Instalación visitas,,lcolombo,0 days 00:50:00.000000000
+2017-05-11 15:17:00,2017-05-11 16:07:00,Bitson,Bitson,Presupuesto,,,nespino,0 days 00:50:00.000000000
+2017-05-11 15:10:00,2017-05-11 15:35:00,Kairos - Totem,Registro,Presupuesto,Primer presupuesto - Envío de preguntas a HB,,lcolombo,0 days 00:25:00.000000000
+2017-05-11 15:00:00,2017-05-11 16:00:00,Bitson,Bitson,Presupuesto,"Banfield, Caselli",,ddebonis,0 days 01:00:00.000000000
+2017-05-11 15:00:00,2017-05-11 16:00:00,Bitson,Bitson,Gestión Comercial,temas varios con luna enferma,,hbrunacci,0 days 01:00:00.000000000
+2017-05-11 14:53:00,2017-05-11 15:15:00,ECSA,Sigas SGS,Operativo,,,nespino,0 days 00:22:00.000000000
+2017-05-11 14:32:00,2017-05-11 14:38:00,ECSA,Sigas SGS,Operativo,,,nespino,0 days 00:06:00.000000000
+2017-05-11 14:30:00,2017-05-11 15:10:00,Bitson,Bitson,Gestión Interna,Flujo de caja con @cuberti. Charla sobre Domi y temas de reunión semanal.,,lcolombo,0 days 00:40:00.000000000
+2017-05-11 14:15:00,2017-05-11 14:30:00,ECSA,Beagle SCA,Operativo,Charla con @nespino por Máquina de estados y controlador de molinete.,,lcolombo,0 days 00:15:00.000000000
+2017-05-11 14:05:00,2017-05-11 14:29:00,ECSA,Beagle SCA,Operativo,Revision proceso maquina de estados con @lecovi,,nespino,0 days 00:24:00.000000000
+2017-05-11 14:00:00,2017-05-11 17:00:00,Betterez,Betterez,Desarrollo,,,abrunacci,0 days 03:00:00.000000000
+2017-05-11 13:53:00,2017-05-11 14:05:00,ECSA,Talleres - SCA,Operativo,,,nespino,0 days 00:12:00.000000000
+2017-05-11 13:50:00,2017-05-11 14:15:00,Bitson,Bitson,Gestión Interna,Pagos de ECSA y gestión de papeles de asamblea con @cuberti.,,lcolombo,0 days 00:25:00.000000000
+2017-05-11 13:00:00,2017-05-11 15:00:00,ECSA,Sigas SCA,Desarrollo,,,ddebonis,0 days 02:00:00.000000000
+2017-05-11 13:00:00,2017-05-11 14:00:00,Bitson,Bitson,Almuerzo,,,abrunacci,0 days 01:00:00.000000000
+2017-05-11 12:20:00,2017-05-11 15:04:00,Bitson,Bitson,Gestión Interna,,,cuberti,0 days 02:44:00.000000000
+2017-05-11 12:00:00,2017-05-11 13:00:00,Bitson,Bitson,Almuerzo,,,ddebonis,0 days 01:00:00.000000000
+2017-05-11 10:00:00,2017-05-11 13:00:00,Betterez,Betterez,Desarrollo,"6430 / 6413
+",,abrunacci,0 days 03:00:00.000000000
+2017-05-11 10:00:00,2017-05-11 12:20:00,Bitson,Bitson,Gestión Interna,"ECSA —> cheques, y firmo la factura 
+MIn de trabajo —> Fede Montes, le lleve el papel, ya esta todo línea I, y salude a mi BFF Marisa
+Inaes —> listo AGO 
+Copiado libros —> ya estan listos, lo firman los chicos y mañana al boga.",,cuberti,0 days 02:20:00.000000000
+2017-05-11 09:45:00,2017-05-11 10:45:00,ECSA,Beagle SCA,Operativo,Simulando una máquina de estados del molinete.,,lcolombo,0 days 01:00:00.000000000
+2017-05-10 16:00:00,2017-05-10 20:35:00,ECSA,Beagle SCA,Operativo,Fixeando comunicación con el server.,,lcolombo,0 days 04:35:00.000000000
+2017-05-10 15:45:00,2017-05-10 16:00:00,Bitson,Bitson,Gestión Interna,Cierre de Circuito OCA y Acta de Asamblea (envío a @cuberti).,,lcolombo,0 days 00:15:00.000000000
+2017-05-10 15:15:00,2017-05-10 15:45:00,Bitson,Bitson,Gestión Interna,"Baja de Esteban, pagos pendiente de monotributo e ingresos brutos.",,lcolombo,0 days 00:30:00.000000000
+2017-05-10 14:45:00,2017-05-10 15:15:00,Bitson,Bitson,Gestión Interna,Circuito OCA,,lcolombo,0 days 00:30:00.000000000
+2017-05-10 14:15:00,2017-05-10 14:45:00,Bitson,Bitson,Gestión Interna,Revisión de papeles y copias en libros después de la AGO para la presentación en INAES con @cuberti.,,lcolombo,0 days 00:30:00.000000000
+2017-05-10 14:10:00,2017-05-10 16:40:00,Bitson,Bitson,Gestión Interna,,,cuberti,0 days 02:30:00.000000000
+2017-05-10 14:00:00,2017-05-10 17:00:00,ECSA,Sigas SCA,Desarrollo,,,ddebonis,0 days 03:00:00.000000000
+2017-05-10 14:00:00,2017-05-10 18:00:00,Betterez,Betterez,Desarrollo,,,abrunacci,0 days 04:00:00.000000000
+2017-05-10 13:45:00,2017-05-10 14:15:00,Bitson,Bitson,Gestión Interna,Creación de trabajos@listas.bitson.com.ar,,lcolombo,0 days 00:30:00.000000000
+2017-05-10 13:30:00,2017-05-10 21:44:00,ECSA,Talleres - SCA,Operativo,Reporte,,nespino,0 days 08:14:00.000000000
+2017-05-10 13:30:00,2017-05-10 14:00:00,Bitson,Bitson,Gestión Comercial,"Mail a Cise
+Mail a Sanyo
+Actualización de Taiga
+Mail requerimientos Caselli",,hbrunacci,0 days 00:30:00.000000000
+2017-05-10 13:06:00,2017-05-10 14:00:00,Bitson,Bitson,Almuerzo,,,abrunacci,0 days 00:54:00.000000000
+2017-05-10 13:00:00,2017-05-10 14:00:00,Bitson,Bitson,Almuerzo,,,ddebonis,0 days 01:00:00.000000000
+2017-05-10 11:30:00,2017-05-10 13:30:00,Bitson,Bitson,Operativo,"Server PFA
+
+Generar copia de la base de datos e implementarla en eñ servidor",,hbrunacci,0 days 02:00:00.000000000
+2017-05-10 10:00:00,2017-05-10 13:05:00,Betterez,Betterez,Desarrollo,6413,,abrunacci,0 days 03:05:00.000000000
+2017-05-10 09:30:00,2017-05-10 11:30:00,Bitson,Bitson,Gestión Comercial,,,hbrunacci,0 days 02:00:00.000000000
+2017-05-09 22:05:00,2017-05-10 00:35:00,ECSA,Beagle SCA,Operativo,Intento de nueva FSM.,,lcolombo,0 days 02:30:00.000000000
+2017-05-09 20:15:00,2017-05-09 21:15:00,ECSA,Beagle SCA,Operativo,"Separación de Threads, docstrings and performance.",,lcolombo,0 days 01:00:00.000000000
+2017-05-09 18:15:00,2017-05-09 19:30:00,ECSA,Beagle SCA,Operativo,Mejorando obtención de parámetros de red y muestra de mensajes en el display.,,lcolombo,0 days 01:15:00.000000000
+2017-05-09 17:30:00,2017-05-09 18:15:00,Bitson,Bitson,Gestión Interna,Carta Documento a imasTec con @edebonis.,,lcolombo,0 days 00:45:00.000000000
+2017-05-09 17:00:00,2017-05-09 17:30:00,ECSA,Sigas SCA,Operativo,Revisando código con @ddebonis,,lcolombo,0 days 00:30:00.000000000
+2017-05-09 16:00:00,2017-05-09 17:00:00,Bitson,Bitson,Gestión Interna,Firma de papeles @edebonis,,lcolombo,0 days 01:00:00.000000000
+2017-05-09 15:41:00,2017-05-09 17:11:00,SanyoJafep,Magento SanyoJafep,Operativo,,,nespino,0 days 01:30:00.000000000
+2017-05-09 15:30:00,2017-05-09 15:41:00,ECSA,Sigas SCA,Operativo,Investigación duplicados WBGList en Rural,,nespino,0 days 00:11:00.000000000
+2017-05-09 15:00:00,2017-05-09 16:00:00,ECSA,Sigas SCA,Operativo,"Instalación SCA con @ddebonis
+",,lcolombo,0 days 01:00:00.000000000
+2017-05-09 15:00:00,2017-05-09 15:30:00,ECSA,Sigas SCA,Operativo,,,nespino,0 days 00:30:00.000000000
+2017-05-09 15:00:00,2017-05-09 15:35:00,Bitson,Bitson,Operativo,,,hbrunacci,0 days 00:35:00.000000000
+2017-05-09 14:30:00,2017-05-09 18:00:00,ECSA,Sigas SCA,Desarrollo,Seteo de ambiente y analisis del sistema,,ddebonis,0 days 03:30:00.000000000
+2017-05-09 14:30:00,2017-05-09 15:00:00,ECSA,Beagle SCA,Operativo,Conexión beagle-controlador,,lcolombo,0 days 00:30:00.000000000
+2017-05-09 14:00:00,2017-05-09 15:00:00,Betterez,Betterez,Desarrollo,"6415 / 6413
+",,abrunacci,0 days 01:00:00.000000000
+2017-05-09 14:00:00,2017-05-09 15:00:00,Bitson,Bitson,Gestión Comercial,,,hbrunacci,0 days 01:00:00.000000000
+2017-05-09 13:20:00,2017-05-09 14:00:00,Bitson,Bitson,Almuerzo,,,hbrunacci,0 days 00:40:00.000000000
+2017-05-09 13:10:00,2017-05-09 14:00:00,Bitson,Bitson,Almuerzo,,,abrunacci,0 days 00:50:00.000000000
+2017-05-09 13:00:00,2017-05-09 14:30:00,Bitson,Bitson,Almuerzo,,,ddebonis,0 days 01:30:00.000000000
+2017-05-09 12:45:00,2017-05-09 13:25:00,ECSA,Sigas SCA,Operativo,Implementación en la rural,,nespino,0 days 00:40:00.000000000
+2017-05-09 10:15:00,2017-05-09 11:25:00,Bitson,Bitson,Gestión Interna,Armado de Circuito Operativo/Comercial/Administrativo,,lcolombo,0 days 01:10:00.000000000
+2017-05-09 10:00:00,2017-05-09 13:20:00,Bitson,Bitson,Gestión Comercial,"Presupuesto Proyectores
+Aprendizaje Microglobal
+Encuesta Karaoke
+Envio de presupuesto
+Mail a imastec
+Mail a santi",,hbrunacci,0 days 03:20:00.000000000
+2017-05-09 10:00:00,2017-05-09 14:15:00,Bitson,Bitson,Gestión Interna,,,cuberti,0 days 04:15:00.000000000
+2017-05-09 09:57:00,2017-05-09 13:10:00,Betterez,Betterez,Desarrollo,6415 / 6413,,abrunacci,0 days 03:13:00.000000000
+2017-05-09 09:00:00,2017-05-09 13:00:00,Bitson,Cromi,Desarrollo,Responsive DOMI,,ddebonis,0 days 04:00:00.000000000
+2017-05-08 17:27:00,2017-05-08 18:12:00,AllAccess,API AllAccess,Operativo,,,nespino,0 days 00:45:00.000000000
+2017-05-08 16:43:00,2017-05-08 17:07:00,AllAccess,API AllAccess,Operativo,,,nespino,0 days 00:24:00.000000000
+2017-05-08 16:30:00,2017-05-08 17:30:00,Bitson,Bitson,Operativo,Charla con P.Godoy/C.Uberti/D.Code Tema Imastec,,hbrunacci,0 days 01:00:00.000000000
+2017-05-08 16:05:00,2017-05-08 16:40:00,AllAccess,API AllAccess,Operativo,,,nespino,0 days 00:35:00.000000000
+2017-05-08 15:50:00,2017-05-08 17:15:00,ECSA,Beagle SCA,Operativo,Revisando proceso de comunicacion Beagle-Controlador,,lcolombo,0 days 01:25:00.000000000
+2017-05-08 15:30:00,2017-05-08 16:00:00,Bitson,Cromi,Desarrollo,Responsive DOMI,,ddebonis,0 days 00:30:00.000000000
+2017-05-08 14:38:00,2017-05-08 16:05:00,Bitson,Bitson,Gestión Interna,,,nespino,0 days 01:27:00.000000000
+2017-05-08 14:30:00,2017-05-08 15:30:00,Bitson,Bitson,Gestión Interna,Reunion Semanal,,ddebonis,0 days 01:00:00.000000000
+2017-05-08 14:30:00,2017-05-08 15:50:00,Bitson,Bitson,Reunion,Reunión Semanal,,lcolombo,0 days 01:20:00.000000000
+2017-05-08 14:19:00,2017-05-08 14:38:00,AllAccess,API AllAccess,Operativo,,,nespino,0 days 00:19:00.000000000
+2017-05-08 14:15:00,2017-05-08 18:09:00,Bitson,Bitson,Gestión Interna,"Retiros
+Juicio AFA
+Documentación INAES
+Reclamo ECSA",,cuberti,0 days 03:54:00.000000000
+2017-05-08 14:10:00,2017-05-08 15:35:00,Bitson,Bitson,Reunion,,,hbrunacci,0 days 01:25:00.000000000
+2017-05-08 13:45:00,2017-05-08 14:30:00,ECSA,Beagle SCA,Operativo,Configuración Beagle. Turnstile Init Messages. Instalación Controlador.,,lcolombo,0 days 00:45:00.000000000
+2017-05-08 13:40:00,2017-05-08 14:18:00,AllAccess,API AllAccess,Operativo,,,nespino,0 days 00:38:00.000000000
+2017-05-08 13:33:00,2017-05-08 14:10:00,Bitson,Bitson,Gestión Comercial,,,hbrunacci,0 days 00:37:00.000000000
+2017-05-08 13:22:00,2017-05-08 18:00:00,Betterez,Betterez,Desarrollo,6389 / 6412,,abrunacci,0 days 04:38:00.000000000
+2017-05-08 13:15:00,2017-05-08 14:30:00,Bitson,Cromi,Desarrollo,Responsive DOMI,,ddebonis,0 days 01:15:00.000000000
+2017-05-08 13:03:00,2017-05-08 13:22:00,Bitson,Bitson,Almuerzo,,,abrunacci,0 days 00:19:00.000000000
+2017-05-08 13:02:00,2017-05-08 13:32:00,Bitson,Bitson,Almuerzo,,,hbrunacci,0 days 00:30:00.000000000
+2017-05-08 13:00:00,2017-05-08 13:15:00,Bitson,Bitson,Almuerzo,,,ddebonis,0 days 00:15:00.000000000
+2017-05-08 10:00:00,2017-05-08 12:00:00,ECSA,Beagle SCA,Operativo,"Pruebas zmq. Instalación Py3 ""nativo"". Configuración PostgreSQL",,lcolombo,0 days 02:00:00.000000000
+2017-05-08 10:00:00,2017-05-08 13:03:00,Betterez,Betterez,Desarrollo,"6389
+",,abrunacci,0 days 03:03:00.000000000
+2017-05-08 10:00:00,2017-05-08 13:05:00,Bitson,Bitson,Gestión Comercial,Mail de ojeda. Presupuesto Dashboard,,hbrunacci,0 days 03:05:00.000000000
+2017-05-08 09:00:00,2017-05-08 13:00:00,Bitson,Cromi,Desarrollo,"Responsive DOMI
+",,ddebonis,0 days 04:00:00.000000000
+2017-05-07 13:30:00,2017-05-07 15:40:00,ECSA,Beagle SCA,Operativo,Pruebas zmq,,lcolombo,0 days 02:10:00.000000000
+2017-05-07 11:35:00,2017-05-07 12:30:00,ECSA,Beagle SCA,Operativo,Pruebas zmq,,lcolombo,0 days 00:55:00.000000000
+2017-05-06 19:15:00,2017-05-06 22:35:00,ECSA,Beagle SCA,Operativo,Systemd startup messages,,lcolombo,0 days 03:20:00.000000000
+2017-05-06 14:15:00,2017-05-06 17:20:00,Bitson,Bitson,Intercooperativo,,,nespino,0 days 03:05:00.000000000
+2017-05-06 10:45:00,2017-05-06 17:30:00,Bitson,Bitson,Reunion,Plenario,,hbrunacci,0 days 06:45:00.000000000
+2017-05-05 23:17:00,2017-05-06 03:43:00,Betterez,Betterez,Desarrollo,6389,,abrunacci,0 days 04:26:00.000000000
+2017-05-05 14:51:00,2017-05-05 16:29:00,Betterez,Betterez,Desarrollo,,,abrunacci,0 days 01:38:00.000000000
+2017-05-05 12:00:00,2017-05-05 16:04:00,Bitson,Bitson,Gestión Interna,"Linea I - Fede Montes, planilla de excedentes, CNCT -
+Actualización planillas
+Datos facturación
+Papeles post-asamblea",,cuberti,0 days 04:04:00.000000000
+2017-05-05 11:00:00,2017-05-05 15:30:00,Bitson,Bitson,Reunion,Plenario,,hbrunacci,0 days 04:30:00.000000000
+2017-05-05 10:30:00,2017-05-05 11:00:00,Bitson,Bitson,Transporte,,,hbrunacci,0 days 00:30:00.000000000
+2017-05-05 10:00:00,2017-05-05 18:00:00,Bitson,Bitson,Intercooperativo,Plenario FACTTIC,,lcolombo,0 days 08:00:00.000000000
+2017-05-05 10:00:00,2017-05-05 19:00:00,Bitson,Bitson,Intercooperativo,,,nespino,0 days 09:00:00.000000000
+2017-05-05 10:00:00,2017-05-05 10:30:00,Bitson,Bitson,Gestión Interna,llevar escrito a Pablo ,,hbrunacci,0 days 00:30:00.000000000
+2017-05-05 09:00:00,2017-05-05 17:00:00,Bitson,Bitson,Intercooperativo,Plenario Facttic,,ddebonis,0 days 08:00:00.000000000
+2017-05-05 08:01:00,2017-05-05 14:50:00,Betterez,Betterez,Desarrollo,"6351 / 6372 / 6389
+",,abrunacci,0 days 06:49:00.000000000
+2017-05-04 15:50:00,2017-05-04 18:00:00,ECSA,Beagle SCA,Operativo,Probando display y sincronización,,lcolombo,0 days 02:10:00.000000000
+2017-05-04 15:32:00,2017-05-04 21:20:00,ECSA,Banfield,Operativo,,,nespino,0 days 05:48:00.000000000
+2017-05-04 15:10:00,2017-05-04 15:50:00,Bitson,Bitson,Intercooperativo,Charla con @santichola x Plenario.,,lcolombo,0 days 00:40:00.000000000
+2017-05-04 14:50:00,2017-05-04 15:10:00,Bitson,Bitson,Gestión Comercial,Plan de negocios. Puesta en valor. Estimación de @hbrunacci.,,lcolombo,0 days 00:20:00.000000000
+2017-05-04 14:30:00,2017-05-04 14:50:00,Bitson,Cromi,Operativo,Instalación Front,,lcolombo,0 days 00:20:00.000000000
+2017-05-04 14:00:00,2017-05-04 14:36:00,ECSA,Banfield,Operativo,,,nespino,0 days 00:36:00.000000000
+2017-05-04 13:50:00,2017-05-04 14:30:00,Bitson,Bitson,Gestión Interna,"Novedades con @cuberti. Línea 1, renovación fallida. Documento Plenario FACTTIC.",,lcolombo,0 days 00:40:00.000000000
+2017-05-04 13:15:00,2017-05-04 17:00:00,Bitson,Bitson,Desarrollo,,,ddebonis,0 days 03:45:00.000000000
+2017-05-04 13:00:00,2017-05-04 13:15:00,Bitson,Bitson,Almuerzo,,,ddebonis,0 days 00:15:00.000000000
+2017-05-04 10:20:00,2017-05-04 14:15:00,Bitson,Bitson,Gestión Interna,,,cuberti,0 days 03:55:00.000000000
+2017-05-04 10:00:00,2017-05-04 15:00:00,Bitson,Bitson,Gestión Comercial,"Planilla Domi
+Propuesta Registros
+Google ads
+Almuerzo
+Call Cristian",,hbrunacci,0 days 05:00:00.000000000
+2017-05-04 09:30:00,2017-05-04 17:00:00,Betterez,Betterez,Desarrollo,"6351 / 6372 / 6389
+",,abrunacci,0 days 07:30:00.000000000
+2017-05-04 09:00:00,2017-05-04 13:00:00,Bitson,Bitson,Desarrollo,React seed,,ddebonis,0 days 04:00:00.000000000
+2017-05-03 23:00:00,2017-05-04 01:00:00,ECSA,Beagle SCA,Operativo,Entendiendo el código,,lcolombo,0 days 02:00:00.000000000
+2017-05-03 22:06:00,2017-05-03 23:13:00,AllAccess,API AllAccess,Operativo,,,nespino,0 days 01:07:00.000000000
+2017-05-03 21:39:00,2017-05-03 21:53:00,AllAccess,API AllAccess,Operativo,,,nespino,0 days 00:14:00.000000000
+2017-05-03 20:00:00,2017-05-03 21:26:00,AllAccess,API AllAccess,Operativo,,,nespino,0 days 01:26:00.000000000
+2017-05-03 16:00:00,2017-05-03 21:00:00,Bitson,Bitson,Intercooperativo,Reunión en Devecoop con Fiqus y Unixono,,lcolombo,0 days 05:00:00.000000000
+2017-05-03 16:00:00,2017-05-03 19:00:00,Bitson,Bitson,Intercooperativo,Devecoop,,cuberti,0 days 03:00:00.000000000
+2017-05-03 15:45:00,2017-05-03 18:29:00,AllAccess,API AllAccess,Operativo,,,nespino,0 days 02:44:00.000000000
+2017-05-03 15:00:00,2017-05-03 17:30:00,Bitson,Cromi,Desarrollo,,,ddebonis,0 days 02:30:00.000000000
+2017-05-03 15:00:00,2017-05-03 16:00:00,ECSA,Beagle SCA,Operativo,Know-how con @edebonis,,lcolombo,0 days 01:00:00.000000000
+2017-05-03 15:00:00,2017-05-03 17:38:00,Betterez,Betterez,Desarrollo,"6351 / 6372 / 6389
+
+
+",,abrunacci,0 days 02:38:00.000000000
+2017-05-03 15:00:00,2017-05-03 17:00:00,Bitson,Bitson,Gestión Comercial,"Plantilla Domi
+Ayuda a Nahuel con APi y pruebas ",,hbrunacci,0 days 02:00:00.000000000
+2017-05-03 14:30:00,2017-05-03 15:00:00,Bitson,Bitson,Almuerzo,,,abrunacci,0 days 00:30:00.000000000
+2017-05-03 14:00:00,2017-05-03 15:00:00,Bitson,Bitson,Gestión Interna,Planificacion semanal,,ddebonis,0 days 01:00:00.000000000
+2017-05-03 14:00:00,2017-05-03 15:00:00,Bitson,Bitson,Reunion,Definición consejo administración 2017,,lcolombo,0 days 01:00:00.000000000
+2017-05-03 14:00:00,2017-05-03 15:14:00,Bitson,Bitson,Gestión Interna,,,nespino,0 days 01:14:00.000000000
+2017-05-03 14:00:00,2017-05-03 15:00:00,Bitson,Bitson,Gestión Interna,reunion operativa,,hbrunacci,0 days 01:00:00.000000000
+2017-05-03 14:00:00,2017-05-03 16:00:00,Bitson,Bitson,Reunion,Reunion bitson ,,cuberti,0 days 02:00:00.000000000
+2017-05-03 13:00:00,2017-05-03 14:00:00,Bitson,Bitson,Almuerzo,,,ddebonis,0 days 01:00:00.000000000
+2017-05-03 10:00:00,2017-05-03 13:30:00,Bitson,Bitson,Gestión Comercial,Reunion con Santiago,,hbrunacci,0 days 03:30:00.000000000
+2017-05-03 09:00:00,2017-05-03 13:00:00,Bitson,Cromi,Desarrollo,React a ES6,,ddebonis,0 days 04:00:00.000000000
+2017-05-03 09:00:00,2017-05-03 14:00:00,Betterez,Betterez,Desarrollo,"6351 / 6372
+",,abrunacci,0 days 05:00:00.000000000
+2017-05-02 20:30:00,2017-05-02 21:30:00,Bitson,Bitson,Gestion Contable,Calculo de retiros abril 2017 sobre corrección en DDJJ y considerando horas trackeadas.,,lcolombo,0 days 01:00:00.000000000
+2017-05-02 17:00:00,2017-05-02 19:30:00,Bitson,Bitson,Intercooperativo,Reunión con @cris.candia y @gabhge,,lcolombo,0 days 02:30:00.000000000
+2017-05-02 15:32:00,2017-05-02 16:00:00,Bitson,Bitson,Gestión Comercial,"Se contacto a Vélez para ver el avance del presupuesto.
+Se hablo con Cristian Candia de Devecoop se coordino reunión para mañana miércoles 16.30
+Se mando mensaje a Pablo Gutierrez para coordinar reunion tema Encuestas
+ 
+
+",,hbrunacci,0 days 00:28:00.000000000
+2017-05-02 15:00:00,2017-05-02 15:20:00,ECSA,Beagle SCA,Operativo,Testing Display SCA.,,lcolombo,0 days 00:20:00.000000000
+2017-05-02 15:00:00,2017-05-02 15:30:00,Bitson,Bitson,Almuerzo,,,hbrunacci,0 days 00:30:00.000000000
+2017-05-02 14:30:00,2017-05-02 18:00:00,Betterez,Betterez,Desarrollo,"6351 / 6372
+",,abrunacci,0 days 03:30:00.000000000
+2017-05-02 14:00:00,2017-05-02 15:00:00,Bitson,Bitson,Reunion,MDS: Manos a la obra con Rodrigo y Juan.,,lcolombo,0 days 01:00:00.000000000
+2017-05-02 14:00:00,2017-05-02 15:00:00,Bitson,Manos a la obra,Reunion,"Reunión con Rodrigo y Juan
+
+Se acordó;
+Realizar un documento explicativo de todo los procesos realizados y que faltan realizar
+Se necesita la redaccion de todos los documentos nuevamente con la firma de las nuevas autoridades
+Armado de un Grafico de tiempos
+Y adjuntar cartas de Compromiso
+",,hbrunacci,0 days 01:00:00.000000000
+2017-05-02 13:45:00,2017-05-02 14:00:00,Bitson,Bitson,Gestión Interna,Retiros Abril 2017,,lcolombo,0 days 00:15:00.000000000
+2017-05-02 13:32:00,2017-05-02 14:00:00,Bitson,Bitson,Gestión Interna,,,cuberti,0 days 00:28:00.000000000
+2017-05-02 13:30:00,2017-05-02 14:30:00,Bitson,Bitson,Almuerzo,,,abrunacci,0 days 01:00:00.000000000
+2017-05-02 13:15:00,2017-05-02 17:00:00,Bitson,Cromi,Desarrollo,React a ES6,,ddebonis,0 days 03:45:00.000000000
+2017-05-02 13:00:00,2017-05-02 13:15:00,Bitson,Bitson,Almuerzo,,,ddebonis,0 days 00:15:00.000000000
+2017-05-02 11:33:00,2017-05-02 13:23:00,Bitson,Bitson,Gestión Interna,,,cuberti,0 days 01:50:00.000000000
+2017-05-02 11:30:00,2017-05-02 14:00:00,AllAccess,API AllAccess,Operativo,,,nespino,0 days 02:30:00.000000000
+2017-05-02 11:00:00,2017-05-02 14:00:00,Bitson,Manos a la obra,Completar Requerimientos,"Transcripcion a documentos del drive de los avances realizados en el fin de semana sin internet
+",,hbrunacci,0 days 03:00:00.000000000
+2017-05-02 10:15:00,2017-05-02 11:33:00,Bitson,Bitson,Gestión Interna,"Subsidios
+Correo: carta documento Imastec
+
+
+",,cuberti,0 days 01:18:00.000000000
+2017-05-02 10:00:00,2017-05-02 11:00:00,ECSA,Beagle SCA,Operativo,Agregando detalle a Display.c,,lcolombo,0 days 01:00:00.000000000
+2017-05-02 10:00:00,2017-05-02 13:30:00,Betterez,Betterez,Desarrollo,6351 / 6372,,abrunacci,0 days 03:30:00.000000000
+2017-05-02 09:00:00,2017-05-02 13:00:00,Bitson,Cromi,Desarrollo,React a ES6,,ddebonis,0 days 04:00:00.000000000
+2017-05-01 10:00:00,2017-05-01 18:00:00,Bitson,Bitson,FERIADO,,,abrunacci,0 days 08:00:00.000000000
+2017-05-01 09:00:00,2017-05-01 17:00:00,Bitson,Bitson,FERIADO,,,ddebonis,0 days 08:00:00.000000000
+2017-05-01 00:00:00,2017-05-01 06:00:00,Bitson,Bitson,Desarrollo,,,lcolombo,0 days 06:00:00.000000000
